@@ -1,6 +1,13 @@
 {
     "actionName": "Stow", 
     "allowActions": true, 
+    "animations": [
+        {
+            "animIdentifier": "default", 
+            "animName": "###Animations.default###", 
+            "path": "/common/destiny_content/animations/destiny_player_animation_monster_dance.js"
+        }
+    ], 
     "bucketTypeHash": 3054419239, 
     "classType": 3, 
     "deleteOnAction": true, 
@@ -43,7 +50,10 @@
     "rewardItemHash": 0, 
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
-    "sourceHashes": [], 
+    "sourceHashes": [
+        2155337848, 
+        460228854
+    ], 
     "sources": [
         {
             "computedStats": {}, 
@@ -54,7 +64,10 @@
             "maxQuality": 0, 
             "minLevelRequired": 0, 
             "minQuality": 0, 
-            "sourceHashes": [], 
+            "sourceHashes": [
+                2155337848, 
+                460228854
+            ], 
             "spawnIndexes": [
                 0
             ]
