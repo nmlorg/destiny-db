@@ -1,0 +1,126 @@
+{
+    "bonusDescription": "All characters earn more Glimmer when this combatant is killed with a Glimmer-drop consumable active.", 
+    "bonusName": "Glimmer Income Bonus", 
+    "bonusRank": {
+        "rank": 2, 
+        "statId": 1
+    }, 
+    "cardDescription": "Specialized for sniping, this lean, tough Vex model is fitted with improved optics and acute sensors in its horns. Like the Goblin, the Hobgoblin contains a milky radiolarian fluid. <br/><br/>\nAttacking a Hobgoblin often triggers a defensive reflex - the Hobgoblin seals itself in stasis and waits for help.", 
+    "cardId": 203130, 
+    "cardIntro": "<b>&quot;The air by my cheek twanged twice, stinking of ozone, before I saw it.&quot;</b>", 
+    "cardName": "Hobgoblin", 
+    "highResolution": {
+        "image": {
+            "rect": {
+                "height": 728, 
+                "width": 560, 
+                "x": 0, 
+                "y": 0
+            }, 
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/203130_32564cb0dc7437f00f7e1d50abf6b03a.jpg", 
+            "sheetSize": {
+                "height": 728, 
+                "width": 560, 
+                "x": 0, 
+                "y": 0
+            }
+        }, 
+        "smallImage": {
+            "rect": {
+                "height": 145, 
+                "width": 145, 
+                "x": 290, 
+                "y": 0
+            }, 
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/Vex-csprites-sm_f28adfd71b3d85563d6070648cc8305b.jpg", 
+            "sheetSize": {
+                "height": 290, 
+                "width": 1305, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    }, 
+    "normalResolution": {
+        "image": {
+            "rect": {
+                "height": 419, 
+                "width": 323, 
+                "x": 646, 
+                "y": 0
+            }, 
+            "sheetPath": "/common/destiny_content/grimoire/images/Vex-csprites_62444fbe9241888ee2f77d994e3fec75.jpg", 
+            "sheetSize": {
+                "height": 1257, 
+                "width": 1938, 
+                "x": 0, 
+                "y": 0
+            }
+        }, 
+        "smallImage": {
+            "rect": {
+                "height": 83, 
+                "width": 83, 
+                "x": 166, 
+                "y": 0
+            }, 
+            "sheetPath": "/common/destiny_content/grimoire/images/Vex-csprites-sm_0118fdf84c991200073936d35cc7ea3b.jpg", 
+            "sheetSize": {
+                "height": 83, 
+                "width": 1411, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    }, 
+    "points": 5, 
+    "rarity": 1, 
+    "statisticCollection": [
+        {
+            "accumulatorHash": 0, 
+            "cardId": 203130, 
+            "rankCollection": [
+                {
+                    "points": 5, 
+                    "rank": 1, 
+                    "threshold": 200, 
+                    "unlockFlagHash": 0
+                }, 
+                {
+                    "points": 5, 
+                    "rank": 2, 
+                    "threshold": 500, 
+                    "unlockFlagHash": 0
+                }, 
+                {
+                    "points": 5, 
+                    "rank": 3, 
+                    "threshold": 1000, 
+                    "unlockFlagHash": 0
+                }
+            ], 
+            "statName": "Kills", 
+            "statNumber": 1
+        }, 
+        {
+            "accumulatorHash": 0, 
+            "cardId": 203130, 
+            "statName": "Deaths", 
+            "statNumber": 2
+        }, 
+        {
+            "accumulatorHash": 0, 
+            "cardId": 203130, 
+            "statName": "K/D Ratio", 
+            "statNumber": 3
+        }, 
+        {
+            "accumulatorHash": 0, 
+            "cardId": 203130, 
+            "statName": "Precision Kills", 
+            "statNumber": 4
+        }
+    ], 
+    "unlockFlagHash": 0, 
+    "unlockHowToText": "Unlock this card by playing Destiny."
+}

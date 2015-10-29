@@ -1,0 +1,120 @@
+{
+    "bonusDescription": "All characters earn more Glimmer when this combatant is killed with a Glimmer-drop consumable active.", 
+    "bonusName": "Glimmer Income Bonus", 
+    "bonusRank": {
+        "rank": 2, 
+        "statId": 1
+    }, 
+    "cardDescription": "Shanks are the bulldogs of the Fallen. Small and tough enough to go where Dregs won&#39;t fit, they scout, keep watch, and patrol. Fallen Walkers deploy Shanks from internal bays for tactical support and field repairs.", 
+    "cardId": 207150, 
+    "cardIntro": "<b>&quot;Death flies on tarnished wings.&quot;</b>", 
+    "cardName": "Shank", 
+    "highResolution": {
+        "image": {
+            "rect": {
+                "height": 728, 
+                "width": 560, 
+                "x": 0, 
+                "y": 0
+            }, 
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/207150_ed4e687fb4628261ffe133a147725220.jpg", 
+            "sheetSize": {
+                "height": 728, 
+                "width": 560, 
+                "x": 0, 
+                "y": 0
+            }
+        }, 
+        "smallImage": {
+            "rect": {
+                "height": 145, 
+                "width": 145, 
+                "x": 290, 
+                "y": 0
+            }, 
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/Fallen-csprites-sm_eb898de96de2b55208a200b9a159bf5f.jpg", 
+            "sheetSize": {
+                "height": 290, 
+                "width": 1160, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    }, 
+    "normalResolution": {
+        "image": {
+            "rect": {
+                "height": 419, 
+                "width": 323, 
+                "x": 646, 
+                "y": 0
+            }, 
+            "sheetPath": "/common/destiny_content/grimoire/images/Fallen-csprites_1ad9b13b3a2844f73a2ee4a792ec3cf8.jpg", 
+            "sheetSize": {
+                "height": 1257, 
+                "width": 1615, 
+                "x": 0, 
+                "y": 0
+            }
+        }, 
+        "smallImage": {
+            "rect": {
+                "height": 83, 
+                "width": 83, 
+                "x": 166, 
+                "y": 0
+            }, 
+            "sheetPath": "/common/destiny_content/grimoire/images/Fallen-csprites-sm_f3e8caf06ea0a317ea2fa0e5715d04f6.jpg", 
+            "sheetSize": {
+                "height": 83, 
+                "width": 1245, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    }, 
+    "points": 5, 
+    "rarity": 1, 
+    "statisticCollection": [
+        {
+            "accumulatorHash": 0, 
+            "cardId": 207150, 
+            "rankCollection": [
+                {
+                    "points": 5, 
+                    "rank": 1, 
+                    "threshold": 150, 
+                    "unlockFlagHash": 0
+                }, 
+                {
+                    "points": 5, 
+                    "rank": 2, 
+                    "threshold": 375, 
+                    "unlockFlagHash": 0
+                }, 
+                {
+                    "points": 5, 
+                    "rank": 3, 
+                    "threshold": 750, 
+                    "unlockFlagHash": 0
+                }
+            ], 
+            "statName": "Kills", 
+            "statNumber": 1
+        }, 
+        {
+            "accumulatorHash": 0, 
+            "cardId": 207150, 
+            "statName": "Deaths", 
+            "statNumber": 2
+        }, 
+        {
+            "accumulatorHash": 0, 
+            "cardId": 207150, 
+            "statName": "K/D Ratio", 
+            "statNumber": 3
+        }
+    ], 
+    "unlockFlagHash": 0, 
+    "unlockHowToText": "Unlock this card by playing Destiny."
+}

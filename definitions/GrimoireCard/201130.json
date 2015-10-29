@@ -1,0 +1,126 @@
+{
+    "bonusDescription": "All characters earn more Glimmer when this combatant is killed with a Glimmer-drop consumable active.", 
+    "bonusName": "Glimmer Income Bonus", 
+    "bonusRank": {
+        "rank": 2, 
+        "statId": 1
+    }, 
+    "cardDescription": "Feral and fearless, Thrall are a plague upon the battlefield. <br/>\nTheir swarming, twisted frames are driven by unfettered rage. Of all the terrors born of the Hive&#39;s vile will, they are the basest.", 
+    "cardId": 201130, 
+    "cardIntro": "<b>&quot;The shadows have claws.&quot;</b>", 
+    "cardName": "Thrall", 
+    "highResolution": {
+        "image": {
+            "rect": {
+                "height": 728, 
+                "width": 560, 
+                "x": 0, 
+                "y": 0
+            }, 
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/201130_989e689eafffbe5ff42ce68c41b16694.jpg", 
+            "sheetSize": {
+                "height": 728, 
+                "width": 560, 
+                "x": 0, 
+                "y": 0
+            }
+        }, 
+        "smallImage": {
+            "rect": {
+                "height": 145, 
+                "width": 145, 
+                "x": 145, 
+                "y": 0
+            }, 
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/Hive-csprites-sm_4d3662cd1df76fc758f5375deba5c270.jpg", 
+            "sheetSize": {
+                "height": 145, 
+                "width": 2030, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    }, 
+    "normalResolution": {
+        "image": {
+            "rect": {
+                "height": 419, 
+                "width": 323, 
+                "x": 323, 
+                "y": 0
+            }, 
+            "sheetPath": "/common/destiny_content/grimoire/images/Hive-csprites_dcc3391f339810c7972b205610feb3d7.jpg", 
+            "sheetSize": {
+                "height": 1257, 
+                "width": 1615, 
+                "x": 0, 
+                "y": 0
+            }
+        }, 
+        "smallImage": {
+            "rect": {
+                "height": 83, 
+                "width": 83, 
+                "x": 83, 
+                "y": 0
+            }, 
+            "sheetPath": "/common/destiny_content/grimoire/images/Hive-csprites-sm_ace412675f71f7994e74594586088060.jpg", 
+            "sheetSize": {
+                "height": 83, 
+                "width": 1162, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    }, 
+    "points": 5, 
+    "rarity": 1, 
+    "statisticCollection": [
+        {
+            "accumulatorHash": 0, 
+            "cardId": 201130, 
+            "rankCollection": [
+                {
+                    "points": 5, 
+                    "rank": 1, 
+                    "threshold": 300, 
+                    "unlockFlagHash": 0
+                }, 
+                {
+                    "points": 5, 
+                    "rank": 2, 
+                    "threshold": 750, 
+                    "unlockFlagHash": 0
+                }, 
+                {
+                    "points": 5, 
+                    "rank": 3, 
+                    "threshold": 1500, 
+                    "unlockFlagHash": 0
+                }
+            ], 
+            "statName": "Kills", 
+            "statNumber": 1
+        }, 
+        {
+            "accumulatorHash": 0, 
+            "cardId": 201130, 
+            "statName": "Deaths", 
+            "statNumber": 2
+        }, 
+        {
+            "accumulatorHash": 0, 
+            "cardId": 201130, 
+            "statName": "K/D Ratio", 
+            "statNumber": 3
+        }, 
+        {
+            "accumulatorHash": 0, 
+            "cardId": 201130, 
+            "statName": "Precision Kills", 
+            "statNumber": 4
+        }
+    ], 
+    "unlockFlagHash": 0, 
+    "unlockHowToText": "Unlock this card by playing Destiny."
+}

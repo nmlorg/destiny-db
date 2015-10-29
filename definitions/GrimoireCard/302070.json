@@ -1,0 +1,119 @@
+{
+    "bonusDescription": "All characters will earn weapon experience faster for weapons of this type.", 
+    "bonusName": "Weapon XP Bonus", 
+    "bonusRank": {
+        "rank": 2, 
+        "statId": 1
+    }, 
+    "cardDescription": "The Pulse Rifle is designed for precision fire and tight shot grouping. Three-round bursts provide added punch with reduced recoil compared to fully automatic weapons. Skilled shooters often walk the burst from the target&#39;s center of mass onto the head.", 
+    "cardId": 302070, 
+    "cardName": "Pulse Rifles", 
+    "highResolution": {
+        "image": {
+            "rect": {
+                "height": 728, 
+                "width": 560, 
+                "x": 0, 
+                "y": 0
+            }, 
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/302070_318e0ff005a6aa573a6c6368bf2f4545.jpg", 
+            "sheetSize": {
+                "height": 728, 
+                "width": 560, 
+                "x": 0, 
+                "y": 0
+            }
+        }, 
+        "smallImage": {
+            "rect": {
+                "height": 145, 
+                "width": 145, 
+                "x": 435, 
+                "y": 145
+            }, 
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/PrimaryWeapons-csprites-sm_7ba312e28e2d0072a8f2bcf9bc7d4cd9.jpg", 
+            "sheetSize": {
+                "height": 435, 
+                "width": 1450, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    }, 
+    "normalResolution": {
+        "image": {
+            "rect": {
+                "height": 419, 
+                "width": 323, 
+                "x": 323, 
+                "y": 838
+            }, 
+            "sheetPath": "/common/destiny_content/grimoire/images/PrimaryWeapons-csprites_96b39b7ec685c487688cb561f1abadd4.jpg", 
+            "sheetSize": {
+                "height": 2095, 
+                "width": 1938, 
+                "x": 0, 
+                "y": 0
+            }
+        }, 
+        "smallImage": {
+            "rect": {
+                "height": 83, 
+                "width": 83, 
+                "x": 1079, 
+                "y": 0
+            }, 
+            "sheetPath": "/common/destiny_content/grimoire/images/PrimaryWeapons-csprites-sm_074eb65a0e56a21235e1abbf9237f27d.jpg", 
+            "sheetSize": {
+                "height": 166, 
+                "width": 1245, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    }, 
+    "points": 5, 
+    "rarity": 1, 
+    "statisticCollection": [
+        {
+            "accumulatorHash": 0, 
+            "cardId": 302070, 
+            "rankCollection": [
+                {
+                    "points": 5, 
+                    "rank": 1, 
+                    "threshold": 2500, 
+                    "unlockFlagHash": 0
+                }, 
+                {
+                    "points": 5, 
+                    "rank": 2, 
+                    "threshold": 5000, 
+                    "unlockFlagHash": 0
+                }, 
+                {
+                    "points": 5, 
+                    "rank": 3, 
+                    "threshold": 10000, 
+                    "unlockFlagHash": 0
+                }
+            ], 
+            "statName": "Kills", 
+            "statNumber": 1
+        }, 
+        {
+            "accumulatorHash": 0, 
+            "cardId": 302070, 
+            "statName": "Precision Kills", 
+            "statNumber": 2
+        }, 
+        {
+            "accumulatorHash": 0, 
+            "cardId": 302070, 
+            "statName": "Precision Kill Ratio", 
+            "statNumber": 3
+        }
+    ], 
+    "unlockFlagHash": 0, 
+    "unlockHowToText": "Unlock this card by playing Destiny."
+}

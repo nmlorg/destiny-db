@@ -1,0 +1,126 @@
+{
+    "bonusDescription": "All characters earn more Glimmer when this combatant is killed with a Glimmer-drop consumable active.", 
+    "bonusName": "Glimmer Income Bonus", 
+    "bonusRank": {
+        "rank": 2, 
+        "statId": 1
+    }, 
+    "cardDescription": "It would be a mistake to view the Hive&#39;s Acolytes as foot soldiers, because the Hive is not merely an army, it is a dark force rising. It is belief and horror, and its Acolytes are its instruments, hungry to commit the atrocities that will drive their own ascension.", 
+    "cardId": 201090, 
+    "cardIntro": "<b>&quot;Belief is a powerful weapon.&quot;</b>", 
+    "cardName": "Acolyte", 
+    "highResolution": {
+        "image": {
+            "rect": {
+                "height": 728, 
+                "width": 560, 
+                "x": 0, 
+                "y": 0
+            }, 
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/201090_21fe4750d87be9abb32648508f8b97a2.jpg", 
+            "sheetSize": {
+                "height": 728, 
+                "width": 560, 
+                "x": 0, 
+                "y": 0
+            }
+        }, 
+        "smallImage": {
+            "rect": {
+                "height": 145, 
+                "width": 145, 
+                "x": 290, 
+                "y": 0
+            }, 
+            "sheetPath": "/common/destiny_content/grimoire/hr_images/Hive-csprites-sm_4d3662cd1df76fc758f5375deba5c270.jpg", 
+            "sheetSize": {
+                "height": 145, 
+                "width": 2030, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    }, 
+    "normalResolution": {
+        "image": {
+            "rect": {
+                "height": 419, 
+                "width": 323, 
+                "x": 646, 
+                "y": 0
+            }, 
+            "sheetPath": "/common/destiny_content/grimoire/images/Hive-csprites_dcc3391f339810c7972b205610feb3d7.jpg", 
+            "sheetSize": {
+                "height": 1257, 
+                "width": 1615, 
+                "x": 0, 
+                "y": 0
+            }
+        }, 
+        "smallImage": {
+            "rect": {
+                "height": 83, 
+                "width": 83, 
+                "x": 166, 
+                "y": 0
+            }, 
+            "sheetPath": "/common/destiny_content/grimoire/images/Hive-csprites-sm_ace412675f71f7994e74594586088060.jpg", 
+            "sheetSize": {
+                "height": 83, 
+                "width": 1162, 
+                "x": 0, 
+                "y": 0
+            }
+        }
+    }, 
+    "points": 5, 
+    "rarity": 1, 
+    "statisticCollection": [
+        {
+            "accumulatorHash": 0, 
+            "cardId": 201090, 
+            "rankCollection": [
+                {
+                    "points": 5, 
+                    "rank": 1, 
+                    "threshold": 500, 
+                    "unlockFlagHash": 0
+                }, 
+                {
+                    "points": 5, 
+                    "rank": 2, 
+                    "threshold": 1250, 
+                    "unlockFlagHash": 0
+                }, 
+                {
+                    "points": 5, 
+                    "rank": 3, 
+                    "threshold": 2500, 
+                    "unlockFlagHash": 0
+                }
+            ], 
+            "statName": "Kills", 
+            "statNumber": 1
+        }, 
+        {
+            "accumulatorHash": 0, 
+            "cardId": 201090, 
+            "statName": "Deaths", 
+            "statNumber": 2
+        }, 
+        {
+            "accumulatorHash": 0, 
+            "cardId": 201090, 
+            "statName": "K/D Ratio", 
+            "statNumber": 3
+        }, 
+        {
+            "accumulatorHash": 0, 
+            "cardId": 201090, 
+            "statName": "Precision Kills", 
+            "statNumber": 4
+        }
+    ], 
+    "unlockFlagHash": 0, 
+    "unlockHowToText": "Unlock this card by playing Destiny."
+}

@@ -1,0 +1,245 @@
+{
+    "actionName": "Dismantle", 
+    "bucketTypeHash": 3551918588, 
+    "classType": 0, 
+    "deleteOnAction": true, 
+    "equippable": true, 
+    "equippingBlock": {
+        "customDyeExpression": {
+            "steps": [
+                {
+                    "flagHash": 1680320212, 
+                    "stepOperator": 1, 
+                    "value": 2298, 
+                    "valueHash": 0
+                }
+            ]
+        }, 
+        "customDyes": [], 
+        "defaultDyes": [
+            {
+                "channelHash": 662199250, 
+                "dyeHash": 563723737
+            }, 
+            {
+                "channelHash": 1367384683, 
+                "dyeHash": 2365944992
+            }, 
+            {
+                "channelHash": 218592586, 
+                "dyeHash": 1102842533
+            }
+        ], 
+        "gearArtArrangementIndex": 213, 
+        "lockedDyes": [], 
+        "weaponPatternHash": 0, 
+        "weaponSandboxPatternIndex": -1
+    }, 
+    "exclusive": 0, 
+    "hasAction": true, 
+    "hasGeometry": true, 
+    "icon": "/common/destiny_content/icons/b5333a2f483610e692be395e641e2073.jpg", 
+    "instanced": true, 
+    "itemCategoryHashes": [
+        20, 
+        22, 
+        46
+    ], 
+    "itemDescription": "The gauntlet, vambrace, and joints of a Titan's arms must withstand colossal forces.", 
+    "itemHash": 2888350171, 
+    "itemIndex": 0, 
+    "itemLevels": [
+        0
+    ], 
+    "itemName": "Gatewatch Type 4", 
+    "itemSubType": 0, 
+    "itemType": 2, 
+    "itemTypeName": "Gauntlets", 
+    "maxStackSize": 1, 
+    "needsFullCompletion": false, 
+    "nonTransferrable": false, 
+    "objectiveHashes": [], 
+    "perkHashes": [], 
+    "primaryBaseStatHash": 3897883278, 
+    "qualityLevel": 5, 
+    "questlineItemHash": 0, 
+    "rewardItemHash": 0, 
+    "secondaryIcon": "/img/misc/missing_icon.png", 
+    "setItemHashes": [], 
+    "sourceHashes": [
+        541934873, 
+        1797462710, 
+        1882189853
+    ], 
+    "sources": [
+        {
+            "computedStats": {
+                "2391494160": {
+                    "maximum": 3, 
+                    "minimum": 3, 
+                    "statHash": 2391494160, 
+                    "value": 3
+                }, 
+                "3897883278": {
+                    "maximum": 32, 
+                    "minimum": 32, 
+                    "statHash": 3897883278, 
+                    "value": 32
+                }
+            }, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 6, 
+            "maxLevelRequired": 6, 
+            "maxQuality": 5, 
+            "minLevelRequired": 6, 
+            "minQuality": 5, 
+            "sourceHashes": [
+                541934873, 
+                1797462710
+            ], 
+            "spawnIndexes": [
+                2
+            ]
+        }, 
+        {
+            "computedStats": {
+                "2391494160": {
+                    "maximum": 2, 
+                    "minimum": 2, 
+                    "statHash": 2391494160, 
+                    "value": 2
+                }, 
+                "3897883278": {
+                    "maximum": 27, 
+                    "minimum": 27, 
+                    "statHash": 3897883278, 
+                    "value": 27
+                }
+            }, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 5, 
+            "maxLevelRequired": 5, 
+            "maxQuality": 5, 
+            "minLevelRequired": 5, 
+            "minQuality": 5, 
+            "sourceHashes": [
+                541934873, 
+                1797462710
+            ], 
+            "spawnIndexes": [
+                1
+            ]
+        }, 
+        {
+            "computedStats": {
+                "2391494160": {
+                    "maximum": 2, 
+                    "minimum": 2, 
+                    "statHash": 2391494160, 
+                    "value": 2
+                }, 
+                "3897883278": {
+                    "maximum": 22, 
+                    "minimum": 22, 
+                    "statHash": 3897883278, 
+                    "value": 22
+                }
+            }, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 4, 
+            "maxLevelRequired": 4, 
+            "maxQuality": 5, 
+            "minLevelRequired": 4, 
+            "minQuality": 5, 
+            "sourceHashes": [
+                541934873, 
+                1882189853, 
+                1797462710
+            ], 
+            "spawnIndexes": [
+                0
+            ]
+        }, 
+        {
+            "computedStats": {
+                "2391494160": {
+                    "maximum": 1, 
+                    "minimum": 1, 
+                    "statHash": 2391494160, 
+                    "value": 1
+                }, 
+                "3897883278": {
+                    "maximum": 17, 
+                    "minimum": 17, 
+                    "statHash": 3897883278, 
+                    "value": 17
+                }
+            }, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 3, 
+            "maxLevelRequired": 3, 
+            "maxQuality": 5, 
+            "minLevelRequired": 3, 
+            "minQuality": 5, 
+            "sourceHashes": [
+                1882189853
+            ], 
+            "spawnIndexes": [
+                4
+            ]
+        }, 
+        {
+            "computedStats": {
+                "2391494160": {
+                    "maximum": 1, 
+                    "minimum": 1, 
+                    "statHash": 2391494160, 
+                    "value": 1
+                }, 
+                "3897883278": {
+                    "maximum": 12, 
+                    "minimum": 12, 
+                    "statHash": 3897883278, 
+                    "value": 12
+                }
+            }, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 2, 
+            "maxLevelRequired": 2, 
+            "maxQuality": 5, 
+            "minLevelRequired": 2, 
+            "minQuality": 5, 
+            "sourceHashes": [
+                1882189853
+            ], 
+            "spawnIndexes": [
+                3
+            ]
+        }
+    ], 
+    "specialItemType": 0, 
+    "statGroupHash": 548191128, 
+    "stats": {
+        "2391494160": {
+            "maximum": 3, 
+            "minimum": 3, 
+            "statHash": 2391494160, 
+            "value": 3
+        }, 
+        "3897883278": {
+            "maximum": 32, 
+            "minimum": 32, 
+            "statHash": 3897883278, 
+            "value": 32
+        }
+    }, 
+    "talentGridHash": 1938048574, 
+    "tierType": 2, 
+    "tierTypeName": "Common", 
+    "values": {}
+}

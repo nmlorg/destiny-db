@@ -1,0 +1,125 @@
+{
+    "actionName": "Dismantle", 
+    "bucketTypeHash": 3448274439, 
+    "classType": 0, 
+    "deleteOnAction": true, 
+    "equippable": true, 
+    "equippingBlock": {
+        "customDyeExpression": {
+            "steps": [
+                {
+                    "flagHash": 1680320212, 
+                    "stepOperator": 1, 
+                    "value": 2298, 
+                    "valueHash": 0
+                }
+            ]
+        }, 
+        "customDyes": [], 
+        "defaultDyes": [
+            {
+                "channelHash": 662199250, 
+                "dyeHash": 261144884
+            }, 
+            {
+                "channelHash": 1367384683, 
+                "dyeHash": 504545369
+            }, 
+            {
+                "channelHash": 218592586, 
+                "dyeHash": 4233166346
+            }
+        ], 
+        "gearArtArrangementIndex": 205, 
+        "lockedDyes": [], 
+        "weaponPatternHash": 0, 
+        "weaponSandboxPatternIndex": -1
+    }, 
+    "exclusive": 0, 
+    "hasAction": true, 
+    "hasGeometry": true, 
+    "icon": "/common/destiny_content/icons/c8b92301da131fb7bd301c3cecce4615.jpg", 
+    "instanced": true, 
+    "itemCategoryHashes": [
+        20, 
+        22, 
+        45
+    ], 
+    "itemDescription": "Titan helmets are designed to revert to simple translucency in the event of an optics system failure.", 
+    "itemHash": 252747642, 
+    "itemIndex": 0, 
+    "itemLevels": [
+        0
+    ], 
+    "itemName": "Scoutmail Type 3", 
+    "itemSubType": 0, 
+    "itemType": 2, 
+    "itemTypeName": "Helmet", 
+    "maxStackSize": 1, 
+    "needsFullCompletion": false, 
+    "nonTransferrable": false, 
+    "objectiveHashes": [], 
+    "perkHashes": [], 
+    "primaryBaseStatHash": 3897883278, 
+    "qualityLevel": 5, 
+    "questlineItemHash": 0, 
+    "rewardItemHash": 0, 
+    "secondaryIcon": "/img/misc/missing_icon.png", 
+    "setItemHashes": [], 
+    "sourceHashes": [
+        541934873, 
+        1797462710
+    ], 
+    "sources": [
+        {
+            "computedStats": {
+                "2391494160": {
+                    "maximum": 1, 
+                    "minimum": 1, 
+                    "statHash": 2391494160, 
+                    "value": 1
+                }, 
+                "3897883278": {
+                    "maximum": 17, 
+                    "minimum": 17, 
+                    "statHash": 3897883278, 
+                    "value": 17
+                }
+            }, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 3, 
+            "maxLevelRequired": 3, 
+            "maxQuality": 5, 
+            "minLevelRequired": 3, 
+            "minQuality": 5, 
+            "sourceHashes": [
+                541934873, 
+                1797462710
+            ], 
+            "spawnIndexes": [
+                0
+            ]
+        }
+    ], 
+    "specialItemType": 0, 
+    "statGroupHash": 1116828683, 
+    "stats": {
+        "2391494160": {
+            "maximum": 1, 
+            "minimum": 1, 
+            "statHash": 2391494160, 
+            "value": 1
+        }, 
+        "3897883278": {
+            "maximum": 17, 
+            "minimum": 17, 
+            "statHash": 3897883278, 
+            "value": 17
+        }
+    }, 
+    "talentGridHash": 2864534455, 
+    "tierType": 2, 
+    "tierTypeName": "Common", 
+    "values": {}
+}

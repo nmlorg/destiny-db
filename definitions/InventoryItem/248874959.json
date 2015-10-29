@@ -1,0 +1,126 @@
+{
+    "actionName": "Dismantle", 
+    "bucketTypeHash": 14239492, 
+    "classType": 0, 
+    "deleteOnAction": true, 
+    "equippable": true, 
+    "equippingBlock": {
+        "customDyeExpression": {
+            "steps": [
+                {
+                    "flagHash": 1680320212, 
+                    "stepOperator": 1, 
+                    "value": 2298, 
+                    "valueHash": 0
+                }
+            ]
+        }, 
+        "customDyes": [], 
+        "defaultDyes": [
+            {
+                "channelHash": 662199250, 
+                "dyeHash": 2549587629
+            }, 
+            {
+                "channelHash": 1367384683, 
+                "dyeHash": 1494434220
+            }, 
+            {
+                "channelHash": 218592586, 
+                "dyeHash": 2209987377
+            }
+        ], 
+        "gearArtArrangementIndex": 197, 
+        "lockedDyes": [], 
+        "weaponPatternHash": 0, 
+        "weaponSandboxPatternIndex": -1
+    }, 
+    "exclusive": 0, 
+    "hasAction": true, 
+    "hasGeometry": true, 
+    "icon": "/common/destiny_content/icons/06016166901585112eecee6bdc0ab78e.jpg", 
+    "instanced": true, 
+    "itemCategoryHashes": [
+        20, 
+        22, 
+        47
+    ], 
+    "itemDescription": "This lightweight scout armor is durable and easily maintained.", 
+    "itemHash": 248874959, 
+    "itemIndex": 0, 
+    "itemLevels": [
+        0
+    ], 
+    "itemName": "Scoutmail", 
+    "itemSubType": 0, 
+    "itemType": 2, 
+    "itemTypeName": "Chest Armor", 
+    "maxStackSize": 1, 
+    "needsFullCompletion": false, 
+    "nonTransferrable": false, 
+    "objectiveHashes": [], 
+    "perkHashes": [], 
+    "primaryBaseStatHash": 3897883278, 
+    "qualityLevel": 5, 
+    "questlineItemHash": 0, 
+    "rewardItemHash": 0, 
+    "secondaryIcon": "/img/misc/missing_icon.png", 
+    "setItemHashes": [], 
+    "sourceHashes": [
+        541934873, 
+        1797462710
+    ], 
+    "sources": [
+        {
+            "computedStats": {
+                "2391494160": {
+                    "maximum": 1, 
+                    "minimum": 1, 
+                    "statHash": 2391494160, 
+                    "value": 1
+                }, 
+                "3897883278": {
+                    "maximum": 17, 
+                    "minimum": 17, 
+                    "statHash": 3897883278, 
+                    "value": 17
+                }
+            }, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 3, 
+            "maxLevelRequired": 3, 
+            "maxQuality": 5, 
+            "minLevelRequired": 1, 
+            "minQuality": 5, 
+            "sourceHashes": [
+                541934873, 
+                1797462710
+            ], 
+            "spawnIndexes": [
+                0, 
+                1
+            ]
+        }
+    ], 
+    "specialItemType": 0, 
+    "statGroupHash": 363072480, 
+    "stats": {
+        "2391494160": {
+            "maximum": 1, 
+            "minimum": 1, 
+            "statHash": 2391494160, 
+            "value": 1
+        }, 
+        "3897883278": {
+            "maximum": 17, 
+            "minimum": 17, 
+            "statHash": 3897883278, 
+            "value": 17
+        }
+    }, 
+    "talentGridHash": 4060377586, 
+    "tierType": 2, 
+    "tierTypeName": "Common", 
+    "values": {}
+}

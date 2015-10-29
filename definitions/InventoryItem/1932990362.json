@@ -1,0 +1,728 @@
+{
+    "actionName": "Dismantle", 
+    "bucketTypeHash": 1498876634, 
+    "classType": 3, 
+    "deleteOnAction": true, 
+    "equippable": true, 
+    "equippingBlock": {
+        "customDyeExpression": {
+            "steps": []
+        }, 
+        "customDyes": [], 
+        "defaultDyes": [], 
+        "gearArtArrangementIndex": 2224, 
+        "lockedDyes": [
+            {
+                "channelHash": 1667433279, 
+                "dyeHash": 3405750372
+            }, 
+            {
+                "channelHash": 1667433278, 
+                "dyeHash": 2642259659
+            }
+        ], 
+        "weaponPatternHash": 4020227280, 
+        "weaponSandboxPatternIndex": 9
+    }, 
+    "exclusive": 0, 
+    "hasAction": true, 
+    "hasGeometry": true, 
+    "icon": "/common/destiny_content/icons/20968e3d9dd7a15ad5f4466f4a031ed8.jpg", 
+    "instanced": true, 
+    "itemCategoryHashes": [
+        1, 
+        2, 
+        8
+    ], 
+    "itemDescription": "Semi-automatic rifle. This is a multirole variant with well-balanced capabilities.", 
+    "itemHash": 1932990362, 
+    "itemIndex": 0, 
+    "itemLevels": [
+        0
+    ], 
+    "itemName": "Trax Callum II-A", 
+    "itemSubType": 14, 
+    "itemType": 3, 
+    "itemTypeName": "Scout Rifle", 
+    "maxStackSize": 1, 
+    "needsFullCompletion": false, 
+    "nonTransferrable": false, 
+    "objectiveHashes": [], 
+    "perkHashes": [
+        1922690640
+    ], 
+    "primaryBaseStatHash": 368428387, 
+    "qualityLevel": 5, 
+    "questlineItemHash": 0, 
+    "rewardItemHash": 0, 
+    "secondaryIcon": "/img/misc/missing_icon.png", 
+    "setItemHashes": [], 
+    "sourceHashes": [
+        541934873, 
+        1797462710, 
+        299200664, 
+        1882189853
+    ], 
+    "sources": [
+        {
+            "computedStats": {
+                "1240592695": {
+                    "maximum": 60, 
+                    "minimum": 60, 
+                    "statHash": 1240592695, 
+                    "value": 60
+                }, 
+                "1345609583": {
+                    "maximum": 36, 
+                    "minimum": 36, 
+                    "statHash": 1345609583, 
+                    "value": 36
+                }, 
+                "155624089": {
+                    "maximum": 34, 
+                    "minimum": 34, 
+                    "statHash": 155624089, 
+                    "value": 34
+                }, 
+                "1931675084": {
+                    "maximum": 39, 
+                    "minimum": 39, 
+                    "statHash": 1931675084, 
+                    "value": 39
+                }, 
+                "2391494160": {
+                    "maximum": 3, 
+                    "minimum": 3, 
+                    "statHash": 2391494160, 
+                    "value": 3
+                }, 
+                "2715839340": {
+                    "maximum": 54, 
+                    "minimum": 54, 
+                    "statHash": 2715839340, 
+                    "value": 54
+                }, 
+                "3555269338": {
+                    "maximum": 20, 
+                    "minimum": 20, 
+                    "statHash": 3555269338, 
+                    "value": 20
+                }, 
+                "368428387": {
+                    "maximum": 32, 
+                    "minimum": 32, 
+                    "statHash": 368428387, 
+                    "value": 32
+                }, 
+                "3871231066": {
+                    "maximum": 14, 
+                    "minimum": 14, 
+                    "statHash": 3871231066, 
+                    "value": 14
+                }, 
+                "4043523819": {
+                    "maximum": 48, 
+                    "minimum": 48, 
+                    "statHash": 4043523819, 
+                    "value": 48
+                }, 
+                "4188031367": {
+                    "maximum": 57, 
+                    "minimum": 57, 
+                    "statHash": 4188031367, 
+                    "value": 57
+                }, 
+                "4284893193": {
+                    "maximum": 37, 
+                    "minimum": 37, 
+                    "statHash": 4284893193, 
+                    "value": 37
+                }, 
+                "943549884": {
+                    "maximum": 40, 
+                    "minimum": 40, 
+                    "statHash": 943549884, 
+                    "value": 40
+                }
+            }, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 6, 
+            "maxLevelRequired": 6, 
+            "maxQuality": 5, 
+            "minLevelRequired": 6, 
+            "minQuality": 5, 
+            "sourceHashes": [
+                541934873, 
+                1797462710
+            ], 
+            "spawnIndexes": [
+                2
+            ]
+        }, 
+        {
+            "computedStats": {
+                "1240592695": {
+                    "maximum": 60, 
+                    "minimum": 60, 
+                    "statHash": 1240592695, 
+                    "value": 60
+                }, 
+                "1345609583": {
+                    "maximum": 36, 
+                    "minimum": 36, 
+                    "statHash": 1345609583, 
+                    "value": 36
+                }, 
+                "155624089": {
+                    "maximum": 34, 
+                    "minimum": 34, 
+                    "statHash": 155624089, 
+                    "value": 34
+                }, 
+                "1931675084": {
+                    "maximum": 39, 
+                    "minimum": 39, 
+                    "statHash": 1931675084, 
+                    "value": 39
+                }, 
+                "2391494160": {
+                    "maximum": 3, 
+                    "minimum": 3, 
+                    "statHash": 2391494160, 
+                    "value": 3
+                }, 
+                "2715839340": {
+                    "maximum": 54, 
+                    "minimum": 54, 
+                    "statHash": 2715839340, 
+                    "value": 54
+                }, 
+                "3555269338": {
+                    "maximum": 20, 
+                    "minimum": 20, 
+                    "statHash": 3555269338, 
+                    "value": 20
+                }, 
+                "368428387": {
+                    "maximum": 27, 
+                    "minimum": 27, 
+                    "statHash": 368428387, 
+                    "value": 27
+                }, 
+                "3871231066": {
+                    "maximum": 14, 
+                    "minimum": 14, 
+                    "statHash": 3871231066, 
+                    "value": 14
+                }, 
+                "4043523819": {
+                    "maximum": 48, 
+                    "minimum": 48, 
+                    "statHash": 4043523819, 
+                    "value": 48
+                }, 
+                "4188031367": {
+                    "maximum": 57, 
+                    "minimum": 57, 
+                    "statHash": 4188031367, 
+                    "value": 57
+                }, 
+                "4284893193": {
+                    "maximum": 37, 
+                    "minimum": 37, 
+                    "statHash": 4284893193, 
+                    "value": 37
+                }, 
+                "943549884": {
+                    "maximum": 40, 
+                    "minimum": 40, 
+                    "statHash": 943549884, 
+                    "value": 40
+                }
+            }, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 5, 
+            "maxLevelRequired": 5, 
+            "maxQuality": 5, 
+            "minLevelRequired": 5, 
+            "minQuality": 5, 
+            "sourceHashes": [
+                541934873, 
+                1797462710
+            ], 
+            "spawnIndexes": [
+                1
+            ]
+        }, 
+        {
+            "computedStats": {
+                "1240592695": {
+                    "maximum": 60, 
+                    "minimum": 60, 
+                    "statHash": 1240592695, 
+                    "value": 60
+                }, 
+                "1345609583": {
+                    "maximum": 36, 
+                    "minimum": 36, 
+                    "statHash": 1345609583, 
+                    "value": 36
+                }, 
+                "155624089": {
+                    "maximum": 34, 
+                    "minimum": 34, 
+                    "statHash": 155624089, 
+                    "value": 34
+                }, 
+                "1931675084": {
+                    "maximum": 39, 
+                    "minimum": 39, 
+                    "statHash": 1931675084, 
+                    "value": 39
+                }, 
+                "2391494160": {
+                    "maximum": 2, 
+                    "minimum": 2, 
+                    "statHash": 2391494160, 
+                    "value": 2
+                }, 
+                "2715839340": {
+                    "maximum": 54, 
+                    "minimum": 54, 
+                    "statHash": 2715839340, 
+                    "value": 54
+                }, 
+                "3555269338": {
+                    "maximum": 20, 
+                    "minimum": 20, 
+                    "statHash": 3555269338, 
+                    "value": 20
+                }, 
+                "368428387": {
+                    "maximum": 22, 
+                    "minimum": 22, 
+                    "statHash": 368428387, 
+                    "value": 22
+                }, 
+                "3871231066": {
+                    "maximum": 14, 
+                    "minimum": 14, 
+                    "statHash": 3871231066, 
+                    "value": 14
+                }, 
+                "4043523819": {
+                    "maximum": 48, 
+                    "minimum": 48, 
+                    "statHash": 4043523819, 
+                    "value": 48
+                }, 
+                "4188031367": {
+                    "maximum": 57, 
+                    "minimum": 57, 
+                    "statHash": 4188031367, 
+                    "value": 57
+                }, 
+                "4284893193": {
+                    "maximum": 37, 
+                    "minimum": 37, 
+                    "statHash": 4284893193, 
+                    "value": 37
+                }, 
+                "943549884": {
+                    "maximum": 40, 
+                    "minimum": 40, 
+                    "statHash": 943549884, 
+                    "value": 40
+                }
+            }, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 4, 
+            "maxLevelRequired": 4, 
+            "maxQuality": 5, 
+            "minLevelRequired": 4, 
+            "minQuality": 5, 
+            "sourceHashes": [
+                541934873, 
+                1797462710, 
+                299200664
+            ], 
+            "spawnIndexes": [
+                0
+            ]
+        }, 
+        {
+            "computedStats": {
+                "1240592695": {
+                    "maximum": 60, 
+                    "minimum": 60, 
+                    "statHash": 1240592695, 
+                    "value": 60
+                }, 
+                "1345609583": {
+                    "maximum": 36, 
+                    "minimum": 36, 
+                    "statHash": 1345609583, 
+                    "value": 36
+                }, 
+                "155624089": {
+                    "maximum": 34, 
+                    "minimum": 34, 
+                    "statHash": 155624089, 
+                    "value": 34
+                }, 
+                "1931675084": {
+                    "maximum": 39, 
+                    "minimum": 39, 
+                    "statHash": 1931675084, 
+                    "value": 39
+                }, 
+                "2391494160": {
+                    "maximum": 2, 
+                    "minimum": 2, 
+                    "statHash": 2391494160, 
+                    "value": 2
+                }, 
+                "2715839340": {
+                    "maximum": 54, 
+                    "minimum": 54, 
+                    "statHash": 2715839340, 
+                    "value": 54
+                }, 
+                "3555269338": {
+                    "maximum": 20, 
+                    "minimum": 20, 
+                    "statHash": 3555269338, 
+                    "value": 20
+                }, 
+                "368428387": {
+                    "maximum": 17, 
+                    "minimum": 17, 
+                    "statHash": 368428387, 
+                    "value": 17
+                }, 
+                "3871231066": {
+                    "maximum": 14, 
+                    "minimum": 14, 
+                    "statHash": 3871231066, 
+                    "value": 14
+                }, 
+                "4043523819": {
+                    "maximum": 48, 
+                    "minimum": 48, 
+                    "statHash": 4043523819, 
+                    "value": 48
+                }, 
+                "4188031367": {
+                    "maximum": 57, 
+                    "minimum": 57, 
+                    "statHash": 4188031367, 
+                    "value": 57
+                }, 
+                "4284893193": {
+                    "maximum": 37, 
+                    "minimum": 37, 
+                    "statHash": 4284893193, 
+                    "value": 37
+                }, 
+                "943549884": {
+                    "maximum": 40, 
+                    "minimum": 40, 
+                    "statHash": 943549884, 
+                    "value": 40
+                }
+            }, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 3, 
+            "maxLevelRequired": 3, 
+            "maxQuality": 5, 
+            "minLevelRequired": 3, 
+            "minQuality": 5, 
+            "sourceHashes": [
+                1882189853
+            ], 
+            "spawnIndexes": [
+                4
+            ]
+        }, 
+        {
+            "computedStats": {
+                "1240592695": {
+                    "maximum": 60, 
+                    "minimum": 60, 
+                    "statHash": 1240592695, 
+                    "value": 60
+                }, 
+                "1345609583": {
+                    "maximum": 36, 
+                    "minimum": 36, 
+                    "statHash": 1345609583, 
+                    "value": 36
+                }, 
+                "155624089": {
+                    "maximum": 34, 
+                    "minimum": 34, 
+                    "statHash": 155624089, 
+                    "value": 34
+                }, 
+                "1931675084": {
+                    "maximum": 39, 
+                    "minimum": 39, 
+                    "statHash": 1931675084, 
+                    "value": 39
+                }, 
+                "2391494160": {
+                    "maximum": 1, 
+                    "minimum": 1, 
+                    "statHash": 2391494160, 
+                    "value": 1
+                }, 
+                "2715839340": {
+                    "maximum": 54, 
+                    "minimum": 54, 
+                    "statHash": 2715839340, 
+                    "value": 54
+                }, 
+                "3555269338": {
+                    "maximum": 20, 
+                    "minimum": 20, 
+                    "statHash": 3555269338, 
+                    "value": 20
+                }, 
+                "368428387": {
+                    "maximum": 12, 
+                    "minimum": 12, 
+                    "statHash": 368428387, 
+                    "value": 12
+                }, 
+                "3871231066": {
+                    "maximum": 14, 
+                    "minimum": 14, 
+                    "statHash": 3871231066, 
+                    "value": 14
+                }, 
+                "4043523819": {
+                    "maximum": 48, 
+                    "minimum": 48, 
+                    "statHash": 4043523819, 
+                    "value": 48
+                }, 
+                "4188031367": {
+                    "maximum": 57, 
+                    "minimum": 57, 
+                    "statHash": 4188031367, 
+                    "value": 57
+                }, 
+                "4284893193": {
+                    "maximum": 37, 
+                    "minimum": 37, 
+                    "statHash": 4284893193, 
+                    "value": 37
+                }, 
+                "943549884": {
+                    "maximum": 40, 
+                    "minimum": 40, 
+                    "statHash": 943549884, 
+                    "value": 40
+                }
+            }, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 2, 
+            "maxLevelRequired": 2, 
+            "maxQuality": 5, 
+            "minLevelRequired": 2, 
+            "minQuality": 5, 
+            "sourceHashes": [
+                1882189853
+            ], 
+            "spawnIndexes": [
+                3
+            ]
+        }, 
+        {
+            "computedStats": {
+                "1240592695": {
+                    "maximum": 60, 
+                    "minimum": 60, 
+                    "statHash": 1240592695, 
+                    "value": 60
+                }, 
+                "1345609583": {
+                    "maximum": 36, 
+                    "minimum": 36, 
+                    "statHash": 1345609583, 
+                    "value": 36
+                }, 
+                "155624089": {
+                    "maximum": 34, 
+                    "minimum": 34, 
+                    "statHash": 155624089, 
+                    "value": 34
+                }, 
+                "1931675084": {
+                    "maximum": 39, 
+                    "minimum": 39, 
+                    "statHash": 1931675084, 
+                    "value": 39
+                }, 
+                "2391494160": {
+                    "maximum": 0, 
+                    "minimum": 0, 
+                    "statHash": 2391494160, 
+                    "value": 0
+                }, 
+                "2715839340": {
+                    "maximum": 54, 
+                    "minimum": 54, 
+                    "statHash": 2715839340, 
+                    "value": 54
+                }, 
+                "3555269338": {
+                    "maximum": 20, 
+                    "minimum": 20, 
+                    "statHash": 3555269338, 
+                    "value": 20
+                }, 
+                "368428387": {
+                    "maximum": 7, 
+                    "minimum": 7, 
+                    "statHash": 368428387, 
+                    "value": 7
+                }, 
+                "3871231066": {
+                    "maximum": 14, 
+                    "minimum": 14, 
+                    "statHash": 3871231066, 
+                    "value": 14
+                }, 
+                "4043523819": {
+                    "maximum": 48, 
+                    "minimum": 48, 
+                    "statHash": 4043523819, 
+                    "value": 48
+                }, 
+                "4188031367": {
+                    "maximum": 57, 
+                    "minimum": 57, 
+                    "statHash": 4188031367, 
+                    "value": 57
+                }, 
+                "4284893193": {
+                    "maximum": 37, 
+                    "minimum": 37, 
+                    "statHash": 4284893193, 
+                    "value": 37
+                }, 
+                "943549884": {
+                    "maximum": 40, 
+                    "minimum": 40, 
+                    "statHash": 943549884, 
+                    "value": 40
+                }
+            }, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 1, 
+            "maxLevelRequired": 1, 
+            "maxQuality": 5, 
+            "minLevelRequired": 1, 
+            "minQuality": 5, 
+            "sourceHashes": [
+                1797462710
+            ], 
+            "spawnIndexes": [
+                5
+            ]
+        }
+    ], 
+    "specialItemType": 0, 
+    "statGroupHash": 2453149525, 
+    "stats": {
+        "1240592695": {
+            "maximum": 60, 
+            "minimum": 60, 
+            "statHash": 1240592695, 
+            "value": 60
+        }, 
+        "1345609583": {
+            "maximum": 36, 
+            "minimum": 36, 
+            "statHash": 1345609583, 
+            "value": 36
+        }, 
+        "155624089": {
+            "maximum": 34, 
+            "minimum": 34, 
+            "statHash": 155624089, 
+            "value": 34
+        }, 
+        "1931675084": {
+            "maximum": 39, 
+            "minimum": 39, 
+            "statHash": 1931675084, 
+            "value": 39
+        }, 
+        "2391494160": {
+            "maximum": 3, 
+            "minimum": 3, 
+            "statHash": 2391494160, 
+            "value": 3
+        }, 
+        "2715839340": {
+            "maximum": 54, 
+            "minimum": 54, 
+            "statHash": 2715839340, 
+            "value": 54
+        }, 
+        "3555269338": {
+            "maximum": 20, 
+            "minimum": 20, 
+            "statHash": 3555269338, 
+            "value": 20
+        }, 
+        "368428387": {
+            "maximum": 32, 
+            "minimum": 32, 
+            "statHash": 368428387, 
+            "value": 32
+        }, 
+        "3871231066": {
+            "maximum": 14, 
+            "minimum": 14, 
+            "statHash": 3871231066, 
+            "value": 14
+        }, 
+        "4043523819": {
+            "maximum": 48, 
+            "minimum": 48, 
+            "statHash": 4043523819, 
+            "value": 48
+        }, 
+        "4188031367": {
+            "maximum": 57, 
+            "minimum": 57, 
+            "statHash": 4188031367, 
+            "value": 57
+        }, 
+        "4284893193": {
+            "maximum": 37, 
+            "minimum": 37, 
+            "statHash": 4284893193, 
+            "value": 37
+        }, 
+        "943549884": {
+            "maximum": 40, 
+            "minimum": 40, 
+            "statHash": 943549884, 
+            "value": 40
+        }
+    }, 
+    "talentGridHash": 747907260, 
+    "tierType": 2, 
+    "tierTypeName": "Common", 
+    "values": {}
+}
