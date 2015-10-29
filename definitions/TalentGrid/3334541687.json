@@ -4,8 +4,52 @@
     "exclusiveSets": [], 
     "gridHash": 3334541687, 
     "gridLevelPerColumn": 0, 
-    "independentNodeIndexes": [], 
+    "independentNodeIndexes": [
+        0
+    ], 
     "maxGridLevel": 0, 
-    "nodes": [], 
-    "progressionHash": 0
+    "nodes": [
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 0, 
+            "exlusiveWithNodes": [], 
+            "isRandom": false, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 402641165, 
+            "nodeIndex": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 0, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": [
+                            3394248656
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "icon": "/common/destiny_content/icons/f63d142bf0ce03618a9c27dfa1cc8bc4.png", 
+                    "interactionDescription": "Apply Paper Glue", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Classified", 
+                    "nodeStepHash": 3767838989, 
+                    "nodeStepName": "Classified", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }
+    ], 
+    "progressionHash": 262790308
 }

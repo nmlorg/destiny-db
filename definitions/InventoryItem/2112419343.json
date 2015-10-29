@@ -1,54 +1,74 @@
 {
-    "actionDescription": "", 
-    "actionName": "", 
+    "actionName": "Dismantle", 
     "allowActions": true, 
-    "animations": [], 
     "bucketTypeHash": 3448274439, 
     "classType": 3, 
-    "deleteOnAction": false, 
-    "derivedItemCategories": [], 
-    "displaySource": "", 
-    "equippable": false, 
+    "deleteOnAction": true, 
+    "equippable": true, 
     "equippingBlock": {
-        "gearArtArrangementIndex": 0, 
+        "customDyeExpression": {
+            "steps": [
+                {
+                    "flagHash": 1680320212, 
+                    "stepOperator": 1, 
+                    "value": 2300, 
+                    "valueHash": 0
+                }
+            ]
+        }, 
+        "customDyes": [], 
+        "defaultDyes": [], 
+        "gearArtArrangementIndex": 3154, 
+        "lockedDyes": [
+            {
+                "channelHash": 662199250, 
+                "dyeHash": 2697014313
+            }, 
+            {
+                "channelHash": 1367384683, 
+                "dyeHash": 1299041688
+            }, 
+            {
+                "channelHash": 218592586, 
+                "dyeHash": 72349287
+            }
+        ], 
         "weaponPatternHash": 0, 
-        "weaponSandboxPatternIndex": 0
+        "weaponSandboxPatternIndex": -1
     }, 
     "exclusive": 0, 
-    "hasAction": false, 
-    "hasGeometry": false, 
-    "icon": "", 
-    "instanced": false, 
+    "hasAction": true, 
+    "hasGeometry": true, 
+    "icon": "/common/destiny_content/icons/f0e89ef64c30b8d8a7cfbb69b6e2893f.jpg", 
+    "instanced": true, 
     "itemCategoryHashes": [], 
-    "itemDescription": "Obtain this Quest in Destiny to learn more.", 
+    "itemDescription": "\"Yes, it's true\u2014the Legendary Engram was named after me.\" \u2014Fenchurch Everis", 
     "itemHash": 2112419343, 
-    "itemIdentifier": "", 
     "itemIndex": 0, 
-    "itemLevels": [], 
-    "itemName": "Classified", 
+    "itemLevels": [
+        0
+    ], 
+    "itemName": "Legendary Engram Mask", 
     "itemSubType": 0, 
     "itemType": 0, 
-    "itemTypeName": "", 
-    "maxStackSize": 0, 
-    "narrative": "", 
+    "itemTypeName": "Mask", 
+    "maxStackSize": 1, 
     "needsFullCompletion": false, 
-    "nonTransferrable": true, 
+    "nonTransferrable": false, 
     "objectiveHashes": [], 
-    "objectiveVerb": "", 
     "perkHashes": [], 
     "primaryBaseStatHash": 0, 
-    "qualityLevel": 0, 
+    "qualityLevel": 70, 
     "questlineItemHash": 0, 
     "rewardItemHash": 0, 
-    "secondaryIcon": "", 
+    "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
     "sourceHashes": [], 
-    "sources": [], 
     "specialItemType": 0, 
-    "statGroupHash": 0, 
+    "statGroupHash": 1116828683, 
     "stats": {}, 
-    "talentGridHash": 0, 
-    "tierType": 0, 
-    "tierTypeName": "", 
+    "talentGridHash": 521135891, 
+    "tierType": 5, 
+    "tierTypeName": "Legendary", 
     "values": {}
 }

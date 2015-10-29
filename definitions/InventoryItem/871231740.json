@@ -1,54 +1,64 @@
 {
-    "actionDescription": "", 
-    "actionName": "", 
+    "actionName": "Abandon", 
     "allowActions": true, 
-    "animations": [], 
     "bucketTypeHash": 1801258597, 
     "classType": 3, 
-    "deleteOnAction": false, 
-    "derivedItemCategories": [], 
-    "displaySource": "", 
+    "deleteOnAction": true, 
     "equippable": false, 
-    "equippingBlock": {
-        "gearArtArrangementIndex": 0, 
-        "weaponPatternHash": 0, 
-        "weaponSandboxPatternIndex": 0
-    }, 
     "exclusive": 0, 
-    "hasAction": false, 
+    "hasAction": true, 
     "hasGeometry": false, 
-    "icon": "", 
-    "instanced": false, 
-    "itemCategoryHashes": [], 
-    "itemDescription": "Obtain this Quest in Destiny to learn more.", 
+    "icon": "/common/destiny_content/icons/aecd916a110a8c8b23cb6d73f452cada.jpg", 
+    "instanced": true, 
+    "itemCategoryHashes": [
+        16
+    ], 
+    "itemDescription": "Talk to Eva Levante in the Tower.", 
     "itemHash": 871231740, 
-    "itemIdentifier": "", 
     "itemIndex": 0, 
     "itemLevels": [], 
-    "itemName": "Classified", 
+    "itemName": "Speak to Eva Levante", 
     "itemSubType": 0, 
-    "itemType": 0, 
-    "itemTypeName": "", 
-    "maxStackSize": 0, 
-    "narrative": "", 
-    "needsFullCompletion": false, 
+    "itemType": 12, 
+    "itemTypeName": "Quest Step", 
+    "maxStackSize": 1, 
+    "needsFullCompletion": true, 
     "nonTransferrable": true, 
-    "objectiveHashes": [], 
-    "objectiveVerb": "", 
+    "objectiveHashes": [
+        1668103407
+    ], 
+    "objectiveVerb": "Complete", 
     "perkHashes": [], 
     "primaryBaseStatHash": 0, 
     "qualityLevel": 0, 
-    "questlineItemHash": 0, 
+    "questlineItemHash": 2074243055, 
     "rewardItemHash": 0, 
-    "secondaryIcon": "", 
+    "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
     "sourceHashes": [], 
-    "sources": [], 
+    "sources": [
+        {
+            "computedStats": {}, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 0, 
+            "maxLevelRequired": 0, 
+            "maxQuality": 0, 
+            "minLevelRequired": 0, 
+            "minQuality": 0, 
+            "sourceHashes": [], 
+            "spawnIndexes": [
+                0
+            ]
+        }
+    ], 
     "specialItemType": 0, 
     "statGroupHash": 0, 
     "stats": {}, 
     "talentGridHash": 0, 
     "tierType": 0, 
-    "tierTypeName": "", 
-    "values": {}
+    "tierTypeName": "Basic", 
+    "values": {
+        "3836534495": 0
+    }
 }

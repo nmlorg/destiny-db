@@ -1,54 +1,67 @@
 {
-    "actionDescription": "", 
-    "actionName": "", 
+    "actionName": "Abandon", 
     "allowActions": true, 
-    "animations": [], 
     "bucketTypeHash": 1801258597, 
     "classType": 3, 
-    "deleteOnAction": false, 
-    "derivedItemCategories": [], 
-    "displaySource": "", 
+    "deleteOnAction": true, 
+    "displaySource": "\"Those lost to us are remembered fondly. We celebrate their lives by having a little fun.\" \u2014Eva Levante", 
     "equippable": false, 
-    "equippingBlock": {
-        "gearArtArrangementIndex": 0, 
-        "weaponPatternHash": 0, 
-        "weaponSandboxPatternIndex": 0
-    }, 
     "exclusive": 0, 
-    "hasAction": false, 
+    "hasAction": true, 
     "hasGeometry": false, 
-    "icon": "", 
-    "instanced": false, 
-    "itemCategoryHashes": [], 
-    "itemDescription": "Obtain this Quest in Destiny to learn more.", 
+    "icon": "/common/destiny_content/icons/aecd916a110a8c8b23cb6d73f452cada.jpg", 
+    "instanced": true, 
+    "itemCategoryHashes": [
+        16
+    ], 
+    "itemDescription": "Complete Public Events, collect engrams, and fall off the Tower while wearing masks.", 
     "itemHash": 3307775530, 
-    "itemIdentifier": "", 
     "itemIndex": 0, 
     "itemLevels": [], 
-    "itemName": "Classified", 
+    "itemName": "Mask Task", 
     "itemSubType": 0, 
-    "itemType": 0, 
-    "itemTypeName": "", 
-    "maxStackSize": 0, 
-    "narrative": "", 
-    "needsFullCompletion": false, 
+    "itemType": 12, 
+    "itemTypeName": "Quest Step", 
+    "maxStackSize": 1, 
+    "needsFullCompletion": true, 
     "nonTransferrable": true, 
-    "objectiveHashes": [], 
-    "objectiveVerb": "", 
+    "objectiveHashes": [
+        3200583203, 
+        938322618, 
+        1532184622
+    ], 
+    "objectiveVerb": "Complete", 
     "perkHashes": [], 
     "primaryBaseStatHash": 0, 
     "qualityLevel": 0, 
-    "questlineItemHash": 0, 
+    "questlineItemHash": 2074243055, 
     "rewardItemHash": 0, 
-    "secondaryIcon": "", 
+    "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
     "sourceHashes": [], 
-    "sources": [], 
+    "sources": [
+        {
+            "computedStats": {}, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 0, 
+            "maxLevelRequired": 0, 
+            "maxQuality": 0, 
+            "minLevelRequired": 0, 
+            "minQuality": 0, 
+            "sourceHashes": [], 
+            "spawnIndexes": [
+                0
+            ]
+        }
+    ], 
     "specialItemType": 0, 
     "statGroupHash": 0, 
     "stats": {}, 
     "talentGridHash": 0, 
     "tierType": 0, 
-    "tierTypeName": "", 
-    "values": {}
+    "tierTypeName": "Basic", 
+    "values": {
+        "3836534495": 0
+    }
 }

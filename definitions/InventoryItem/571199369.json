@@ -1,54 +1,74 @@
 {
-    "actionDescription": "", 
-    "actionName": "", 
+    "actionName": "Dismantle", 
     "allowActions": true, 
-    "animations": [], 
     "bucketTypeHash": 3448274439, 
     "classType": 3, 
-    "deleteOnAction": false, 
-    "derivedItemCategories": [], 
-    "displaySource": "", 
-    "equippable": false, 
+    "deleteOnAction": true, 
+    "equippable": true, 
     "equippingBlock": {
-        "gearArtArrangementIndex": 0, 
+        "customDyeExpression": {
+            "steps": [
+                {
+                    "flagHash": 1680320212, 
+                    "stepOperator": 1, 
+                    "value": 2300, 
+                    "valueHash": 0
+                }
+            ]
+        }, 
+        "customDyes": [], 
+        "defaultDyes": [], 
+        "gearArtArrangementIndex": 3147, 
+        "lockedDyes": [
+            {
+                "channelHash": 662199250, 
+                "dyeHash": 3191895954
+            }, 
+            {
+                "channelHash": 1367384683, 
+                "dyeHash": 4279962155
+            }, 
+            {
+                "channelHash": 218592586, 
+                "dyeHash": 4097255178
+            }
+        ], 
         "weaponPatternHash": 0, 
-        "weaponSandboxPatternIndex": 0
+        "weaponSandboxPatternIndex": -1
     }, 
     "exclusive": 0, 
-    "hasAction": false, 
-    "hasGeometry": false, 
-    "icon": "", 
-    "instanced": false, 
+    "hasAction": true, 
+    "hasGeometry": true, 
+    "icon": "/common/destiny_content/icons/17597f9fadd7c973536195816f344023.jpg", 
+    "instanced": true, 
     "itemCategoryHashes": [], 
-    "itemDescription": "Obtain this Quest in Destiny to learn more.", 
+    "itemDescription": "Shoddy construction and flimsy materials, but an upgrade with some Paper Glue might make it Legendary. \n\nExpires at the end of the Festival of the Lost.", 
     "itemHash": 571199369, 
-    "itemIdentifier": "", 
     "itemIndex": 0, 
-    "itemLevels": [], 
-    "itemName": "Classified", 
+    "itemLevels": [
+        0
+    ], 
+    "itemName": "Speaker Mask", 
     "itemSubType": 0, 
     "itemType": 0, 
-    "itemTypeName": "", 
-    "maxStackSize": 0, 
-    "narrative": "", 
+    "itemTypeName": "Mask", 
+    "maxStackSize": 1, 
     "needsFullCompletion": false, 
-    "nonTransferrable": true, 
+    "nonTransferrable": false, 
     "objectiveHashes": [], 
-    "objectiveVerb": "", 
     "perkHashes": [], 
     "primaryBaseStatHash": 0, 
-    "qualityLevel": 0, 
+    "qualityLevel": 70, 
     "questlineItemHash": 0, 
     "rewardItemHash": 0, 
-    "secondaryIcon": "", 
+    "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
     "sourceHashes": [], 
-    "sources": [], 
     "specialItemType": 0, 
-    "statGroupHash": 0, 
+    "statGroupHash": 1116828683, 
     "stats": {}, 
-    "talentGridHash": 0, 
-    "tierType": 0, 
-    "tierTypeName": "", 
+    "talentGridHash": 3334541687, 
+    "tierType": 4, 
+    "tierTypeName": "Rare", 
     "values": {}
 }

@@ -1,54 +1,74 @@
 {
-    "actionDescription": "", 
-    "actionName": "", 
+    "actionName": "Dismantle", 
     "allowActions": true, 
-    "animations": [], 
     "bucketTypeHash": 3448274439, 
     "classType": 3, 
-    "deleteOnAction": false, 
-    "derivedItemCategories": [], 
-    "displaySource": "", 
-    "equippable": false, 
+    "deleteOnAction": true, 
+    "equippable": true, 
     "equippingBlock": {
-        "gearArtArrangementIndex": 0, 
+        "customDyeExpression": {
+            "steps": [
+                {
+                    "flagHash": 1680320212, 
+                    "stepOperator": 1, 
+                    "value": 2300, 
+                    "valueHash": 0
+                }
+            ]
+        }, 
+        "customDyes": [], 
+        "defaultDyes": [], 
+        "gearArtArrangementIndex": 3149, 
+        "lockedDyes": [
+            {
+                "channelHash": 662199250, 
+                "dyeHash": 362806752
+            }, 
+            {
+                "channelHash": 1367384683, 
+                "dyeHash": 1140726197
+            }, 
+            {
+                "channelHash": 218592586, 
+                "dyeHash": 3612000268
+            }
+        ], 
         "weaponPatternHash": 0, 
-        "weaponSandboxPatternIndex": 0
+        "weaponSandboxPatternIndex": -1
     }, 
     "exclusive": 0, 
-    "hasAction": false, 
-    "hasGeometry": false, 
-    "icon": "", 
-    "instanced": false, 
+    "hasAction": true, 
+    "hasGeometry": true, 
+    "icon": "/common/destiny_content/icons/eada38f94444ec72ac97f12dc8bf97a4.jpg", 
+    "instanced": true, 
     "itemCategoryHashes": [], 
-    "itemDescription": "Obtain this Quest in Destiny to learn more.", 
+    "itemDescription": "\"Even with all my lengthy travels, my knowledge has limits. Ah, do keep that quiet.\" \u2014Fenchurch Everis", 
     "itemHash": 3813534254, 
-    "itemIdentifier": "", 
     "itemIndex": 0, 
-    "itemLevels": [], 
-    "itemName": "Classified", 
+    "itemLevels": [
+        0
+    ], 
+    "itemName": "X\u00fbr Mask", 
     "itemSubType": 0, 
     "itemType": 0, 
-    "itemTypeName": "", 
-    "maxStackSize": 0, 
-    "narrative": "", 
+    "itemTypeName": "Mask", 
+    "maxStackSize": 1, 
     "needsFullCompletion": false, 
-    "nonTransferrable": true, 
+    "nonTransferrable": false, 
     "objectiveHashes": [], 
-    "objectiveVerb": "", 
     "perkHashes": [], 
     "primaryBaseStatHash": 0, 
-    "qualityLevel": 0, 
+    "qualityLevel": 70, 
     "questlineItemHash": 0, 
     "rewardItemHash": 0, 
-    "secondaryIcon": "", 
+    "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
     "sourceHashes": [], 
-    "sources": [], 
     "specialItemType": 0, 
-    "statGroupHash": 0, 
+    "statGroupHash": 1116828683, 
     "stats": {}, 
-    "talentGridHash": 0, 
-    "tierType": 0, 
-    "tierTypeName": "", 
+    "talentGridHash": 521135891, 
+    "tierType": 5, 
+    "tierTypeName": "Legendary", 
     "values": {}
 }
