@@ -10,7 +10,7 @@
                 {
                     "flagHash": 1680320212, 
                     "stepOperator": 1, 
-                    "value": 2298, 
+                    "value": 2300, 
                     "valueHash": 0
                 }
             ]
@@ -41,9 +41,9 @@
     "icon": "/common/destiny_content/icons/a3cc4f7ae1d900860d6609afa25265ed.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        20, 
         22, 
-        47
+        47, 
+        20
     ], 
     "itemDescription": "The Gwalior pattern improves on standard Fieldplate while remaining economical.", 
     "itemHash": 2137413905, 
@@ -67,32 +67,34 @@
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
     "sourceHashes": [
-        709638738, 
-        1882189853
+        2644169369, 
+        1882189853, 
+        3870113141, 
+        709638738
     ], 
     "sources": [
         {
             "computedStats": {
                 "1735777505": {
-                    "maximum": 10, 
+                    "maximum": 12, 
                     "minimum": 8, 
                     "statHash": 1735777505, 
                     "value": 8
                 }, 
                 "2391494160": {
-                    "maximum": 4, 
+                    "maximum": 5, 
                     "minimum": 4, 
                     "statHash": 2391494160, 
                     "value": 4
                 }, 
                 "3897883278": {
-                    "maximum": 45, 
+                    "maximum": 55, 
                     "minimum": 45, 
                     "statHash": 3897883278, 
                     "value": 45
                 }, 
                 "4244567218": {
-                    "maximum": 10, 
+                    "maximum": 12, 
                     "minimum": 8, 
                     "statHash": 4244567218, 
                     "value": 8
@@ -102,12 +104,37 @@
             "expansionIndex": 0, 
             "level": 9, 
             "maxLevelRequired": 9, 
-            "maxQuality": 0, 
-            "minLevelRequired": 9, 
+            "maxQuality": 20, 
+            "minLevelRequired": 8, 
             "minQuality": 0, 
-            "sourceHashes": [], 
+            "sourceHashes": [
+                2644169369, 
+                1882189853, 
+                3870113141
+            ], 
             "spawnIndexes": [
-                4
+                3, 
+                25, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                10, 
+                11, 
+                12, 
+                13, 
+                14, 
+                15, 
+                16, 
+                17, 
+                18, 
+                19, 
+                20, 
+                21, 
+                22, 
+                23
             ]
         }, 
         {
@@ -148,7 +175,7 @@
                 709638738
             ], 
             "spawnIndexes": [
-                3
+                24
             ]
         }, 
         {
@@ -279,25 +306,25 @@
     "statGroupHash": 363072480, 
     "stats": {
         "1735777505": {
-            "maximum": 10, 
+            "maximum": 12, 
             "minimum": 8, 
             "statHash": 1735777505, 
             "value": 8
         }, 
         "2391494160": {
-            "maximum": 4, 
+            "maximum": 5, 
             "minimum": 4, 
             "statHash": 2391494160, 
             "value": 4
         }, 
         "3897883278": {
-            "maximum": 45, 
+            "maximum": 55, 
             "minimum": 45, 
             "statHash": 3897883278, 
             "value": 45
         }, 
         "4244567218": {
-            "maximum": 10, 
+            "maximum": 12, 
             "minimum": 8, 
             "statHash": 4244567218, 
             "value": 8

@@ -21,7 +21,8 @@
     "icon": "/common/destiny_content/icons/4e95ff81025cc137f5590b1743a1451e.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        38
+        38, 
+        20
     ], 
     "itemDescription": "To carry this charm is to fight for the lost world that fashioned it.", 
     "itemHash": 27771125, 
@@ -31,7 +32,7 @@
     ], 
     "itemName": "Blood-Soaked Charm", 
     "itemSubType": 0, 
-    "itemType": 0, 
+    "itemType": 2, 
     "itemTypeName": "Hunter Artifact", 
     "maxStackSize": 1, 
     "needsFullCompletion": false, 
@@ -42,11 +43,12 @@
     "qualityLevel": 0, 
     "questlineItemHash": 0, 
     "rewardItemHash": 0, 
-    "secondaryIcon": "/common/destiny_content/icons/4dff437360c056f3212de527ce164aeb.png", 
+    "secondaryIcon": "/common/destiny_content/icons/30af1f3b0c9447e78e531ac9c1d1546c.png", 
     "setItemHashes": [], 
     "sourceHashes": [
+        460228854, 
         1920307024, 
-        460228854
+        2644169369
     ], 
     "sources": [
         {
@@ -90,59 +92,80 @@
             "minLevelRequired": 40, 
             "minQuality": 0, 
             "sourceHashes": [
-                1920307024, 
-                460228854
+                460228854, 
+                1920307024
             ], 
             "spawnIndexes": [
-                0
+                21
             ]
         }, 
         {
             "computedStats": {
                 "144602215": {
-                    "maximum": 0, 
-                    "minimum": 0, 
+                    "maximum": 92, 
+                    "minimum": 22, 
                     "statHash": 144602215, 
-                    "value": 0
+                    "value": 22
                 }, 
                 "1735777505": {
-                    "maximum": 0, 
-                    "minimum": 0, 
+                    "maximum": 92, 
+                    "minimum": 22, 
                     "statHash": 1735777505, 
-                    "value": 0
+                    "value": 22
                 }, 
                 "2391494160": {
-                    "maximum": 0, 
-                    "minimum": 0, 
+                    "maximum": 22, 
+                    "minimum": 20, 
                     "statHash": 2391494160, 
-                    "value": 0
+                    "value": 20
                 }, 
                 "3897883278": {
-                    "maximum": 3, 
-                    "minimum": 3, 
+                    "maximum": 280, 
+                    "minimum": 260, 
                     "statHash": 3897883278, 
-                    "value": 3
+                    "value": 260
                 }, 
                 "4244567218": {
-                    "maximum": 0, 
-                    "minimum": 0, 
+                    "maximum": 92, 
+                    "minimum": 22, 
                     "statHash": 4244567218, 
-                    "value": 0
+                    "value": 22
                 }
             }, 
             "exclusivity": 0, 
             "expansionIndex": 0, 
-            "level": 0, 
-            "maxLevelRequired": 0, 
-            "maxQuality": 0, 
-            "minLevelRequired": 0, 
+            "level": 46, 
+            "maxLevelRequired": 40, 
+            "maxQuality": 20, 
+            "minLevelRequired": 40, 
             "minQuality": 0, 
             "sourceHashes": [
+                2644169369, 
                 460228854, 
                 1920307024
             ], 
             "spawnIndexes": [
-                1
+                0, 
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                10, 
+                11, 
+                12, 
+                13, 
+                14, 
+                15, 
+                16, 
+                17, 
+                18, 
+                19, 
+                20
             ]
         }
     ], 

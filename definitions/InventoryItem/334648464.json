@@ -10,7 +10,7 @@
                 {
                     "flagHash": 1680320212, 
                     "stepOperator": 1, 
-                    "value": 2298, 
+                    "value": 2300, 
                     "valueHash": 0
                 }
             ]
@@ -41,9 +41,9 @@
     "icon": "/common/destiny_content/icons/d91abbfca74fc818a6645d579e24ac1d.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        20, 
         22, 
-        46
+        46, 
+        20
     ], 
     "itemDescription": "The density of relic iron provides ample mass for inertial sinks to operate. It also breaks skulls.", 
     "itemHash": 334648464, 
@@ -69,8 +69,10 @@
     "sourceHashes": [
         3498761033, 
         1920307024, 
-        709638738, 
-        1882189853
+        2644169369, 
+        1882189853, 
+        3870113141, 
+        709638738
     ], 
     "sources": [
         {
@@ -118,37 +120,37 @@
                 1920307024
             ], 
             "spawnIndexes": [
-                8
+                29
             ]
         }, 
         {
             "computedStats": {
                 "144602215": {
-                    "maximum": 17, 
+                    "maximum": 18, 
                     "minimum": 14, 
                     "statHash": 144602215, 
                     "value": 14
                 }, 
                 "1735777505": {
-                    "maximum": 17, 
+                    "maximum": 18, 
                     "minimum": 14, 
                     "statHash": 1735777505, 
                     "value": 14
                 }, 
                 "2391494160": {
-                    "maximum": 10, 
+                    "maximum": 11, 
                     "minimum": 10, 
                     "statHash": 2391494160, 
                     "value": 10
                 }, 
                 "3897883278": {
-                    "maximum": 100, 
+                    "maximum": 110, 
                     "minimum": 100, 
                     "statHash": 3897883278, 
                     "value": 100
                 }, 
                 "4244567218": {
-                    "maximum": 17, 
+                    "maximum": 18, 
                     "minimum": 14, 
                     "statHash": 4244567218, 
                     "value": 14
@@ -158,14 +160,38 @@
             "expansionIndex": 0, 
             "level": 20, 
             "maxLevelRequired": 20, 
-            "maxQuality": 0, 
-            "minLevelRequired": 20, 
+            "maxQuality": 20, 
+            "minLevelRequired": 16, 
             "minQuality": 0, 
             "sourceHashes": [
+                2644169369, 
+                1882189853, 
+                3870113141, 
                 1920307024
             ], 
             "spawnIndexes": [
-                7
+                3, 
+                28, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                10, 
+                11, 
+                12, 
+                13, 
+                14, 
+                15, 
+                16, 
+                17, 
+                18, 
+                19, 
+                20, 
+                21, 
+                22, 
+                23
             ]
         }, 
         {
@@ -212,7 +238,7 @@
                 1920307024
             ], 
             "spawnIndexes": [
-                6
+                27
             ]
         }, 
         {
@@ -260,7 +286,7 @@
                 1920307024
             ], 
             "spawnIndexes": [
-                5
+                26
             ]
         }, 
         {
@@ -307,7 +333,7 @@
                 1920307024
             ], 
             "spawnIndexes": [
-                4
+                25
             ]
         }, 
         {
@@ -499,7 +525,7 @@
                 1920307024
             ], 
             "spawnIndexes": [
-                3
+                24
             ]
         }
     ], 

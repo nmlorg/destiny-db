@@ -10,7 +10,7 @@
                 {
                     "flagHash": 1680320212, 
                     "stepOperator": 1, 
-                    "value": 2298, 
+                    "value": 2300, 
                     "valueHash": 0
                 }
             ]
@@ -41,9 +41,9 @@
     "icon": "/common/destiny_content/icons/79d89ffe81ce614a619f925a54feda22.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        20, 
         23, 
-        46
+        46, 
+        20
     ], 
     "itemDescription": "\"Your job on the fireteam is to answer the question 'Can we kill that thing?' Make sure the answer is always yes.\"", 
     "itemHash": 1364624196, 
@@ -66,21 +66,114 @@
     "rewardItemHash": 0, 
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
-    "sourceHashes": [], 
+    "sourceHashes": [
+        2644169369, 
+        1882189853, 
+        3870113141
+    ], 
+    "sources": [
+        {
+            "computedStats": {
+                "144602215": {
+                    "maximum": 21, 
+                    "minimum": 9, 
+                    "statHash": 144602215, 
+                    "value": 9
+                }, 
+                "1735777505": {
+                    "maximum": 21, 
+                    "minimum": 9, 
+                    "statHash": 1735777505, 
+                    "value": 9
+                }, 
+                "2391494160": {
+                    "maximum": 13, 
+                    "minimum": 12, 
+                    "statHash": 2391494160, 
+                    "value": 12
+                }, 
+                "3897883278": {
+                    "maximum": 130, 
+                    "minimum": 120, 
+                    "statHash": 3897883278, 
+                    "value": 120
+                }, 
+                "4244567218": {
+                    "maximum": 21, 
+                    "minimum": 9, 
+                    "statHash": 4244567218, 
+                    "value": 9
+                }
+            }, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 24, 
+            "maxLevelRequired": 20, 
+            "maxQuality": 20, 
+            "minLevelRequired": 20, 
+            "minQuality": 0, 
+            "sourceHashes": [
+                2644169369, 
+                1882189853, 
+                3870113141
+            ], 
+            "spawnIndexes": [
+                0, 
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                10, 
+                11, 
+                12, 
+                13, 
+                14, 
+                15, 
+                16, 
+                17, 
+                18, 
+                19, 
+                20
+            ]
+        }
+    ], 
     "specialItemType": 0, 
     "statGroupHash": 548191128, 
     "stats": {
+        "144602215": {
+            "maximum": 21, 
+            "minimum": 9, 
+            "statHash": 144602215, 
+            "value": 9
+        }, 
+        "1735777505": {
+            "maximum": 21, 
+            "minimum": 9, 
+            "statHash": 1735777505, 
+            "value": 9
+        }, 
         "2391494160": {
-            "maximum": 0, 
-            "minimum": 0, 
+            "maximum": 13, 
+            "minimum": 12, 
             "statHash": 2391494160, 
-            "value": 0
+            "value": 12
         }, 
         "3897883278": {
-            "maximum": 0, 
-            "minimum": 0, 
+            "maximum": 130, 
+            "minimum": 120, 
             "statHash": 3897883278, 
-            "value": 0
+            "value": 120
+        }, 
+        "4244567218": {
+            "maximum": 21, 
+            "minimum": 9, 
+            "statHash": 4244567218, 
+            "value": 9
         }
     }, 
     "talentGridHash": 1295586629, 

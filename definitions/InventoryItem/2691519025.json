@@ -27,7 +27,7 @@
     "instanced": true, 
     "itemCategoryHashes": [
         39, 
-        52
+        20
     ], 
     "itemDescription": "For Ghosts who aren't afraid to make themselves a target.", 
     "itemHash": 2691519025, 
@@ -37,7 +37,7 @@
     ], 
     "itemName": "Bold Red Shell", 
     "itemSubType": 0, 
-    "itemType": 0, 
+    "itemType": 2, 
     "itemTypeName": "Ghost Shell", 
     "maxStackSize": 1, 
     "needsFullCompletion": false, 
@@ -51,10 +51,83 @@
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
     "sourceHashes": [
-        3498761033, 
-        460228854
+        2644169369, 
+        1882189853, 
+        3870113141, 
+        460228854, 
+        3498761033
     ], 
     "sources": [
+        {
+            "computedStats": {
+                "144602215": {
+                    "maximum": 39, 
+                    "minimum": 15, 
+                    "statHash": 144602215, 
+                    "value": 15
+                }, 
+                "1735777505": {
+                    "maximum": 39, 
+                    "minimum": 15, 
+                    "statHash": 1735777505, 
+                    "value": 15
+                }, 
+                "2391494160": {
+                    "maximum": 21, 
+                    "minimum": 20, 
+                    "statHash": 2391494160, 
+                    "value": 20
+                }, 
+                "3897883278": {
+                    "maximum": 270, 
+                    "minimum": 250, 
+                    "statHash": 3897883278, 
+                    "value": 250
+                }, 
+                "4244567218": {
+                    "maximum": 39, 
+                    "minimum": 15, 
+                    "statHash": 4244567218, 
+                    "value": 15
+                }
+            }, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 45, 
+            "maxLevelRequired": 40, 
+            "maxQuality": 20, 
+            "minLevelRequired": 40, 
+            "minQuality": 0, 
+            "sourceHashes": [
+                2644169369, 
+                1882189853, 
+                3870113141, 
+                460228854
+            ], 
+            "spawnIndexes": [
+                21, 
+                22, 
+                23, 
+                24, 
+                25, 
+                26, 
+                27, 
+                28, 
+                29, 
+                30, 
+                31, 
+                32, 
+                33, 
+                34, 
+                35, 
+                36, 
+                37, 
+                38, 
+                39, 
+                40, 
+                41
+            ]
+        }, 
         {
             "computedStats": {
                 "144602215": {
@@ -100,7 +173,7 @@
                 460228854
             ], 
             "spawnIndexes": [
-                10
+                52
             ]
         }, 
         {
@@ -148,7 +221,7 @@
                 460228854
             ], 
             "spawnIndexes": [
-                9
+                51
             ]
         }, 
         {
@@ -196,7 +269,7 @@
                 460228854
             ], 
             "spawnIndexes": [
-                8
+                50
             ]
         }, 
         {
@@ -244,7 +317,7 @@
                 460228854
             ], 
             "spawnIndexes": [
-                7
+                49
             ]
         }, 
         {
@@ -292,7 +365,7 @@
                 460228854
             ], 
             "spawnIndexes": [
-                6
+                48
             ]
         }, 
         {
@@ -340,7 +413,7 @@
                 460228854
             ], 
             "spawnIndexes": [
-                5
+                47
             ]
         }, 
         {
@@ -388,7 +461,7 @@
                 460228854
             ], 
             "spawnIndexes": [
-                4
+                46
             ]
         }, 
         {
@@ -436,7 +509,7 @@
                 460228854
             ], 
             "spawnIndexes": [
-                3
+                45
             ]
         }, 
         {
@@ -484,7 +557,7 @@
                 460228854
             ], 
             "spawnIndexes": [
-                2
+                44
             ]
         }, 
         {
@@ -532,7 +605,7 @@
                 460228854
             ], 
             "spawnIndexes": [
-                1
+                43
             ]
         }, 
         {
@@ -580,7 +653,77 @@
                 460228854
             ], 
             "spawnIndexes": [
-                0
+                42
+            ]
+        }, 
+        {
+            "computedStats": {
+                "144602215": {
+                    "maximum": 8, 
+                    "minimum": 3, 
+                    "statHash": 144602215, 
+                    "value": 3
+                }, 
+                "1735777505": {
+                    "maximum": 8, 
+                    "minimum": 3, 
+                    "statHash": 1735777505, 
+                    "value": 3
+                }, 
+                "2391494160": {
+                    "maximum": 6, 
+                    "minimum": 6, 
+                    "statHash": 2391494160, 
+                    "value": 6
+                }, 
+                "3897883278": {
+                    "maximum": 85, 
+                    "minimum": 75, 
+                    "statHash": 3897883278, 
+                    "value": 75
+                }, 
+                "4244567218": {
+                    "maximum": 8, 
+                    "minimum": 3, 
+                    "statHash": 4244567218, 
+                    "value": 3
+                }
+            }, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 15, 
+            "maxLevelRequired": 11, 
+            "maxQuality": 20, 
+            "minLevelRequired": 11, 
+            "minQuality": 0, 
+            "sourceHashes": [
+                2644169369, 
+                1882189853, 
+                3870113141, 
+                460228854
+            ], 
+            "spawnIndexes": [
+                0, 
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                10, 
+                11, 
+                12, 
+                13, 
+                14, 
+                15, 
+                16, 
+                17, 
+                18, 
+                19, 
+                20
             ]
         }
     ], 
@@ -588,34 +731,34 @@
     "statGroupHash": 4023194814, 
     "stats": {
         "144602215": {
-            "maximum": 24, 
-            "minimum": 10, 
-            "statHash": 144602215, 
-            "value": 10
-        }, 
-        "1735777505": {
-            "maximum": 24, 
-            "minimum": 10, 
-            "statHash": 1735777505, 
-            "value": 10
-        }, 
-        "2391494160": {
-            "maximum": 15, 
+            "maximum": 39, 
             "minimum": 15, 
-            "statHash": 2391494160, 
+            "statHash": 144602215, 
             "value": 15
         }, 
+        "1735777505": {
+            "maximum": 39, 
+            "minimum": 15, 
+            "statHash": 1735777505, 
+            "value": 15
+        }, 
+        "2391494160": {
+            "maximum": 21, 
+            "minimum": 20, 
+            "statHash": 2391494160, 
+            "value": 20
+        }, 
         "3897883278": {
-            "maximum": 190, 
-            "minimum": 190, 
+            "maximum": 270, 
+            "minimum": 250, 
             "statHash": 3897883278, 
-            "value": 190
+            "value": 250
         }, 
         "4244567218": {
-            "maximum": 24, 
-            "minimum": 10, 
+            "maximum": 39, 
+            "minimum": 15, 
             "statHash": 4244567218, 
-            "value": 10
+            "value": 15
         }
     }, 
     "talentGridHash": 824487106, 

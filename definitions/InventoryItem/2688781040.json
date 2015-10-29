@@ -10,7 +10,7 @@
                 {
                     "flagHash": 1680320212, 
                     "stepOperator": 1, 
-                    "value": 2298, 
+                    "value": 2300, 
                     "valueHash": 0
                 }
             ]
@@ -41,9 +41,9 @@
     "icon": "/common/destiny_content/icons/d189ca58efd10d868cecb2dc032dea62.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        20, 
         23, 
-        45
+        45, 
+        20
     ], 
     "itemDescription": "\"Don't let your pride kill you. When you see a thorny target, call for a team. Consider them an audience, if that helps.\"", 
     "itemHash": 2688781040, 
@@ -68,40 +68,42 @@
     "setItemHashes": [], 
     "sourceHashes": [
         36493462, 
-        3870113141
+        3870113141, 
+        2644169369, 
+        1882189853
     ], 
     "sources": [
         {
             "computedStats": {
                 "144602215": {
                     "maximum": 26, 
-                    "minimum": 12, 
+                    "minimum": 10, 
                     "statHash": 144602215, 
-                    "value": 12
+                    "value": 10
                 }, 
                 "1735777505": {
                     "maximum": 26, 
-                    "minimum": 12, 
+                    "minimum": 10, 
                     "statHash": 1735777505, 
-                    "value": 12
+                    "value": 10
                 }, 
                 "2391494160": {
                     "maximum": 14, 
-                    "minimum": 14, 
+                    "minimum": 12, 
                     "statHash": 2391494160, 
-                    "value": 14
+                    "value": 12
                 }, 
                 "3897883278": {
                     "maximum": 140, 
-                    "minimum": 140, 
+                    "minimum": 120, 
                     "statHash": 3897883278, 
-                    "value": 140
+                    "value": 120
                 }, 
                 "4244567218": {
                     "maximum": 26, 
-                    "minimum": 12, 
+                    "minimum": 10, 
                     "statHash": 4244567218, 
-                    "value": 12
+                    "value": 10
                 }
             }, 
             "exclusivity": 0, 
@@ -110,13 +112,36 @@
             "maxLevelRequired": 20, 
             "maxQuality": 40, 
             "minLevelRequired": 20, 
-            "minQuality": 40, 
+            "minQuality": 0, 
             "sourceHashes": [
                 36493462, 
-                3870113141
+                3870113141, 
+                2644169369, 
+                1882189853
             ], 
             "spawnIndexes": [
-                0
+                0, 
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                10, 
+                11, 
+                12, 
+                13, 
+                14, 
+                15, 
+                16, 
+                17, 
+                18, 
+                19, 
+                20, 
+                21
             ]
         }
     ], 
@@ -125,33 +150,33 @@
     "stats": {
         "144602215": {
             "maximum": 26, 
-            "minimum": 12, 
+            "minimum": 10, 
             "statHash": 144602215, 
-            "value": 12
+            "value": 10
         }, 
         "1735777505": {
             "maximum": 26, 
-            "minimum": 12, 
+            "minimum": 10, 
             "statHash": 1735777505, 
-            "value": 12
+            "value": 10
         }, 
         "2391494160": {
             "maximum": 14, 
-            "minimum": 14, 
+            "minimum": 12, 
             "statHash": 2391494160, 
-            "value": 14
+            "value": 12
         }, 
         "3897883278": {
             "maximum": 140, 
-            "minimum": 140, 
+            "minimum": 120, 
             "statHash": 3897883278, 
-            "value": 140
+            "value": 120
         }, 
         "4244567218": {
             "maximum": 26, 
-            "minimum": 12, 
+            "minimum": 10, 
             "statHash": 4244567218, 
-            "value": 12
+            "value": 10
         }
     }, 
     "talentGridHash": 2099712140, 

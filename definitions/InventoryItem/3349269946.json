@@ -10,7 +10,7 @@
                 {
                     "flagHash": 1680320212, 
                     "stepOperator": 1, 
-                    "value": 2298, 
+                    "value": 2300, 
                     "valueHash": 0
                 }
             ]
@@ -41,9 +41,9 @@
     "icon": "/common/destiny_content/icons/c55bb99246b26adadd891bc9f83399a9.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        20, 
         21, 
-        45
+        45, 
+        20
     ], 
     "itemDescription": "The sleek housing conceals filigreed waveguides, ready to slip through the scalp and interface with the brain.", 
     "itemHash": 3349269946, 
@@ -69,6 +69,7 @@
     "sourceHashes": [
         541934873, 
         1797462710, 
+        1920307024, 
         1882189853
     ], 
     "sources": [
@@ -146,14 +147,16 @@
             "level": 17, 
             "maxLevelRequired": 17, 
             "maxQuality": 0, 
-            "minLevelRequired": 17, 
+            "minLevelRequired": 16, 
             "minQuality": 0, 
             "sourceHashes": [
                 541934873, 
-                1797462710
+                1797462710, 
+                1920307024
             ], 
             "spawnIndexes": [
-                2
+                2, 
+                6
             ]
         }, 
         {

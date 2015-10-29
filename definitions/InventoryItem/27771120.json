@@ -21,7 +21,8 @@
     "icon": "/common/destiny_content/icons/eb34add68a8eab24cfc8da26322c8f92.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        38
+        38, 
+        20
     ], 
     "itemDescription": "Definitely not made of wax. Probably actually a case, though.", 
     "itemHash": 27771120, 
@@ -31,7 +32,7 @@
     ], 
     "itemName": "Wax-Sealed Case", 
     "itemSubType": 0, 
-    "itemType": 0, 
+    "itemType": 2, 
     "itemTypeName": "Hunter Artifact", 
     "maxStackSize": 1, 
     "needsFullCompletion": false, 
@@ -42,11 +43,12 @@
     "qualityLevel": 0, 
     "questlineItemHash": 0, 
     "rewardItemHash": 0, 
-    "secondaryIcon": "/common/destiny_content/icons/c9f135057c8b1dd892f9d1df2dd03c31.png", 
+    "secondaryIcon": "/common/destiny_content/icons/87cd1d5f94883b2f3253f3646d80b917.png", 
     "setItemHashes": [], 
     "sourceHashes": [
+        460228854, 
         1920307024, 
-        460228854
+        2644169369
     ], 
     "sources": [
         {
@@ -90,59 +92,80 @@
             "minLevelRequired": 0, 
             "minQuality": 0, 
             "sourceHashes": [
-                1920307024, 
-                460228854
+                460228854, 
+                1920307024
             ], 
             "spawnIndexes": [
-                0
+                21
             ]
         }, 
         {
             "computedStats": {
                 "144602215": {
-                    "maximum": 0, 
-                    "minimum": 0, 
+                    "maximum": 50, 
+                    "minimum": 17, 
                     "statHash": 144602215, 
-                    "value": 0
+                    "value": 17
                 }, 
                 "1735777505": {
-                    "maximum": 0, 
-                    "minimum": 0, 
+                    "maximum": 71, 
+                    "minimum": 17, 
                     "statHash": 1735777505, 
-                    "value": 0
+                    "value": 17
                 }, 
                 "2391494160": {
-                    "maximum": 0, 
-                    "minimum": 0, 
+                    "maximum": 17, 
+                    "minimum": 16, 
                     "statHash": 2391494160, 
-                    "value": 0
+                    "value": 16
                 }, 
                 "3897883278": {
-                    "maximum": 3, 
-                    "minimum": 3, 
+                    "maximum": 220, 
+                    "minimum": 200, 
                     "statHash": 3897883278, 
-                    "value": 3
+                    "value": 200
                 }, 
                 "4244567218": {
-                    "maximum": 0, 
-                    "minimum": 0, 
+                    "maximum": 50, 
+                    "minimum": 17, 
                     "statHash": 4244567218, 
-                    "value": 0
+                    "value": 17
                 }
             }, 
             "exclusivity": 0, 
             "expansionIndex": 0, 
-            "level": 0, 
-            "maxLevelRequired": 0, 
-            "maxQuality": 0, 
-            "minLevelRequired": 0, 
+            "level": 40, 
+            "maxLevelRequired": 40, 
+            "maxQuality": 20, 
+            "minLevelRequired": 40, 
             "minQuality": 0, 
             "sourceHashes": [
+                2644169369, 
                 460228854, 
                 1920307024
             ], 
             "spawnIndexes": [
-                1
+                0, 
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                10, 
+                11, 
+                12, 
+                13, 
+                14, 
+                15, 
+                16, 
+                17, 
+                18, 
+                19, 
+                20
             ]
         }
     ], 

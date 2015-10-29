@@ -10,7 +10,7 @@
                 {
                     "flagHash": 1680320212, 
                     "stepOperator": 1, 
-                    "value": 2298, 
+                    "value": 2300, 
                     "valueHash": 0
                 }
             ]
@@ -41,9 +41,9 @@
     "icon": "/common/destiny_content/icons/36c01611350277367dece20c3a6cfadc.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        20, 
         21, 
-        46
+        46, 
+        20
     ], 
     "itemDescription": "Your very life is an act of defiance against Time - plucked from death to carry the fire.", 
     "itemHash": 1724319498, 
@@ -67,6 +67,8 @@
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
     "sourceHashes": [
+        1797462710, 
+        1920307024, 
         1882189853
     ], 
     "sources": [
@@ -106,7 +108,7 @@
             "minQuality": 0, 
             "sourceHashes": [], 
             "spawnIndexes": [
-                7
+                8
             ]
         }, 
         {
@@ -141,11 +143,15 @@
             "level": 14, 
             "maxLevelRequired": 14, 
             "maxQuality": 0, 
-            "minLevelRequired": 14, 
+            "minLevelRequired": 13, 
             "minQuality": 0, 
-            "sourceHashes": [], 
+            "sourceHashes": [
+                1797462710, 
+                1920307024
+            ], 
             "spawnIndexes": [
-                6
+                5, 
+                7
             ]
         }, 
         {
@@ -184,7 +190,7 @@
             "minQuality": 0, 
             "sourceHashes": [], 
             "spawnIndexes": [
-                5
+                6
             ]
         }, 
         {

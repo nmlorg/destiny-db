@@ -10,7 +10,7 @@
                 {
                     "flagHash": 1680320212, 
                     "stepOperator": 1, 
-                    "value": 2298, 
+                    "value": 2300, 
                     "valueHash": 0
                 }
             ]
@@ -41,9 +41,9 @@
     "icon": "/common/destiny_content/icons/119bd40a1d84083f48c344f49c9dde54.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        20, 
         23, 
-        45
+        45, 
+        20
     ], 
     "itemDescription": "Never lose your bearings. A disoriented Hunter cannot select vital targets or track lines of flight.", 
     "itemHash": 3595608716, 
@@ -68,32 +68,34 @@
     "setItemHashes": [], 
     "sourceHashes": [
         1381856260, 
-        866383853, 
-        1882189853
+        2644169369, 
+        1882189853, 
+        3870113141, 
+        866383853
     ], 
     "sources": [
         {
             "computedStats": {
                 "1735777505": {
-                    "maximum": 9, 
+                    "maximum": 10, 
                     "minimum": 7, 
                     "statHash": 1735777505, 
                     "value": 7
                 }, 
                 "2391494160": {
-                    "maximum": 4, 
+                    "maximum": 5, 
                     "minimum": 4, 
                     "statHash": 2391494160, 
                     "value": 4
                 }, 
                 "3897883278": {
-                    "maximum": 45, 
+                    "maximum": 55, 
                     "minimum": 45, 
                     "statHash": 3897883278, 
                     "value": 45
                 }, 
                 "4244567218": {
-                    "maximum": 9, 
+                    "maximum": 10, 
                     "minimum": 7, 
                     "statHash": 4244567218, 
                     "value": 7
@@ -103,15 +105,39 @@
             "expansionIndex": 0, 
             "level": 9, 
             "maxLevelRequired": 9, 
-            "maxQuality": 0, 
+            "maxQuality": 20, 
             "minLevelRequired": 6, 
             "minQuality": 0, 
             "sourceHashes": [
-                1381856260
+                1381856260, 
+                2644169369, 
+                1882189853, 
+                3870113141
             ], 
             "spawnIndexes": [
                 0, 
-                5
+                4, 
+                26, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                10, 
+                11, 
+                12, 
+                13, 
+                14, 
+                15, 
+                16, 
+                17, 
+                18, 
+                19, 
+                20, 
+                21, 
+                22, 
+                23, 
+                24
             ]
         }, 
         {
@@ -152,7 +178,7 @@
                 866383853
             ], 
             "spawnIndexes": [
-                4
+                25
             ]
         }, 
         {
@@ -283,25 +309,25 @@
     "statGroupHash": 1116828683, 
     "stats": {
         "1735777505": {
-            "maximum": 9, 
+            "maximum": 10, 
             "minimum": 7, 
             "statHash": 1735777505, 
             "value": 7
         }, 
         "2391494160": {
-            "maximum": 4, 
+            "maximum": 5, 
             "minimum": 4, 
             "statHash": 2391494160, 
             "value": 4
         }, 
         "3897883278": {
-            "maximum": 45, 
+            "maximum": 55, 
             "minimum": 45, 
             "statHash": 3897883278, 
             "value": 45
         }, 
         "4244567218": {
-            "maximum": 9, 
+            "maximum": 10, 
             "minimum": 7, 
             "statHash": 4244567218, 
             "value": 7

@@ -34,9 +34,9 @@
     "icon": "/common/destiny_content/icons/207bfcafe6d256625b8ad6ebf9c4c902.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        20, 
         21, 
-        49
+        49, 
+        20
     ], 
     "itemDescription": "\"What is Light? Who made it? How does it work? Light itself answers these questions. Do you understand?\"", 
     "itemHash": 4187038138, 
@@ -59,8 +59,50 @@
     "rewardItemHash": 0, 
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
-    "sourceHashes": [], 
+    "sourceHashes": [
+        2644169369, 
+        1882189853, 
+        3870113141
+    ], 
     "sources": [
+        {
+            "computedStats": {}, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 15, 
+            "maxLevelRequired": 11, 
+            "maxQuality": 20, 
+            "minLevelRequired": 11, 
+            "minQuality": 0, 
+            "sourceHashes": [
+                2644169369, 
+                1882189853, 
+                3870113141
+            ], 
+            "spawnIndexes": [
+                0, 
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                10, 
+                11, 
+                12, 
+                13, 
+                14, 
+                15, 
+                16, 
+                17, 
+                18, 
+                19, 
+                20
+            ]
+        }, 
         {
             "computedStats": {}, 
             "exclusivity": 0, 
@@ -72,7 +114,7 @@
             "minQuality": 0, 
             "sourceHashes": [], 
             "spawnIndexes": [
-                2
+                23
             ]
         }, 
         {
@@ -86,7 +128,7 @@
             "minQuality": 0, 
             "sourceHashes": [], 
             "spawnIndexes": [
-                1
+                22
             ]
         }, 
         {
@@ -100,7 +142,7 @@
             "minQuality": 0, 
             "sourceHashes": [], 
             "spawnIndexes": [
-                0
+                21
             ]
         }
     ], 

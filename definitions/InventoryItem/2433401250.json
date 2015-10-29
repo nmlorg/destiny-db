@@ -10,7 +10,7 @@
                 {
                     "flagHash": 1680320212, 
                     "stepOperator": 1, 
-                    "value": 2298, 
+                    "value": 2300, 
                     "valueHash": 0
                 }
             ]
@@ -41,9 +41,9 @@
     "icon": "/common/destiny_content/icons/47aeeed6d250e42c30f3a7025a15b8f7.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        20, 
         21, 
-        47
+        47, 
+        20
     ], 
     "itemDescription": "Most of the plating on a Warlock's equipment serves as an anchor and energy sink.", 
     "itemHash": 2433401250, 
@@ -67,37 +67,39 @@
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
     "sourceHashes": [
-        1882189853
+        2644169369, 
+        1882189853, 
+        3870113141
     ], 
     "sources": [
         {
             "computedStats": {
                 "144602215": {
-                    "maximum": 24, 
+                    "maximum": 26, 
                     "minimum": 20, 
                     "statHash": 144602215, 
                     "value": 20
                 }, 
                 "1735777505": {
-                    "maximum": 24, 
+                    "maximum": 26, 
                     "minimum": 20, 
                     "statHash": 1735777505, 
                     "value": 20
                 }, 
                 "2391494160": {
-                    "maximum": 10, 
+                    "maximum": 11, 
                     "minimum": 10, 
                     "statHash": 2391494160, 
                     "value": 10
                 }, 
                 "3897883278": {
-                    "maximum": 100, 
+                    "maximum": 110, 
                     "minimum": 100, 
                     "statHash": 3897883278, 
                     "value": 100
                 }, 
                 "4244567218": {
-                    "maximum": 24, 
+                    "maximum": 26, 
                     "minimum": 20, 
                     "statHash": 4244567218, 
                     "value": 20
@@ -107,12 +109,37 @@
             "expansionIndex": 0, 
             "level": 20, 
             "maxLevelRequired": 20, 
-            "maxQuality": 0, 
-            "minLevelRequired": 20, 
+            "maxQuality": 20, 
+            "minLevelRequired": 16, 
             "minQuality": 0, 
-            "sourceHashes": [], 
+            "sourceHashes": [
+                2644169369, 
+                1882189853, 
+                3870113141
+            ], 
             "spawnIndexes": [
-                7
+                3, 
+                28, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                10, 
+                11, 
+                12, 
+                13, 
+                14, 
+                15, 
+                16, 
+                17, 
+                18, 
+                19, 
+                20, 
+                21, 
+                22, 
+                23
             ]
         }, 
         {
@@ -157,7 +184,7 @@
             "minQuality": 0, 
             "sourceHashes": [], 
             "spawnIndexes": [
-                6
+                27
             ]
         }, 
         {
@@ -202,7 +229,7 @@
             "minQuality": 0, 
             "sourceHashes": [], 
             "spawnIndexes": [
-                5
+                26
             ]
         }, 
         {
@@ -247,7 +274,7 @@
             "minQuality": 0, 
             "sourceHashes": [], 
             "spawnIndexes": [
-                4
+                25
             ]
         }, 
         {
@@ -433,7 +460,7 @@
             "minQuality": 0, 
             "sourceHashes": [], 
             "spawnIndexes": [
-                3
+                24
             ]
         }
     ], 
@@ -441,31 +468,31 @@
     "statGroupHash": 363072480, 
     "stats": {
         "144602215": {
-            "maximum": 24, 
+            "maximum": 26, 
             "minimum": 20, 
             "statHash": 144602215, 
             "value": 20
         }, 
         "1735777505": {
-            "maximum": 24, 
+            "maximum": 26, 
             "minimum": 20, 
             "statHash": 1735777505, 
             "value": 20
         }, 
         "2391494160": {
-            "maximum": 10, 
+            "maximum": 11, 
             "minimum": 10, 
             "statHash": 2391494160, 
             "value": 10
         }, 
         "3897883278": {
-            "maximum": 100, 
+            "maximum": 110, 
             "minimum": 100, 
             "statHash": 3897883278, 
             "value": 100
         }, 
         "4244567218": {
-            "maximum": 24, 
+            "maximum": 26, 
             "minimum": 20, 
             "statHash": 4244567218, 
             "value": 20

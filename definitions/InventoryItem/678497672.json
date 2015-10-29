@@ -21,7 +21,8 @@
     "icon": "/common/destiny_content/icons/b7d349e50e8c2e8daf5fee6d31aa0877.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        38
+        38, 
+        20
     ], 
     "itemDescription": "Even among the Hive, all death has its cost.", 
     "itemHash": 678497672, 
@@ -31,7 +32,7 @@
     ], 
     "itemName": "Weregilt", 
     "itemSubType": 0, 
-    "itemType": 0, 
+    "itemType": 2, 
     "itemTypeName": "Warlock Artifact", 
     "maxStackSize": 1, 
     "needsFullCompletion": false, 
@@ -42,57 +43,79 @@
     "qualityLevel": 0, 
     "questlineItemHash": 0, 
     "rewardItemHash": 0, 
-    "secondaryIcon": "/common/destiny_content/icons/9eb6f7cf876fa3f83aca277e5a780b1e.png", 
+    "secondaryIcon": "/common/destiny_content/icons/61253c58f5a92f56e13a1311580f4474.png", 
     "setItemHashes": [], 
     "sourceHashes": [
+        2644169369, 
         460228854
     ], 
     "sources": [
         {
             "computedStats": {
                 "144602215": {
-                    "maximum": 0, 
-                    "minimum": 0, 
+                    "maximum": 50, 
+                    "minimum": 17, 
                     "statHash": 144602215, 
-                    "value": 0
+                    "value": 17
                 }, 
                 "1735777505": {
-                    "maximum": 0, 
-                    "minimum": 0, 
+                    "maximum": 50, 
+                    "minimum": 17, 
                     "statHash": 1735777505, 
-                    "value": 0
+                    "value": 17
                 }, 
                 "2391494160": {
-                    "maximum": 0, 
-                    "minimum": 0, 
+                    "maximum": 17, 
+                    "minimum": 16, 
                     "statHash": 2391494160, 
-                    "value": 0
+                    "value": 16
                 }, 
                 "3897883278": {
-                    "maximum": 3, 
-                    "minimum": 3, 
+                    "maximum": 220, 
+                    "minimum": 200, 
                     "statHash": 3897883278, 
-                    "value": 3
+                    "value": 200
                 }, 
                 "4244567218": {
-                    "maximum": 0, 
-                    "minimum": 0, 
+                    "maximum": 71, 
+                    "minimum": 17, 
                     "statHash": 4244567218, 
-                    "value": 0
+                    "value": 17
                 }
             }, 
             "exclusivity": 0, 
             "expansionIndex": 0, 
-            "level": 0, 
-            "maxLevelRequired": 0, 
-            "maxQuality": 0, 
-            "minLevelRequired": 0, 
+            "level": 40, 
+            "maxLevelRequired": 40, 
+            "maxQuality": 20, 
+            "minLevelRequired": 40, 
             "minQuality": 0, 
             "sourceHashes": [
+                2644169369, 
                 460228854
             ], 
             "spawnIndexes": [
-                0
+                0, 
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                10, 
+                11, 
+                12, 
+                13, 
+                14, 
+                15, 
+                16, 
+                17, 
+                18, 
+                19, 
+                20
             ]
         }
     ], 
@@ -100,34 +123,34 @@
     "statGroupHash": 434908299, 
     "stats": {
         "144602215": {
-            "maximum": 0, 
-            "minimum": 0, 
+            "maximum": 50, 
+            "minimum": 17, 
             "statHash": 144602215, 
-            "value": 0
+            "value": 17
         }, 
         "1735777505": {
-            "maximum": 0, 
-            "minimum": 0, 
+            "maximum": 50, 
+            "minimum": 17, 
             "statHash": 1735777505, 
-            "value": 0
+            "value": 17
         }, 
         "2391494160": {
-            "maximum": 0, 
-            "minimum": 0, 
+            "maximum": 17, 
+            "minimum": 16, 
             "statHash": 2391494160, 
-            "value": 0
+            "value": 16
         }, 
         "3897883278": {
-            "maximum": 3, 
-            "minimum": 3, 
+            "maximum": 220, 
+            "minimum": 200, 
             "statHash": 3897883278, 
-            "value": 3
+            "value": 200
         }, 
         "4244567218": {
-            "maximum": 0, 
-            "minimum": 0, 
+            "maximum": 71, 
+            "minimum": 17, 
             "statHash": 4244567218, 
-            "value": 0
+            "value": 17
         }
     }, 
     "talentGridHash": 3599222260, 

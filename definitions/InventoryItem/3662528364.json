@@ -34,9 +34,9 @@
     "icon": "/common/destiny_content/icons/1a5d6123e650ae8e096330fc98383c3a.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        20, 
         21, 
-        49
+        49, 
+        20
     ], 
     "itemDescription": "Like all Guardians, Warlocks are vessels for the Traveler's Light. But that power must be mastered.", 
     "itemHash": 3662528364, 
@@ -60,9 +60,10 @@
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
     "sourceHashes": [
+        2644169369, 
         1882189853, 
-        36493462, 
-        3870113141
+        3870113141, 
+        36493462
     ], 
     "sources": [
         {
@@ -71,12 +72,37 @@
             "expansionIndex": 0, 
             "level": 9, 
             "maxLevelRequired": 9, 
-            "maxQuality": 0, 
-            "minLevelRequired": 9, 
+            "maxQuality": 20, 
+            "minLevelRequired": 8, 
             "minQuality": 0, 
-            "sourceHashes": [], 
+            "sourceHashes": [
+                2644169369, 
+                1882189853, 
+                3870113141
+            ], 
             "spawnIndexes": [
-                5
+                4, 
+                26, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                10, 
+                11, 
+                12, 
+                13, 
+                14, 
+                15, 
+                16, 
+                17, 
+                18, 
+                19, 
+                20, 
+                21, 
+                22, 
+                23, 
+                24
             ]
         }, 
         {
@@ -90,7 +116,7 @@
             "minQuality": 0, 
             "sourceHashes": [], 
             "spawnIndexes": [
-                4
+                25
             ]
         }, 
         {

@@ -35,9 +35,9 @@
     "icon": "/common/destiny_content/icons/0c4f6307813777666aca75aef0fb43f8.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        20, 
         23, 
-        49
+        49, 
+        20
     ], 
     "itemDescription": "A pattern inspired by the legendary Awoken weapon.", 
     "itemHash": 156707612, 
@@ -60,21 +60,116 @@
     "rewardItemHash": 0, 
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
-    "sourceHashes": [], 
+    "sourceHashes": [
+        2644169369, 
+        1882189853, 
+        3870113141, 
+        460228854
+    ], 
+    "sources": [
+        {
+            "computedStats": {
+                "144602215": {
+                    "maximum": 39, 
+                    "minimum": 15, 
+                    "statHash": 144602215, 
+                    "value": 15
+                }, 
+                "1735777505": {
+                    "maximum": 39, 
+                    "minimum": 15, 
+                    "statHash": 1735777505, 
+                    "value": 15
+                }, 
+                "2391494160": {
+                    "maximum": 21, 
+                    "minimum": 20, 
+                    "statHash": 2391494160, 
+                    "value": 20
+                }, 
+                "3897883278": {
+                    "maximum": 270, 
+                    "minimum": 250, 
+                    "statHash": 3897883278, 
+                    "value": 250
+                }, 
+                "4244567218": {
+                    "maximum": 39, 
+                    "minimum": 15, 
+                    "statHash": 4244567218, 
+                    "value": 15
+                }
+            }, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 45, 
+            "maxLevelRequired": 40, 
+            "maxQuality": 20, 
+            "minLevelRequired": 40, 
+            "minQuality": 0, 
+            "sourceHashes": [
+                2644169369, 
+                1882189853, 
+                3870113141, 
+                460228854
+            ], 
+            "spawnIndexes": [
+                0, 
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                10, 
+                11, 
+                12, 
+                13, 
+                14, 
+                15, 
+                16, 
+                17, 
+                18, 
+                19, 
+                20
+            ]
+        }
+    ], 
     "specialItemType": 0, 
     "statGroupHash": 3128068143, 
     "stats": {
+        "144602215": {
+            "maximum": 39, 
+            "minimum": 15, 
+            "statHash": 144602215, 
+            "value": 15
+        }, 
+        "1735777505": {
+            "maximum": 39, 
+            "minimum": 15, 
+            "statHash": 1735777505, 
+            "value": 15
+        }, 
         "2391494160": {
-            "maximum": 0, 
-            "minimum": 0, 
+            "maximum": 21, 
+            "minimum": 20, 
             "statHash": 2391494160, 
-            "value": 0
+            "value": 20
         }, 
         "3897883278": {
-            "maximum": 0, 
-            "minimum": 0, 
+            "maximum": 270, 
+            "minimum": 250, 
             "statHash": 3897883278, 
-            "value": 0
+            "value": 250
+        }, 
+        "4244567218": {
+            "maximum": 39, 
+            "minimum": 15, 
+            "statHash": 4244567218, 
+            "value": 15
         }
     }, 
     "talentGridHash": 456693991, 

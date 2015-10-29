@@ -10,7 +10,7 @@
                 {
                     "flagHash": 1680320212, 
                     "stepOperator": 1, 
-                    "value": 2298, 
+                    "value": 2300, 
                     "valueHash": 0
                 }
             ]
@@ -41,9 +41,9 @@
     "icon": "/common/destiny_content/icons/b8b30ec61181ce59683827f9c11799fe.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        20, 
         21, 
-        47
+        47, 
+        20
     ], 
     "itemDescription": "Reach for the Light. In the instant of synapse, you will feel like a bridge to the world yet to come.", 
     "itemHash": 2442483871, 
@@ -69,6 +69,7 @@
     "sourceHashes": [
         541934873, 
         1797462710, 
+        1920307024, 
         1882189853
     ], 
     "sources": [
@@ -146,14 +147,16 @@
             "level": 17, 
             "maxLevelRequired": 17, 
             "maxQuality": 0, 
-            "minLevelRequired": 17, 
+            "minLevelRequired": 16, 
             "minQuality": 0, 
             "sourceHashes": [
                 541934873, 
-                1797462710
+                1797462710, 
+                1920307024
             ], 
             "spawnIndexes": [
-                2
+                2, 
+                6
             ]
         }, 
         {

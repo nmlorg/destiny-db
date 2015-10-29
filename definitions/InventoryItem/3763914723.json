@@ -10,7 +10,7 @@
                 {
                     "flagHash": 1680320212, 
                     "stepOperator": 1, 
-                    "value": 2298, 
+                    "value": 2300, 
                     "valueHash": 0
                 }
             ]
@@ -41,9 +41,9 @@
     "icon": "/common/destiny_content/icons/88e312d69bc80c227ec73358c0ec08d4.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        20, 
         23, 
-        48
+        48, 
+        20
     ], 
     "itemDescription": "The Martian surface offers no solace to the lost. Guardians must move swiftly and be watchful.", 
     "itemHash": 3763914723, 
@@ -69,6 +69,7 @@
     "sourceHashes": [
         541934873, 
         1797462710, 
+        1920307024, 
         1882189853
     ], 
     "sources": [
@@ -146,14 +147,16 @@
             "level": 17, 
             "maxLevelRequired": 17, 
             "maxQuality": 0, 
-            "minLevelRequired": 17, 
+            "minLevelRequired": 16, 
             "minQuality": 0, 
             "sourceHashes": [
                 541934873, 
-                1797462710
+                1797462710, 
+                1920307024
             ], 
             "spawnIndexes": [
-                2
+                2, 
+                6
             ]
         }, 
         {

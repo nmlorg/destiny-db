@@ -34,9 +34,9 @@
     "icon": "/common/destiny_content/icons/522684942f6f67d17a3052e034c76a68.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        20, 
         21, 
-        49
+        49, 
+        20
     ], 
     "itemDescription": "If the City falls, there will be no one left to adjudicate phenomenological debates. So now, even the scholars fight.", 
     "itemHash": 1772111013, 
@@ -59,7 +59,10 @@
     "rewardItemHash": 0, 
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
-    "sourceHashes": [], 
+    "sourceHashes": [
+        1797462710, 
+        1920307024
+    ], 
     "sources": [
         {
             "computedStats": {}, 
@@ -72,7 +75,7 @@
             "minQuality": 0, 
             "sourceHashes": [], 
             "spawnIndexes": [
-                2
+                3
             ]
         }, 
         {
@@ -82,11 +85,15 @@
             "level": 17, 
             "maxLevelRequired": 17, 
             "maxQuality": 0, 
-            "minLevelRequired": 17, 
+            "minLevelRequired": 16, 
             "minQuality": 0, 
-            "sourceHashes": [], 
+            "sourceHashes": [
+                1797462710, 
+                1920307024
+            ], 
             "spawnIndexes": [
-                1
+                0, 
+                2
             ]
         }, 
         {
@@ -100,7 +107,7 @@
             "minQuality": 0, 
             "sourceHashes": [], 
             "spawnIndexes": [
-                0
+                1
             ]
         }
     ], 

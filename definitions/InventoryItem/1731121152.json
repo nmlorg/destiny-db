@@ -10,7 +10,7 @@
                 {
                     "flagHash": 1680320212, 
                     "stepOperator": 1, 
-                    "value": 2298, 
+                    "value": 2300, 
                     "valueHash": 0
                 }
             ]
@@ -41,9 +41,9 @@
     "icon": "/common/destiny_content/icons/eb819155d521a66549f7a4dd2c5d8779.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        20, 
         21, 
-        48
+        48, 
+        20
     ], 
     "itemDescription": "\"The solipsist position is false. I could never imagine this.\" -  a thanatonaut, final words before Ghost intervention", 
     "itemHash": 1731121152, 
@@ -67,13 +67,85 @@
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
     "sourceHashes": [
-        4074277503, 
-        1920307024, 
-        2861499388, 
+        2644169369, 
         1882189853, 
+        3870113141, 
+        1920307024, 
+        4074277503, 
+        2861499388, 
         709638738
     ], 
     "sources": [
+        {
+            "computedStats": {
+                "144602215": {
+                    "maximum": 19, 
+                    "minimum": 13, 
+                    "statHash": 144602215, 
+                    "value": 13
+                }, 
+                "1735777505": {
+                    "maximum": 19, 
+                    "minimum": 13, 
+                    "statHash": 1735777505, 
+                    "value": 13
+                }, 
+                "2391494160": {
+                    "maximum": 8, 
+                    "minimum": 7, 
+                    "statHash": 2391494160, 
+                    "value": 7
+                }, 
+                "3897883278": {
+                    "maximum": 85, 
+                    "minimum": 75, 
+                    "statHash": 3897883278, 
+                    "value": 75
+                }, 
+                "4244567218": {
+                    "maximum": 19, 
+                    "minimum": 13, 
+                    "statHash": 4244567218, 
+                    "value": 13
+                }
+            }, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 15, 
+            "maxLevelRequired": 11, 
+            "maxQuality": 20, 
+            "minLevelRequired": 11, 
+            "minQuality": 0, 
+            "sourceHashes": [
+                2644169369, 
+                1882189853, 
+                3870113141, 
+                1920307024
+            ], 
+            "spawnIndexes": [
+                6, 
+                7, 
+                8, 
+                9, 
+                10, 
+                11, 
+                12, 
+                13, 
+                14, 
+                15, 
+                16, 
+                17, 
+                18, 
+                19, 
+                20, 
+                21, 
+                22, 
+                23, 
+                24, 
+                25, 
+                26
+            ]
+        }, 
         {
             "computedStats": {
                 "144602215": {
@@ -119,7 +191,7 @@
                 1920307024
             ], 
             "spawnIndexes": [
-                7
+                28
             ]
         }, 
         {
@@ -219,7 +291,7 @@
             ], 
             "spawnIndexes": [
                 4, 
-                6
+                27
             ]
         }, 
         {
@@ -371,31 +443,31 @@
     "statGroupHash": 3568793270, 
     "stats": {
         "144602215": {
-            "maximum": 16, 
+            "maximum": 19, 
             "minimum": 13, 
             "statHash": 144602215, 
             "value": 13
         }, 
         "1735777505": {
-            "maximum": 16, 
+            "maximum": 19, 
             "minimum": 13, 
             "statHash": 1735777505, 
             "value": 13
         }, 
         "2391494160": {
-            "maximum": 7, 
+            "maximum": 8, 
             "minimum": 7, 
             "statHash": 2391494160, 
             "value": 7
         }, 
         "3897883278": {
-            "maximum": 70, 
-            "minimum": 70, 
+            "maximum": 85, 
+            "minimum": 75, 
             "statHash": 3897883278, 
-            "value": 70
+            "value": 75
         }, 
         "4244567218": {
-            "maximum": 16, 
+            "maximum": 19, 
             "minimum": 13, 
             "statHash": 4244567218, 
             "value": 13

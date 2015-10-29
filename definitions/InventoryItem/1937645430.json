@@ -10,7 +10,7 @@
                 {
                     "flagHash": 1680320212, 
                     "stepOperator": 1, 
-                    "value": 2298, 
+                    "value": 2300, 
                     "valueHash": 0
                 }
             ]
@@ -41,9 +41,9 @@
     "icon": "/common/destiny_content/icons/027e13b11a75380353acdf6bdf5583d0.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        20, 
         23, 
-        45
+        45, 
+        20
     ], 
     "itemDescription": "Just my rifle, my Sparrow, and me.", 
     "itemHash": 1937645430, 
@@ -66,21 +66,143 @@
     "rewardItemHash": 0, 
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
-    "sourceHashes": [], 
+    "sourceHashes": [
+        1797462710, 
+        1920307024, 
+        460228854
+    ], 
+    "sources": [
+        {
+            "computedStats": {
+                "144602215": {
+                    "maximum": 32, 
+                    "minimum": 26, 
+                    "statHash": 144602215, 
+                    "value": 26
+                }, 
+                "1735777505": {
+                    "maximum": 32, 
+                    "minimum": 26, 
+                    "statHash": 1735777505, 
+                    "value": 26
+                }, 
+                "2391494160": {
+                    "maximum": 17, 
+                    "minimum": 17, 
+                    "statHash": 2391494160, 
+                    "value": 17
+                }, 
+                "3897883278": {
+                    "maximum": 175, 
+                    "minimum": 175, 
+                    "statHash": 3897883278, 
+                    "value": 175
+                }, 
+                "4244567218": {
+                    "maximum": 32, 
+                    "minimum": 26, 
+                    "statHash": 4244567218, 
+                    "value": 26
+                }
+            }, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 35, 
+            "maxLevelRequired": 34, 
+            "maxQuality": 0, 
+            "minLevelRequired": 34, 
+            "minQuality": 0, 
+            "sourceHashes": [
+                1797462710, 
+                1920307024, 
+                460228854
+            ], 
+            "spawnIndexes": [
+                1
+            ]
+        }, 
+        {
+            "computedStats": {
+                "144602215": {
+                    "maximum": 27, 
+                    "minimum": 22, 
+                    "statHash": 144602215, 
+                    "value": 22
+                }, 
+                "1735777505": {
+                    "maximum": 27, 
+                    "minimum": 22, 
+                    "statHash": 1735777505, 
+                    "value": 22
+                }, 
+                "2391494160": {
+                    "maximum": 16, 
+                    "minimum": 16, 
+                    "statHash": 2391494160, 
+                    "value": 16
+                }, 
+                "3897883278": {
+                    "maximum": 160, 
+                    "minimum": 160, 
+                    "statHash": 3897883278, 
+                    "value": 160
+                }, 
+                "4244567218": {
+                    "maximum": 27, 
+                    "minimum": 22, 
+                    "statHash": 4244567218, 
+                    "value": 22
+                }
+            }, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 32, 
+            "maxLevelRequired": 31, 
+            "maxQuality": 0, 
+            "minLevelRequired": 31, 
+            "minQuality": 0, 
+            "sourceHashes": [
+                1797462710, 
+                1920307024, 
+                460228854
+            ], 
+            "spawnIndexes": [
+                0
+            ]
+        }
+    ], 
     "specialItemType": 0, 
     "statGroupHash": 1116828683, 
     "stats": {
+        "144602215": {
+            "maximum": 32, 
+            "minimum": 26, 
+            "statHash": 144602215, 
+            "value": 26
+        }, 
+        "1735777505": {
+            "maximum": 32, 
+            "minimum": 26, 
+            "statHash": 1735777505, 
+            "value": 26
+        }, 
         "2391494160": {
-            "maximum": 0, 
-            "minimum": 0, 
+            "maximum": 17, 
+            "minimum": 17, 
             "statHash": 2391494160, 
-            "value": 0
+            "value": 17
         }, 
         "3897883278": {
-            "maximum": 0, 
-            "minimum": 0, 
+            "maximum": 175, 
+            "minimum": 175, 
             "statHash": 3897883278, 
-            "value": 0
+            "value": 175
+        }, 
+        "4244567218": {
+            "maximum": 32, 
+            "minimum": 26, 
+            "statHash": 4244567218, 
+            "value": 26
         }
     }, 
     "talentGridHash": 2761783996, 

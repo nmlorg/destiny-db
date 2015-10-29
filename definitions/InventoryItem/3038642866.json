@@ -34,9 +34,9 @@
     "icon": "/common/destiny_content/icons/5dc51f4312d6465610e6e13807356ba9.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        20, 
         22, 
-        49
+        49, 
+        20
     ], 
     "itemDescription": "\"You cannot control the enemy. You can control yourself. The real victory lies within.\" - Pujari, Transcript VII", 
     "itemHash": 3038642866, 
@@ -59,8 +59,50 @@
     "rewardItemHash": 0, 
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
-    "sourceHashes": [], 
+    "sourceHashes": [
+        2644169369, 
+        1882189853, 
+        3870113141
+    ], 
     "sources": [
+        {
+            "computedStats": {}, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 15, 
+            "maxLevelRequired": 11, 
+            "maxQuality": 20, 
+            "minLevelRequired": 11, 
+            "minQuality": 0, 
+            "sourceHashes": [
+                2644169369, 
+                1882189853, 
+                3870113141
+            ], 
+            "spawnIndexes": [
+                0, 
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                10, 
+                11, 
+                12, 
+                13, 
+                14, 
+                15, 
+                16, 
+                17, 
+                18, 
+                19, 
+                20
+            ]
+        }, 
         {
             "computedStats": {}, 
             "exclusivity": 0, 
@@ -72,7 +114,7 @@
             "minQuality": 0, 
             "sourceHashes": [], 
             "spawnIndexes": [
-                2
+                23
             ]
         }, 
         {
@@ -86,7 +128,7 @@
             "minQuality": 0, 
             "sourceHashes": [], 
             "spawnIndexes": [
-                1
+                22
             ]
         }, 
         {
@@ -100,7 +142,7 @@
             "minQuality": 0, 
             "sourceHashes": [], 
             "spawnIndexes": [
-                0
+                21
             ]
         }
     ], 

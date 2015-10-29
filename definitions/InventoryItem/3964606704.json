@@ -34,9 +34,9 @@
     "icon": "/common/destiny_content/icons/3843492fc5b9fd77e3cf84179a066b8a.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        20, 
         23, 
-        49
+        49, 
+        20
     ], 
     "itemDescription": "Tell the Warlocks your cloak is frabjous. They respect words they don't understand.", 
     "itemHash": 3964606704, 
@@ -60,7 +60,10 @@
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
     "sourceHashes": [
-        1920307024
+        1920307024, 
+        2644169369, 
+        1882189853, 
+        3870113141
     ], 
     "sources": [
         {
@@ -76,7 +79,46 @@
                 1920307024
             ], 
             "spawnIndexes": [
-                3
+                24
+            ]
+        }, 
+        {
+            "computedStats": {}, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 15, 
+            "maxLevelRequired": 11, 
+            "maxQuality": 20, 
+            "minLevelRequired": 11, 
+            "minQuality": 0, 
+            "sourceHashes": [
+                2644169369, 
+                1882189853, 
+                3870113141, 
+                1920307024
+            ], 
+            "spawnIndexes": [
+                0, 
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                10, 
+                11, 
+                12, 
+                13, 
+                14, 
+                15, 
+                16, 
+                17, 
+                18, 
+                19, 
+                20
             ]
         }, 
         {
@@ -92,7 +134,7 @@
                 1920307024
             ], 
             "spawnIndexes": [
-                2
+                23
             ]
         }, 
         {
@@ -108,7 +150,7 @@
                 1920307024
             ], 
             "spawnIndexes": [
-                1
+                22
             ]
         }, 
         {
@@ -124,7 +166,7 @@
                 1920307024
             ], 
             "spawnIndexes": [
-                0
+                21
             ]
         }
     ], 

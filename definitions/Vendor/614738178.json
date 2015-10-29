@@ -14,13 +14,42 @@
             "overlayTitle": "", 
             "quantityAvailable": 0, 
             "showUnavailableItems": false
+        }, 
+        {
+            "categoryHash": 2423846099, 
+            "displayTitle": "Dances", 
+            "hasOverlay": false, 
+            "hideFromRegularPurchase": false, 
+            "hideIfNoCurrency": false, 
+            "overlayChoice": "", 
+            "overlayCurrencyItemHash": 0, 
+            "overlayDescription": "", 
+            "overlayIcon": "/img/misc/missing_icon.png", 
+            "overlayTitle": "", 
+            "quantityAvailable": 0, 
+            "showUnavailableItems": false
+        }, 
+        {
+            "categoryHash": 1893175724, 
+            "displayTitle": "Classified", 
+            "hasOverlay": false, 
+            "hideFromRegularPurchase": false, 
+            "hideIfNoCurrency": false, 
+            "overlayChoice": "", 
+            "overlayCurrencyItemHash": 0, 
+            "overlayDescription": "", 
+            "overlayIcon": "/img/misc/missing_icon.png", 
+            "overlayTitle": "", 
+            "quantityAvailable": 0, 
+            "showUnavailableItems": false
         }
     ], 
     "failureStrings": [
         "The Taken King Collector's Edition", 
         "Hunter Class", 
         "Titan Class", 
-        "Warlock Class"
+        "Warlock Class", 
+        "Requires Eververse purchase"
     ], 
     "hash": 0, 
     "index": 0, 
@@ -29,9 +58,9 @@
         "enabledUnlockFlagHashes": [], 
         "eventHash": 0, 
         "factionHash": 0, 
-        "mapSectionIdentifier": "SERVICES", 
-        "mapSectionName": "Services", 
-        "mapSectionOrder": 0, 
+        "mapSectionIdentifier": "COLLECTIONS", 
+        "mapSectionName": "Collections", 
+        "mapSectionOrder": 6, 
         "positionX": 1721, 
         "positionY": 382, 
         "progressionHash": 0, 
@@ -48,11 +77,12 @@
         ], 
         "vendorDescription": "Emote Collection", 
         "vendorHash": 614738178, 
-        "vendorIcon": "/common/destiny_content/icons/ce470a98244caf67dfaeb7856777ceeb.png", 
+        "vendorIcon": "/common/destiny_content/icons/afe16b2a93351de8817fdc2c21c45244.png", 
         "vendorIdentifier": "VENDOR_KIOSK_EMOTES", 
         "vendorName": "Emote Collection", 
         "vendorOrder": 31, 
         "vendorPortrait": "/img/destiny_content/vendor/emoteCollection.png", 
+        "vendorSubcategoryHash": 800, 
         "visible": true
     }, 
     "unlockValueHash": 0

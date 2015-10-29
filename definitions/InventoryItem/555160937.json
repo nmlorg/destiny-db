@@ -10,7 +10,7 @@
                 {
                     "flagHash": 1680320212, 
                     "stepOperator": 1, 
-                    "value": 2298, 
+                    "value": 2300, 
                     "valueHash": 0
                 }
             ]
@@ -41,9 +41,9 @@
     "icon": "/common/destiny_content/icons/0837e9d68116d6e3cb999c7288c1909c.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        20, 
         21, 
-        46
+        46, 
+        20
     ], 
     "itemDescription": "\"Pray the bullets find you first. I will not leave a corpse for your Vandals to squabble over.\"", 
     "itemHash": 555160937, 
@@ -69,6 +69,7 @@
     "sourceHashes": [
         541934873, 
         1797462710, 
+        1920307024, 
         1882189853
     ], 
     "sources": [
@@ -146,14 +147,16 @@
             "level": 17, 
             "maxLevelRequired": 17, 
             "maxQuality": 0, 
-            "minLevelRequired": 17, 
+            "minLevelRequired": 16, 
             "minQuality": 0, 
             "sourceHashes": [
                 541934873, 
-                1797462710
+                1797462710, 
+                1920307024
             ], 
             "spawnIndexes": [
-                2
+                2, 
+                6
             ]
         }, 
         {

@@ -10,7 +10,7 @@
                 {
                     "flagHash": 1680320212, 
                     "stepOperator": 1, 
-                    "value": 2298, 
+                    "value": 2300, 
                     "valueHash": 0
                 }
             ]
@@ -41,9 +41,9 @@
     "icon": "/common/destiny_content/icons/b253e96565354b897a22fd53ebbbe54f.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        20, 
         23, 
-        45
+        45, 
+        20
     ], 
     "itemDescription": "\"Doesn't matter how good you are\u2014you stay out there too long, you're not coming back. Not the same way you left, anyway.\" \u2014Tevis", 
     "itemHash": 1054763959, 
@@ -67,10 +67,129 @@
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
     "sourceHashes": [
-        941581325, 
-        460228854
+        3551688287, 
+        460228854, 
+        113998144, 
+        941581325
     ], 
     "sources": [
+        {
+            "computedStats": {
+                "144602215": {
+                    "maximum": 103, 
+                    "minimum": 38, 
+                    "statHash": 144602215, 
+                    "value": 38
+                }, 
+                "1735777505": {
+                    "maximum": 65, 
+                    "minimum": 38, 
+                    "statHash": 1735777505, 
+                    "value": 38
+                }, 
+                "2391494160": {
+                    "maximum": 33, 
+                    "minimum": 33, 
+                    "statHash": 2391494160, 
+                    "value": 33
+                }, 
+                "3897883278": {
+                    "maximum": 330, 
+                    "minimum": 330, 
+                    "statHash": 3897883278, 
+                    "value": 330
+                }, 
+                "4244567218": {
+                    "maximum": 65, 
+                    "minimum": 38, 
+                    "statHash": 4244567218, 
+                    "value": 38
+                }
+            }, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 53, 
+            "maxLevelRequired": 40, 
+            "maxQuality": 0, 
+            "minLevelRequired": 40, 
+            "minQuality": 0, 
+            "sourceHashes": [
+                3551688287, 
+                460228854
+            ], 
+            "spawnIndexes": [
+                1
+            ]
+        }, 
+        {
+            "computedStats": {
+                "144602215": {
+                    "maximum": 95, 
+                    "minimum": 32, 
+                    "statHash": 144602215, 
+                    "value": 32
+                }, 
+                "1735777505": {
+                    "maximum": 60, 
+                    "minimum": 32, 
+                    "statHash": 1735777505, 
+                    "value": 32
+                }, 
+                "2391494160": {
+                    "maximum": 31, 
+                    "minimum": 29, 
+                    "statHash": 2391494160, 
+                    "value": 29
+                }, 
+                "3897883278": {
+                    "maximum": 310, 
+                    "minimum": 290, 
+                    "statHash": 3897883278, 
+                    "value": 290
+                }, 
+                "4244567218": {
+                    "maximum": 60, 
+                    "minimum": 32, 
+                    "statHash": 4244567218, 
+                    "value": 32
+                }
+            }, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 49, 
+            "maxLevelRequired": 40, 
+            "maxQuality": 20, 
+            "minLevelRequired": 40, 
+            "minQuality": 0, 
+            "sourceHashes": [
+                3551688287, 
+                113998144, 
+                460228854
+            ], 
+            "spawnIndexes": [
+                0, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                10, 
+                11, 
+                12, 
+                13, 
+                14, 
+                15, 
+                16, 
+                17, 
+                18, 
+                19, 
+                20, 
+                21
+            ]
+        }, 
         {
             "computedStats": {
                 "144602215": {
@@ -116,7 +235,7 @@
                 460228854
             ], 
             "spawnIndexes": [
-                0
+                22
             ]
         }, 
         {
@@ -163,7 +282,7 @@
                 460228854
             ], 
             "spawnIndexes": [
-                1
+                23
             ]
         }
     ], 
@@ -171,34 +290,34 @@
     "statGroupHash": 1116828683, 
     "stats": {
         "144602215": {
-            "maximum": 84, 
-            "minimum": 31, 
+            "maximum": 103, 
+            "minimum": 38, 
             "statHash": 144602215, 
-            "value": 31
+            "value": 38
         }, 
         "1735777505": {
-            "maximum": 53, 
-            "minimum": 31, 
+            "maximum": 65, 
+            "minimum": 38, 
             "statHash": 1735777505, 
-            "value": 31
+            "value": 38
         }, 
         "2391494160": {
-            "maximum": 28, 
-            "minimum": 28, 
+            "maximum": 33, 
+            "minimum": 33, 
             "statHash": 2391494160, 
-            "value": 28
+            "value": 33
         }, 
         "3897883278": {
-            "maximum": 280, 
-            "minimum": 280, 
+            "maximum": 330, 
+            "minimum": 330, 
             "statHash": 3897883278, 
-            "value": 280
+            "value": 330
         }, 
         "4244567218": {
-            "maximum": 53, 
-            "minimum": 31, 
+            "maximum": 65, 
+            "minimum": 38, 
             "statHash": 4244567218, 
-            "value": 31
+            "value": 38
         }
     }, 
     "talentGridHash": 3165237500, 

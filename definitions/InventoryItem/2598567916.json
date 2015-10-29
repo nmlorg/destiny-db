@@ -10,7 +10,7 @@
                 {
                     "flagHash": 1680320212, 
                     "stepOperator": 1, 
-                    "value": 2298, 
+                    "value": 2300, 
                     "valueHash": 0
                 }
             ]
@@ -41,9 +41,9 @@
     "icon": "/common/destiny_content/icons/aef13b1e595d1ba90389448867e3a1de.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        20, 
         21, 
-        47
+        47, 
+        20
     ], 
     "itemDescription": "We did not create the Philosopher's Stone. It appeared to us in the skies over Mars.", 
     "itemHash": 2598567916, 
@@ -66,21 +66,110 @@
     "rewardItemHash": 0, 
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
-    "sourceHashes": [], 
+    "sourceHashes": [
+        460228854
+    ], 
+    "sources": [
+        {
+            "computedStats": {
+                "144602215": {
+                    "maximum": 64, 
+                    "minimum": 35, 
+                    "statHash": 144602215, 
+                    "value": 35
+                }, 
+                "1735777505": {
+                    "maximum": 64, 
+                    "minimum": 35, 
+                    "statHash": 1735777505, 
+                    "value": 35
+                }, 
+                "2391494160": {
+                    "maximum": 26, 
+                    "minimum": 24, 
+                    "statHash": 2391494160, 
+                    "value": 24
+                }, 
+                "3897883278": {
+                    "maximum": 260, 
+                    "minimum": 240, 
+                    "statHash": 3897883278, 
+                    "value": 240
+                }, 
+                "4244567218": {
+                    "maximum": 64, 
+                    "minimum": 35, 
+                    "statHash": 4244567218, 
+                    "value": 35
+                }
+            }, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 44, 
+            "maxLevelRequired": 40, 
+            "maxQuality": 20, 
+            "minLevelRequired": 40, 
+            "minQuality": 0, 
+            "sourceHashes": [
+                460228854
+            ], 
+            "spawnIndexes": [
+                0, 
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                10, 
+                11, 
+                12, 
+                13, 
+                14, 
+                15, 
+                16, 
+                17, 
+                18, 
+                19, 
+                20
+            ]
+        }
+    ], 
     "specialItemType": 0, 
     "statGroupHash": 363072480, 
     "stats": {
+        "144602215": {
+            "maximum": 64, 
+            "minimum": 35, 
+            "statHash": 144602215, 
+            "value": 35
+        }, 
+        "1735777505": {
+            "maximum": 64, 
+            "minimum": 35, 
+            "statHash": 1735777505, 
+            "value": 35
+        }, 
         "2391494160": {
-            "maximum": 0, 
-            "minimum": 0, 
+            "maximum": 26, 
+            "minimum": 24, 
             "statHash": 2391494160, 
-            "value": 0
+            "value": 24
         }, 
         "3897883278": {
-            "maximum": 0, 
-            "minimum": 0, 
+            "maximum": 260, 
+            "minimum": 240, 
             "statHash": 3897883278, 
-            "value": 0
+            "value": 240
+        }, 
+        "4244567218": {
+            "maximum": 64, 
+            "minimum": 35, 
+            "statHash": 4244567218, 
+            "value": 35
         }
     }, 
     "talentGridHash": 642280636, 

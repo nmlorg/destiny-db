@@ -10,7 +10,7 @@
                 {
                     "flagHash": 1680320212, 
                     "stepOperator": 1, 
-                    "value": 2298, 
+                    "value": 2300, 
                     "valueHash": 0
                 }
             ]
@@ -41,9 +41,9 @@
     "icon": "/common/destiny_content/icons/ddd48ab36dfdeccad1ed501303fe3938.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        20, 
         22, 
-        49
+        49, 
+        20
     ], 
     "itemDescription": "Titan marks are worn to honor the history of individuals or entire orders.", 
     "itemHash": 1920387934, 
@@ -66,23 +66,32 @@
     "rewardItemHash": 0, 
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
-    "sourceHashes": [], 
+    "sourceHashes": [
+        1797462710, 
+        1920307024
+    ], 
+    "sources": [
+        {
+            "computedStats": {}, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 2, 
+            "maxLevelRequired": 2, 
+            "maxQuality": 5, 
+            "minLevelRequired": 2, 
+            "minQuality": 5, 
+            "sourceHashes": [
+                1797462710, 
+                1920307024
+            ], 
+            "spawnIndexes": [
+                0
+            ]
+        }
+    ], 
     "specialItemType": 0, 
     "statGroupHash": 0, 
-    "stats": {
-        "2391494160": {
-            "maximum": 0, 
-            "minimum": 0, 
-            "statHash": 2391494160, 
-            "value": 0
-        }, 
-        "3897883278": {
-            "maximum": 0, 
-            "minimum": 0, 
-            "statHash": 3897883278, 
-            "value": 0
-        }
-    }, 
+    "stats": {}, 
     "talentGridHash": 402227843, 
     "tierType": 2, 
     "tierTypeName": "Common", 

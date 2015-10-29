@@ -10,7 +10,7 @@
                 {
                     "flagHash": 1680320212, 
                     "stepOperator": 1, 
-                    "value": 2298, 
+                    "value": 2300, 
                     "valueHash": 0
                 }
             ]
@@ -41,9 +41,9 @@
     "icon": "/common/destiny_content/icons/b6f6d12a038da1ec72475ded90bc059a.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        20, 
         23, 
-        45
+        45, 
+        20
     ], 
     "itemDescription": "This basic helmet offers a closed rebreather and a decent internal sensorium.", 
     "itemHash": 3295133855, 
@@ -68,7 +68,8 @@
     "setItemHashes": [], 
     "sourceHashes": [
         541934873, 
-        1797462710
+        1797462710, 
+        1920307024
     ], 
     "sources": [
         {
@@ -86,6 +87,23 @@
             ], 
             "spawnIndexes": [
                 0
+            ]
+        }, 
+        {
+            "computedStats": {}, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 2, 
+            "maxLevelRequired": 2, 
+            "maxQuality": 5, 
+            "minLevelRequired": 2, 
+            "minQuality": 5, 
+            "sourceHashes": [
+                1797462710, 
+                1920307024
+            ], 
+            "spawnIndexes": [
+                1
             ]
         }
     ], 

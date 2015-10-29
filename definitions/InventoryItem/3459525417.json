@@ -10,7 +10,7 @@
                 {
                     "flagHash": 1680320212, 
                     "stepOperator": 1, 
-                    "value": 2298, 
+                    "value": 2300, 
                     "valueHash": 0
                 }
             ]
@@ -41,9 +41,9 @@
     "icon": "/common/destiny_content/icons/38f451a8c29f4727ea5080564136add3.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        20, 
         23, 
-        47
+        47, 
+        20
     ], 
     "itemDescription": "Field wire stiffens on impact, converting enemy gunfire into heat, shrapnel, and bruises.", 
     "itemHash": 3459525417, 
@@ -68,7 +68,8 @@
     "setItemHashes": [], 
     "sourceHashes": [
         541934873, 
-        1797462710
+        1797462710, 
+        1920307024
     ], 
     "sources": [
         {
@@ -99,6 +100,36 @@
             ], 
             "spawnIndexes": [
                 0, 
+                2
+            ]
+        }, 
+        {
+            "computedStats": {
+                "2391494160": {
+                    "maximum": 1, 
+                    "minimum": 1, 
+                    "statHash": 2391494160, 
+                    "value": 1
+                }, 
+                "3897883278": {
+                    "maximum": 12, 
+                    "minimum": 12, 
+                    "statHash": 3897883278, 
+                    "value": 12
+                }
+            }, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 2, 
+            "maxLevelRequired": 2, 
+            "maxQuality": 5, 
+            "minLevelRequired": 2, 
+            "minQuality": 5, 
+            "sourceHashes": [
+                1797462710, 
+                1920307024
+            ], 
+            "spawnIndexes": [
                 1
             ]
         }

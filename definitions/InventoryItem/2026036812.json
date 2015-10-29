@@ -21,7 +21,8 @@
     "icon": "/common/destiny_content/icons/6d2cba43f1bf6c69437425ab7c7f2adf.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        38
+        38, 
+        20
     ], 
     "itemDescription": "\"Don't eat that!\" \"\u2026Too late.\"", 
     "itemHash": 2026036812, 
@@ -31,7 +32,7 @@
     ], 
     "itemName": "Neural Bezoar", 
     "itemSubType": 0, 
-    "itemType": 0, 
+    "itemType": 2, 
     "itemTypeName": "Hunter Artifact", 
     "maxStackSize": 1, 
     "needsFullCompletion": false, 
@@ -42,41 +43,41 @@
     "qualityLevel": 0, 
     "questlineItemHash": 0, 
     "rewardItemHash": 0, 
-    "secondaryIcon": "/common/destiny_content/icons/d5b0d6e55529ada65ce61ac0e1cc934b.png", 
+    "secondaryIcon": "/common/destiny_content/icons/ef6d09dff193b8a9eb552659cbaba90c.png", 
     "setItemHashes": [], 
     "sourceHashes": [
-        1920307024, 
-        460228854
+        460228854, 
+        1920307024
     ], 
     "sources": [
         {
             "computedStats": {
                 "144602215": {
-                    "maximum": 47, 
+                    "maximum": 50, 
                     "minimum": 17, 
                     "statHash": 144602215, 
                     "value": 17
                 }, 
                 "1735777505": {
-                    "maximum": 47, 
+                    "maximum": 50, 
                     "minimum": 17, 
                     "statHash": 1735777505, 
                     "value": 17
                 }, 
                 "2391494160": {
-                    "maximum": 16, 
+                    "maximum": 17, 
                     "minimum": 16, 
                     "statHash": 2391494160, 
                     "value": 16
                 }, 
                 "3897883278": {
-                    "maximum": 200, 
+                    "maximum": 220, 
                     "minimum": 200, 
                     "statHash": 3897883278, 
                     "value": 200
                 }, 
                 "4244567218": {
-                    "maximum": 67, 
+                    "maximum": 71, 
                     "minimum": 17, 
                     "statHash": 4244567218, 
                     "value": 17
@@ -86,15 +87,35 @@
             "expansionIndex": 0, 
             "level": 40, 
             "maxLevelRequired": 40, 
-            "maxQuality": 0, 
+            "maxQuality": 20, 
             "minLevelRequired": 40, 
             "minQuality": 0, 
             "sourceHashes": [
-                1920307024, 
-                460228854
+                460228854, 
+                1920307024
             ], 
             "spawnIndexes": [
-                1
+                0, 
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                10, 
+                11, 
+                12, 
+                13, 
+                14, 
+                15, 
+                16, 
+                17, 
+                18, 
+                19, 
+                20
             ]
         }, 
         {
@@ -138,59 +159,11 @@
             "minLevelRequired": 30, 
             "minQuality": 0, 
             "sourceHashes": [
-                1920307024, 
-                460228854
-            ], 
-            "spawnIndexes": [
-                0
-            ]
-        }, 
-        {
-            "computedStats": {
-                "144602215": {
-                    "maximum": 0, 
-                    "minimum": 0, 
-                    "statHash": 144602215, 
-                    "value": 0
-                }, 
-                "1735777505": {
-                    "maximum": 0, 
-                    "minimum": 0, 
-                    "statHash": 1735777505, 
-                    "value": 0
-                }, 
-                "2391494160": {
-                    "maximum": 0, 
-                    "minimum": 0, 
-                    "statHash": 2391494160, 
-                    "value": 0
-                }, 
-                "3897883278": {
-                    "maximum": 3, 
-                    "minimum": 3, 
-                    "statHash": 3897883278, 
-                    "value": 3
-                }, 
-                "4244567218": {
-                    "maximum": 0, 
-                    "minimum": 0, 
-                    "statHash": 4244567218, 
-                    "value": 0
-                }
-            }, 
-            "exclusivity": 0, 
-            "expansionIndex": 0, 
-            "level": 0, 
-            "maxLevelRequired": 0, 
-            "maxQuality": 0, 
-            "minLevelRequired": 0, 
-            "minQuality": 0, 
-            "sourceHashes": [
                 460228854, 
                 1920307024
             ], 
             "spawnIndexes": [
-                2
+                21
             ]
         }
     ], 
@@ -198,31 +171,31 @@
     "statGroupHash": 434908299, 
     "stats": {
         "144602215": {
-            "maximum": 47, 
+            "maximum": 50, 
             "minimum": 17, 
             "statHash": 144602215, 
             "value": 17
         }, 
         "1735777505": {
-            "maximum": 47, 
+            "maximum": 50, 
             "minimum": 17, 
             "statHash": 1735777505, 
             "value": 17
         }, 
         "2391494160": {
-            "maximum": 16, 
+            "maximum": 17, 
             "minimum": 16, 
             "statHash": 2391494160, 
             "value": 16
         }, 
         "3897883278": {
-            "maximum": 200, 
+            "maximum": 220, 
             "minimum": 200, 
             "statHash": 3897883278, 
             "value": 200
         }, 
         "4244567218": {
-            "maximum": 67, 
+            "maximum": 71, 
             "minimum": 17, 
             "statHash": 4244567218, 
             "value": 17

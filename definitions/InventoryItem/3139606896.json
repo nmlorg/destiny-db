@@ -10,7 +10,7 @@
                 {
                     "flagHash": 1680320212, 
                     "stepOperator": 1, 
-                    "value": 2298, 
+                    "value": 2300, 
                     "valueHash": 0
                 }
             ]
@@ -41,9 +41,9 @@
     "icon": "/common/destiny_content/icons/a567b0a83d69e544ae205a11339343fa.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        20, 
         23, 
-        48
+        48, 
+        20
     ], 
     "itemDescription": "\"Play with the fit and the sensors until it feels like going barefoot.\" - Handbook of (Un)Controversial Advice", 
     "itemHash": 3139606896, 
@@ -68,7 +68,8 @@
     "setItemHashes": [], 
     "sourceHashes": [
         541934873, 
-        1797462710
+        1797462710, 
+        1920307024
     ], 
     "sources": [
         {
@@ -86,6 +87,23 @@
             ], 
             "spawnIndexes": [
                 0
+            ]
+        }, 
+        {
+            "computedStats": {}, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 2, 
+            "maxLevelRequired": 2, 
+            "maxQuality": 5, 
+            "minLevelRequired": 2, 
+            "minQuality": 5, 
+            "sourceHashes": [
+                1797462710, 
+                1920307024
+            ], 
+            "spawnIndexes": [
+                1
             ]
         }
     ], 

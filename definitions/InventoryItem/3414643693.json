@@ -10,7 +10,7 @@
                 {
                     "flagHash": 1680320212, 
                     "stepOperator": 1, 
-                    "value": 2298, 
+                    "value": 2300, 
                     "valueHash": 0
                 }
             ]
@@ -41,9 +41,9 @@
     "icon": "/common/destiny_content/icons/7d9712df5ce2ca4e99a4d566bcd472bd.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        20, 
         23, 
-        48
+        48, 
+        20
     ], 
     "itemDescription": "Auto-pressurized joints let agile Hunters move at top speeds.", 
     "itemHash": 3414643693, 
@@ -66,21 +66,183 @@
     "rewardItemHash": 0, 
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
-    "sourceHashes": [], 
+    "sourceHashes": [
+        2644169369, 
+        1882189853, 
+        3870113141, 
+        460228854
+    ], 
+    "sources": [
+        {
+            "computedStats": {
+                "144602215": {
+                    "maximum": 36, 
+                    "minimum": 13, 
+                    "statHash": 144602215, 
+                    "value": 13
+                }, 
+                "1735777505": {
+                    "maximum": 36, 
+                    "minimum": 13, 
+                    "statHash": 1735777505, 
+                    "value": 13
+                }, 
+                "2391494160": {
+                    "maximum": 16, 
+                    "minimum": 15, 
+                    "statHash": 2391494160, 
+                    "value": 15
+                }, 
+                "3897883278": {
+                    "maximum": 165, 
+                    "minimum": 155, 
+                    "statHash": 3897883278, 
+                    "value": 155
+                }, 
+                "4244567218": {
+                    "maximum": 36, 
+                    "minimum": 13, 
+                    "statHash": 4244567218, 
+                    "value": 13
+                }
+            }, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 31, 
+            "maxLevelRequired": 27, 
+            "maxQuality": 20, 
+            "minLevelRequired": 27, 
+            "minQuality": 0, 
+            "sourceHashes": [
+                2644169369, 
+                1882189853, 
+                3870113141, 
+                460228854
+            ], 
+            "spawnIndexes": [
+                0, 
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8, 
+                9, 
+                10, 
+                11, 
+                12, 
+                13, 
+                14, 
+                15, 
+                16, 
+                17, 
+                18, 
+                19, 
+                20
+            ]
+        }, 
+        {
+            "computedStats": {
+                "144602215": {
+                    "maximum": 34, 
+                    "minimum": 13, 
+                    "statHash": 144602215, 
+                    "value": 13
+                }, 
+                "1735777505": {
+                    "maximum": 34, 
+                    "minimum": 13, 
+                    "statHash": 1735777505, 
+                    "value": 13
+                }, 
+                "2391494160": {
+                    "maximum": 16, 
+                    "minimum": 15, 
+                    "statHash": 2391494160, 
+                    "value": 15
+                }, 
+                "3897883278": {
+                    "maximum": 160, 
+                    "minimum": 150, 
+                    "statHash": 3897883278, 
+                    "value": 150
+                }, 
+                "4244567218": {
+                    "maximum": 34, 
+                    "minimum": 13, 
+                    "statHash": 4244567218, 
+                    "value": 13
+                }
+            }, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 30, 
+            "maxLevelRequired": 26, 
+            "maxQuality": 20, 
+            "minLevelRequired": 26, 
+            "minQuality": 0, 
+            "sourceHashes": [
+                460228854
+            ], 
+            "spawnIndexes": [
+                21, 
+                22, 
+                23, 
+                24, 
+                25, 
+                26, 
+                27, 
+                28, 
+                29, 
+                30, 
+                31, 
+                32, 
+                33, 
+                34, 
+                35, 
+                36, 
+                37, 
+                38, 
+                39, 
+                40, 
+                41
+            ]
+        }
+    ], 
     "specialItemType": 0, 
     "statGroupHash": 3568793270, 
     "stats": {
+        "144602215": {
+            "maximum": 36, 
+            "minimum": 13, 
+            "statHash": 144602215, 
+            "value": 13
+        }, 
+        "1735777505": {
+            "maximum": 36, 
+            "minimum": 13, 
+            "statHash": 1735777505, 
+            "value": 13
+        }, 
         "2391494160": {
-            "maximum": 0, 
-            "minimum": 0, 
+            "maximum": 16, 
+            "minimum": 15, 
             "statHash": 2391494160, 
-            "value": 0
+            "value": 15
         }, 
         "3897883278": {
-            "maximum": 0, 
-            "minimum": 0, 
+            "maximum": 165, 
+            "minimum": 155, 
             "statHash": 3897883278, 
-            "value": 0
+            "value": 155
+        }, 
+        "4244567218": {
+            "maximum": 36, 
+            "minimum": 13, 
+            "statHash": 4244567218, 
+            "value": 13
         }
     }, 
     "talentGridHash": 2129098820, 

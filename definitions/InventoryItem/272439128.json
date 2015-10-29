@@ -10,7 +10,7 @@
                 {
                     "flagHash": 1680320212, 
                     "stepOperator": 1, 
-                    "value": 2298, 
+                    "value": 2300, 
                     "valueHash": 0
                 }
             ]
@@ -41,9 +41,9 @@
     "icon": "/common/destiny_content/icons/b957de5f141671fd0aa5f8f727349017.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        20, 
         23, 
-        47
+        47, 
+        20
     ], 
     "itemDescription": "Mars was once a hostile, lifeless world. Now it's hostile and uncomfortably lively.", 
     "itemHash": 272439128, 
@@ -69,6 +69,7 @@
     "sourceHashes": [
         541934873, 
         1797462710, 
+        1920307024, 
         1882189853
     ], 
     "sources": [
@@ -146,14 +147,16 @@
             "level": 17, 
             "maxLevelRequired": 17, 
             "maxQuality": 0, 
-            "minLevelRequired": 17, 
+            "minLevelRequired": 16, 
             "minQuality": 0, 
             "sourceHashes": [
                 541934873, 
-                1797462710
+                1797462710, 
+                1920307024
             ], 
             "spawnIndexes": [
-                2
+                2, 
+                6
             ]
         }, 
         {

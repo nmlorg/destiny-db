@@ -10,7 +10,7 @@
                 {
                     "flagHash": 1680320212, 
                     "stepOperator": 1, 
-                    "value": 2298, 
+                    "value": 2300, 
                     "valueHash": 0
                 }
             ]
@@ -41,9 +41,9 @@
     "icon": "/common/destiny_content/icons/bea1f78cb480fa063e2e46ae42a83de0.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        20, 
         22, 
-        49
+        49, 
+        20
     ], 
     "itemDescription": "The Firebreak orders strive to draw the battle away from the City and its interests.", 
     "itemHash": 211406993, 
@@ -66,7 +66,10 @@
     "rewardItemHash": 0, 
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
-    "sourceHashes": [], 
+    "sourceHashes": [
+        1797462710, 
+        1920307024
+    ], 
     "sources": [
         {
             "computedStats": {}, 
@@ -119,9 +122,12 @@
             "maxQuality": 5, 
             "minLevelRequired": 12, 
             "minQuality": 5, 
-            "sourceHashes": [], 
+            "sourceHashes": [
+                1797462710, 
+                1920307024
+            ], 
             "spawnIndexes": [
-                2
+                0
             ]
         }, 
         {
@@ -135,7 +141,7 @@
             "minQuality": 5, 
             "sourceHashes": [], 
             "spawnIndexes": [
-                1
+                2
             ]
         }, 
         {
@@ -149,7 +155,7 @@
             "minQuality": 5, 
             "sourceHashes": [], 
             "spawnIndexes": [
-                0
+                1
             ]
         }
     ], 

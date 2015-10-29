@@ -10,7 +10,7 @@
                 {
                     "flagHash": 1680320212, 
                     "stepOperator": 1, 
-                    "value": 2298, 
+                    "value": 2300, 
                     "valueHash": 0
                 }
             ]
@@ -41,9 +41,9 @@
     "icon": "/common/destiny_content/icons/c925e62c9ac5cf74008f08abe132dfa6.jpg", 
     "instanced": true, 
     "itemCategoryHashes": [
-        20, 
         23, 
-        48
+        48, 
+        20
     ], 
     "itemDescription": "We will find the way.", 
     "itemHash": 2544134638, 
@@ -68,7 +68,9 @@
     "setItemHashes": [], 
     "sourceHashes": [
         866383853, 
-        460228854
+        460228854, 
+        1797462710, 
+        1920307024
     ], 
     "sources": [
         {
@@ -116,7 +118,7 @@
                 460228854
             ], 
             "spawnIndexes": [
-                9
+                12
             ]
         }, 
         {
@@ -164,7 +166,7 @@
                 460228854
             ], 
             "spawnIndexes": [
-                8
+                11
             ]
         }, 
         {
@@ -212,7 +214,7 @@
                 460228854
             ], 
             "spawnIndexes": [
-                7
+                10
             ]
         }, 
         {
@@ -260,7 +262,7 @@
                 460228854
             ], 
             "spawnIndexes": [
-                6
+                9
             ]
         }, 
         {
@@ -308,7 +310,7 @@
                 460228854
             ], 
             "spawnIndexes": [
-                5
+                8
             ]
         }, 
         {
@@ -349,14 +351,17 @@
             "level": 28, 
             "maxLevelRequired": 28, 
             "maxQuality": 0, 
-            "minLevelRequired": 28, 
+            "minLevelRequired": 27, 
             "minQuality": 0, 
             "sourceHashes": [
-                866383853, 
-                460228854
+                1797462710, 
+                1920307024, 
+                460228854, 
+                866383853
             ], 
             "spawnIndexes": [
-                4
+                2, 
+                7
             ]
         }, 
         {
@@ -404,7 +409,7 @@
                 460228854
             ], 
             "spawnIndexes": [
-                3
+                6
             ]
         }, 
         {
@@ -445,14 +450,17 @@
             "level": 24, 
             "maxLevelRequired": 24, 
             "maxQuality": 0, 
-            "minLevelRequired": 24, 
+            "minLevelRequired": 23, 
             "minQuality": 0, 
             "sourceHashes": [
-                866383853, 
-                460228854
+                1797462710, 
+                1920307024, 
+                460228854, 
+                866383853
             ], 
             "spawnIndexes": [
-                2
+                1, 
+                5
             ]
         }, 
         {
@@ -500,7 +508,56 @@
                 460228854
             ], 
             "spawnIndexes": [
-                1
+                4
+            ]
+        }, 
+        {
+            "computedStats": {
+                "144602215": {
+                    "maximum": 20, 
+                    "minimum": 17, 
+                    "statHash": 144602215, 
+                    "value": 17
+                }, 
+                "1735777505": {
+                    "maximum": 20, 
+                    "minimum": 17, 
+                    "statHash": 1735777505, 
+                    "value": 17
+                }, 
+                "2391494160": {
+                    "maximum": 10, 
+                    "minimum": 10, 
+                    "statHash": 2391494160, 
+                    "value": 10
+                }, 
+                "3897883278": {
+                    "maximum": 105, 
+                    "minimum": 105, 
+                    "statHash": 3897883278, 
+                    "value": 105
+                }, 
+                "4244567218": {
+                    "maximum": 20, 
+                    "minimum": 17, 
+                    "statHash": 4244567218, 
+                    "value": 17
+                }
+            }, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 21, 
+            "maxLevelRequired": 20, 
+            "maxQuality": 0, 
+            "minLevelRequired": 20, 
+            "minQuality": 0, 
+            "sourceHashes": [
+                1797462710, 
+                1920307024, 
+                460228854
+            ], 
+            "spawnIndexes": [
+                0
             ]
         }, 
         {
@@ -548,7 +605,7 @@
                 460228854
             ], 
             "spawnIndexes": [
-                0
+                3
             ]
         }
     ], 
