@@ -1,11 +1,18 @@
 {
     "actionName": "Dismantle", 
     "allowActions": true, 
+    "bountyResetUnlockHash": 0, 
     "bucketTypeHash": 1585787867, 
     "classType": 0, 
     "deleteOnAction": true, 
     "equippable": true, 
     "equippingBlock": {
+        "arrangements": [
+            {
+                "classHash": 0, 
+                "gearArtArrangementIndex": 2845
+            }
+        ], 
         "customDyeExpression": {
             "steps": []
         }, 
@@ -20,7 +27,7 @@
                 "dyeHash": 892879757
             }
         ], 
-        "gearArtArrangementIndex": 2818, 
+        "gearArtArrangementIndex": 2845, 
         "lockedDyes": [
             {
                 "channelHash": 1367384683, 
@@ -33,7 +40,7 @@
     "exclusive": 0, 
     "hasAction": true, 
     "hasGeometry": true, 
-    "hash": 0, 
+    "hash": 3237195272, 
     "icon": "/common/destiny_content/icons/a3b77b9f4f165190a5763943ec9c2a97.jpg", 
     "index": 0, 
     "instanced": true, 

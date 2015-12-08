@@ -1,17 +1,24 @@
 {
     "actionName": "Discard", 
     "allowActions": true, 
+    "bountyResetUnlockHash": 0, 
     "bucketTypeHash": 3054419239, 
     "classType": 3, 
     "deleteOnAction": true, 
     "equippable": true, 
     "equippingBlock": {
+        "arrangements": [
+            {
+                "classHash": 0, 
+                "gearArtArrangementIndex": 3617
+            }
+        ], 
         "customDyeExpression": {
             "steps": []
         }, 
         "customDyes": [], 
         "defaultDyes": [], 
-        "gearArtArrangementIndex": 3546, 
+        "gearArtArrangementIndex": 3617, 
         "lockedDyes": [], 
         "weaponPatternHash": 0, 
         "weaponSandboxPatternIndex": -1
@@ -19,7 +26,7 @@
     "exclusive": 0, 
     "hasAction": true, 
     "hasGeometry": true, 
-    "hash": 0, 
+    "hash": 1898440947, 
     "icon": "/common/destiny_content/icons/2a9449b0cf7c82d7e8817ead9188b2c7.jpg", 
     "index": 0, 
     "instanced": true, 

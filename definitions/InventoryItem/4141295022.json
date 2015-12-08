@@ -1,11 +1,18 @@
 {
     "actionName": "Scrap", 
     "allowActions": true, 
+    "bountyResetUnlockHash": 0, 
     "bucketTypeHash": 284967655, 
     "classType": 3, 
     "deleteOnAction": true, 
     "equippable": true, 
     "equippingBlock": {
+        "arrangements": [
+            {
+                "classHash": 0, 
+                "gearArtArrangementIndex": 2180
+            }
+        ], 
         "customDyeExpression": {
             "steps": []
         }, 
@@ -28,7 +35,7 @@
     "exclusive": 0, 
     "hasAction": true, 
     "hasGeometry": true, 
-    "hash": 0, 
+    "hash": 4141295022, 
     "icon": "/common/destiny_content/icons/1289354ad6c4404207e6ef2c4c256235.jpg", 
     "index": 0, 
     "instanced": true, 

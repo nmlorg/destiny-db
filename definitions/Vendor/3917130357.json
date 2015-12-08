@@ -2,6 +2,20 @@
     "acceptedItems": [], 
     "categories": [
         {
+            "categoryHash": 4167439817, 
+            "displayTitle": "", 
+            "hasOverlay": false, 
+            "hideFromRegularPurchase": false, 
+            "hideIfNoCurrency": false, 
+            "overlayChoice": "", 
+            "overlayCurrencyItemHash": 0, 
+            "overlayDescription": "", 
+            "overlayIcon": "/img/misc/missing_icon.png", 
+            "overlayTitle": "", 
+            "quantityAvailable": 0, 
+            "showUnavailableItems": false
+        }, 
+        {
             "categoryHash": 2579002851, 
             "displayTitle": "Emotes I", 
             "hasOverlay": false, 
@@ -42,10 +56,42 @@
             "overlayTitle": "", 
             "quantityAvailable": 0, 
             "showUnavailableItems": false
+        }, 
+        {
+            "categoryHash": 982571842, 
+            "displayTitle": "SRL Event", 
+            "hasOverlay": false, 
+            "hideFromRegularPurchase": false, 
+            "hideIfNoCurrency": false, 
+            "overlayChoice": "", 
+            "overlayCurrencyItemHash": 0, 
+            "overlayDescription": "", 
+            "overlayIcon": "/img/misc/missing_icon.png", 
+            "overlayTitle": "", 
+            "quantityAvailable": 0, 
+            "showUnavailableItems": false
+        }, 
+        {
+            "categoryHash": 2471912143, 
+            "displayTitle": "Mystery Bags", 
+            "hasOverlay": false, 
+            "hideFromRegularPurchase": false, 
+            "hideIfNoCurrency": false, 
+            "overlayChoice": "", 
+            "overlayCurrencyItemHash": 0, 
+            "overlayDescription": "", 
+            "overlayIcon": "/img/misc/missing_icon.png", 
+            "overlayTitle": "", 
+            "quantityAvailable": 0, 
+            "showUnavailableItems": false
         }
     ], 
-    "failureStrings": [], 
-    "hash": 0, 
+    "failureStrings": [
+        null, 
+        "All Items Owned", 
+        "Already Owned"
+    ], 
+    "hash": 3917130357, 
     "index": 0, 
     "summary": {
         "buyString": "Acquire", 
@@ -71,7 +117,7 @@
         ], 
         "vendorDescription": "Tess is the proprietor of Eververse, where Guardians can purchase unique curiosities and stylish wares.", 
         "vendorHash": 3917130357, 
-        "vendorIcon": "/common/destiny_content/icons/47310f83d7dade9eccc740efe7050d1c.png", 
+        "vendorIcon": "/common/destiny_content/icons/a2c64eba55867f10314a4e66c34d5927.png", 
         "vendorIdentifier": "VENDOR_SPECIAL_ORDERS", 
         "vendorName": "Eververse", 
         "vendorOrder": 230, 

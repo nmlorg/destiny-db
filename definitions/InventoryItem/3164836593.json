@@ -1,6 +1,7 @@
 {
     "actionName": "Discard", 
     "allowActions": true, 
+    "bountyResetUnlockHash": 0, 
     "bucketTypeHash": 3865314626, 
     "classType": 3, 
     "deleteOnAction": true, 
@@ -9,7 +10,7 @@
     "exclusive": 0, 
     "hasAction": true, 
     "hasGeometry": false, 
-    "hash": 0, 
+    "hash": 3164836593, 
     "icon": "/common/destiny_content/icons/7fe820e12e75ba69c780776eb99fadbf.jpg", 
     "index": 0, 
     "instanced": false, 
@@ -37,7 +38,10 @@
     "rewardItemHash": 0, 
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
-    "sourceHashes": [], 
+    "sourceHashes": [
+        2644169369, 
+        460228854
+    ], 
     "sources": [
         {
             "computedStats": {}, 
@@ -48,7 +52,10 @@
             "maxQuality": 0, 
             "minLevelRequired": 0, 
             "minQuality": 0, 
-            "sourceHashes": [], 
+            "sourceHashes": [
+                2644169369, 
+                460228854
+            ], 
             "spawnIndexes": [
                 0
             ]

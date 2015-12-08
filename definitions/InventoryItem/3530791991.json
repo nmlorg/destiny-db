@@ -8,11 +8,18 @@
             "path": "/common/destiny_content/animations/destiny_player_animation_booya.js"
         }
     ], 
+    "bountyResetUnlockHash": 0, 
     "bucketTypeHash": 3054419239, 
     "classType": 3, 
     "deleteOnAction": true, 
     "equippable": true, 
     "equippingBlock": {
+        "arrangements": [
+            {
+                "classHash": 0, 
+                "gearArtArrangementIndex": 2562
+            }
+        ], 
         "customDyeExpression": {
             "steps": []
         }, 
@@ -26,7 +33,7 @@
     "exclusive": 0, 
     "hasAction": true, 
     "hasGeometry": true, 
-    "hash": 0, 
+    "hash": 3530791991, 
     "icon": "/common/destiny_content/icons/b29a80498d211bdbf95492bf4ca29856.jpg", 
     "index": 0, 
     "instanced": true, 
@@ -53,10 +60,7 @@
     "rewardItemHash": 0, 
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
-    "sourceHashes": [
-        2155337848, 
-        460228854
-    ], 
+    "sourceHashes": [], 
     "sources": [
         {
             "computedStats": {}, 
@@ -67,10 +71,7 @@
             "maxQuality": 0, 
             "minLevelRequired": 0, 
             "minQuality": 0, 
-            "sourceHashes": [
-                2155337848, 
-                460228854
-            ], 
+            "sourceHashes": [], 
             "spawnIndexes": [
                 0
             ]

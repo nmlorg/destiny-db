@@ -1,17 +1,31 @@
 {
     "actionName": "Stow", 
     "allowActions": true, 
+    "animations": [
+        {
+            "animIdentifier": "default", 
+            "animName": "###Animations.default###", 
+            "path": "/common/destiny_content/animations/destiny_player_animation_emote_bow_down.js"
+        }
+    ], 
+    "bountyResetUnlockHash": 0, 
     "bucketTypeHash": 3054419239, 
     "classType": 3, 
     "deleteOnAction": true, 
     "equippable": true, 
     "equippingBlock": {
+        "arrangements": [
+            {
+                "classHash": 0, 
+                "gearArtArrangementIndex": 3626
+            }
+        ], 
         "customDyeExpression": {
             "steps": []
         }, 
         "customDyes": [], 
         "defaultDyes": [], 
-        "gearArtArrangementIndex": 3555, 
+        "gearArtArrangementIndex": 3626, 
         "lockedDyes": [], 
         "weaponPatternHash": 0, 
         "weaponSandboxPatternIndex": -1
@@ -19,8 +33,8 @@
     "exclusive": 0, 
     "hasAction": true, 
     "hasGeometry": true, 
-    "hash": 0, 
-    "icon": "/common/destiny_content/icons/4daeca9906ee4de911eb240aadf9596c.jpg", 
+    "hash": 104480050, 
+    "icon": "/common/destiny_content/icons/936d7f725f873f56bfc349d5d5f59a5c.jpg", 
     "index": 0, 
     "instanced": true, 
     "itemCategoryHashes": [
@@ -46,7 +60,10 @@
     "rewardItemHash": 0, 
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
-    "sourceHashes": [], 
+    "sourceHashes": [
+        2155337848, 
+        460228854
+    ], 
     "sources": [
         {
             "computedStats": {}, 
@@ -57,7 +74,10 @@
             "maxQuality": 0, 
             "minLevelRequired": 0, 
             "minQuality": 0, 
-            "sourceHashes": [], 
+            "sourceHashes": [
+                2155337848, 
+                460228854
+            ], 
             "spawnIndexes": [
                 0
             ]

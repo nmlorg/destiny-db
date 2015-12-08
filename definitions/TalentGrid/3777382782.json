@@ -1,0 +1,67 @@
+{
+    "calcMaxGridLevel": 0, 
+    "calcProgressToMaxLevel": 0, 
+    "exclusiveSets": [], 
+    "gridHash": 3777382782, 
+    "gridLevelPerColumn": 0, 
+    "hash": 3777382782, 
+    "independentNodeIndexes": [
+        0
+    ], 
+    "index": 0, 
+    "maxGridLevel": 0, 
+    "nodes": [
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 1, 
+            "exlusiveWithNodes": [], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 0, 
+            "nodeIndex": 0, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 0, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 3, 
+                        "materialRequirementHashes": [
+                            3409743738, 
+                            3409743739, 
+                            3409743736, 
+                            3409743737
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/77781934c91e7474d3e220cf101898b9.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "The amount of fuel you gain from performing tricks is increased.", 
+                    "nodeStepHash": 2276662750, 
+                    "nodeStepName": "Trick Master", 
+                    "perkHashes": [
+                        2818471317
+                    ], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }
+    ], 
+    "progressionHash": 262790308
+}

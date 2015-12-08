@@ -8,17 +8,24 @@
             "path": "/common/destiny_content/animations/destiny_player_animation_zombie_dance.js"
         }
     ], 
+    "bountyResetUnlockHash": 0, 
     "bucketTypeHash": 3054419239, 
     "classType": 3, 
     "deleteOnAction": true, 
     "equippable": true, 
     "equippingBlock": {
+        "arrangements": [
+            {
+                "classHash": 0, 
+                "gearArtArrangementIndex": 3621
+            }
+        ], 
         "customDyeExpression": {
             "steps": []
         }, 
         "customDyes": [], 
         "defaultDyes": [], 
-        "gearArtArrangementIndex": 3550, 
+        "gearArtArrangementIndex": 3621, 
         "lockedDyes": [], 
         "weaponPatternHash": 0, 
         "weaponSandboxPatternIndex": -1
@@ -26,7 +33,7 @@
     "exclusive": 0, 
     "hasAction": true, 
     "hasGeometry": true, 
-    "hash": 0, 
+    "hash": 1356246089, 
     "icon": "/common/destiny_content/icons/168a9154db01825d4249c6eb915ed5d2.jpg", 
     "index": 0, 
     "instanced": true, 

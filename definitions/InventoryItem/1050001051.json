@@ -1,11 +1,18 @@
 {
     "actionName": "Stow", 
     "allowActions": true, 
+    "bountyResetUnlockHash": 0, 
     "bucketTypeHash": 3054419239, 
     "classType": 3, 
     "deleteOnAction": true, 
     "equippable": true, 
     "equippingBlock": {
+        "arrangements": [
+            {
+                "classHash": 0, 
+                "gearArtArrangementIndex": 2561
+            }
+        ], 
         "customDyeExpression": {
             "steps": []
         }, 
@@ -19,7 +26,7 @@
     "exclusive": 0, 
     "hasAction": true, 
     "hasGeometry": true, 
-    "hash": 0, 
+    "hash": 1050001051, 
     "icon": "/common/destiny_content/icons/0f946db0c19d088945ab019d4e539ef3.jpg", 
     "index": 0, 
     "instanced": true, 

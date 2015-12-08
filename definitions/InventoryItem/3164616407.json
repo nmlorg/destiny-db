@@ -1,11 +1,18 @@
 {
     "actionName": "Dismantle", 
     "allowActions": true, 
+    "bountyResetUnlockHash": 0, 
     "bucketTypeHash": 1498876634, 
     "classType": 3, 
     "deleteOnAction": true, 
     "equippable": true, 
     "equippingBlock": {
+        "arrangements": [
+            {
+                "classHash": 0, 
+                "gearArtArrangementIndex": 1222
+            }
+        ], 
         "customDyeExpression": {
             "steps": []
         }, 
@@ -28,7 +35,7 @@
     "exclusive": 0, 
     "hasAction": true, 
     "hasGeometry": true, 
-    "hash": 0, 
+    "hash": 3164616407, 
     "icon": "/common/destiny_content/icons/d35942c5feedc860bc32c8558f978ccf.jpg", 
     "index": 0, 
     "instanced": true, 
@@ -72,10 +79,10 @@
         {
             "computedStats": {
                 "1240592695": {
-                    "maximum": 53, 
-                    "minimum": 32, 
+                    "maximum": 41, 
+                    "minimum": 20, 
                     "statHash": 1240592695, 
-                    "value": 38
+                    "value": 26
                 }, 
                 "1345609583": {
                     "maximum": 50, 
@@ -173,10 +180,10 @@
         {
             "computedStats": {
                 "1240592695": {
-                    "maximum": 53, 
-                    "minimum": 32, 
+                    "maximum": 41, 
+                    "minimum": 20, 
                     "statHash": 1240592695, 
-                    "value": 38
+                    "value": 26
                 }, 
                 "1345609583": {
                     "maximum": 50, 
@@ -270,10 +277,10 @@
         {
             "computedStats": {
                 "1240592695": {
-                    "maximum": 53, 
-                    "minimum": 32, 
+                    "maximum": 41, 
+                    "minimum": 20, 
                     "statHash": 1240592695, 
-                    "value": 38
+                    "value": 26
                 }, 
                 "1345609583": {
                     "maximum": 50, 
@@ -367,10 +374,10 @@
     "statGroupHash": 1099468801, 
     "stats": {
         "1240592695": {
-            "maximum": 53, 
-            "minimum": 32, 
+            "maximum": 41, 
+            "minimum": 20, 
             "statHash": 1240592695, 
-            "value": 38
+            "value": 26
         }, 
         "1345609583": {
             "maximum": 50, 

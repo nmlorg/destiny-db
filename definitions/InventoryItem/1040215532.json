@@ -1,11 +1,13 @@
 {
     "actionName": "Discard", 
     "allowActions": true, 
+    "bountyResetUnlockHash": 0, 
     "bucketTypeHash": 4023194814, 
     "classType": 3, 
     "deleteOnAction": true, 
     "equippable": true, 
     "equippingBlock": {
+        "arrangements": [], 
         "customDyeExpression": {
             "steps": []
         }, 
@@ -24,7 +26,7 @@
     "exclusive": 0, 
     "hasAction": true, 
     "hasGeometry": false, 
-    "hash": 0, 
+    "hash": 1040215532, 
     "icon": "/common/destiny_content/icons/feb2d10df81f6d79a68bf795ac080692.jpg", 
     "index": 0, 
     "instanced": true, 
@@ -35,7 +37,9 @@
     "itemDescription": "Tough, rugged, and defiantly colored - ready to brave the high frontier. Ghosts can self-modify at will.", 
     "itemHash": 1040215532, 
     "itemIndex": 0, 
-    "itemLevels": [], 
+    "itemLevels": [
+        0
+    ], 
     "itemName": "Frontier Shell", 
     "itemSubType": 0, 
     "itemType": 2, 

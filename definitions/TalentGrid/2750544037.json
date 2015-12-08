@@ -1,0 +1,936 @@
+{
+    "calcMaxGridLevel": 0, 
+    "calcProgressToMaxLevel": 0, 
+    "exclusiveSets": [
+        {
+            "nodeIndexes": [
+                1, 
+                2
+            ]
+        }, 
+        {
+            "nodeIndexes": [
+                3, 
+                4
+            ]
+        }, 
+        {
+            "nodeIndexes": [
+                5, 
+                6
+            ]
+        }
+    ], 
+    "gridHash": 2750544037, 
+    "gridLevelPerColumn": 0, 
+    "hash": 2750544037, 
+    "independentNodeIndexes": [
+        7, 
+        8
+    ], 
+    "index": 0, 
+    "maxGridLevel": 0, 
+    "nodes": [
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": -1, 
+            "exlusiveWithNodes": [], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 0, 
+            "nodeIndex": 0, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 0, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/img/misc/missing_icon.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepHash": 0, 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [
+                        4244567218, 
+                        1735777505
+                    ], 
+                    "stepGroups": {
+                        "damageTypes": 0, 
+                        "guardianAttributes": 1, 
+                        "impactEffects": 0, 
+                        "lightAbilities": 0, 
+                        "weaponPerformance": 0
+                    }, 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/img/misc/missing_icon.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepHash": 0, 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [
+                        4244567218, 
+                        144602215
+                    ], 
+                    "stepGroups": {
+                        "damageTypes": 0, 
+                        "guardianAttributes": 1, 
+                        "impactEffects": 0, 
+                        "lightAbilities": 0, 
+                        "weaponPerformance": 0
+                    }, 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/img/misc/missing_icon.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepHash": 0, 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [
+                        1735777505, 
+                        144602215
+                    ], 
+                    "stepGroups": {
+                        "damageTypes": 0, 
+                        "guardianAttributes": 1, 
+                        "impactEffects": 0, 
+                        "lightAbilities": 0, 
+                        "weaponPerformance": 0
+                    }, 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 1, 
+            "exlusiveWithNodes": [
+                2
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 1, 
+            "nodeIndex": 1, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 0, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 3, 
+                        "materialRequirementHashes": [
+                            3409743738, 
+                            3409743739, 
+                            3409743736, 
+                            3409743737
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/88734ec261709548879486f5a68258fc.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Increase the Discipline bonus provided by this piece of gear.", 
+                    "nodeStepHash": 1263323987, 
+                    "nodeStepName": "Increase Discipline", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [
+                        1735777505
+                    ], 
+                    "stepGroups": {
+                        "damageTypes": 0, 
+                        "guardianAttributes": 1, 
+                        "impactEffects": 0, 
+                        "lightAbilities": 0, 
+                        "weaponPerformance": 0
+                    }, 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 3, 
+                        "materialRequirementHashes": [
+                            3409743738, 
+                            3409743739, 
+                            3409743736, 
+                            3409743737
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/ddee57c05cfd112408b4bee4d21c6576.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Increase the Intellect bonus provided by this piece of gear.", 
+                    "nodeStepHash": 1034209669, 
+                    "nodeStepName": "Increase Intellect", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [
+                        144602215
+                    ], 
+                    "stepGroups": {
+                        "damageTypes": 0, 
+                        "guardianAttributes": 1, 
+                        "impactEffects": 0, 
+                        "lightAbilities": 0, 
+                        "weaponPerformance": 0
+                    }, 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 3, 
+                        "materialRequirementHashes": [
+                            3409743738, 
+                            3409743739, 
+                            3409743736, 
+                            3409743737
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/ddee57c05cfd112408b4bee4d21c6576.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Increase the Intellect bonus provided by this piece of gear.", 
+                    "nodeStepHash": 1034209669, 
+                    "nodeStepName": "Increase Intellect", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [
+                        144602215
+                    ], 
+                    "stepGroups": {
+                        "damageTypes": 0, 
+                        "guardianAttributes": 1, 
+                        "impactEffects": 0, 
+                        "lightAbilities": 0, 
+                        "weaponPerformance": 0
+                    }, 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 1, 
+            "exlusiveWithNodes": [
+                1
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 2, 
+            "nodeIndex": 2, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 1, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 4, 
+                        "materialRequirementHashes": [
+                            3409743738, 
+                            3409743739, 
+                            3409743736, 
+                            3409743737
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/afd171e82449013ff6888c1c18066a04.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Increase the Strength bonus provided by this piece of gear.", 
+                    "nodeStepHash": 193091484, 
+                    "nodeStepName": "Increase Strength", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 15173, 
+                    "statHashes": [
+                        4244567218
+                    ], 
+                    "stepGroups": {
+                        "damageTypes": 0, 
+                        "guardianAttributes": 1, 
+                        "impactEffects": 0, 
+                        "lightAbilities": 0, 
+                        "weaponPerformance": 0
+                    }, 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 4, 
+                        "materialRequirementHashes": [
+                            3409743738, 
+                            3409743739, 
+                            3409743736, 
+                            3409743737
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/afd171e82449013ff6888c1c18066a04.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Increase the Strength bonus provided by this piece of gear.", 
+                    "nodeStepHash": 193091484, 
+                    "nodeStepName": "Increase Strength", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 15173, 
+                    "statHashes": [
+                        4244567218
+                    ], 
+                    "stepGroups": {
+                        "damageTypes": 0, 
+                        "guardianAttributes": 1, 
+                        "impactEffects": 0, 
+                        "lightAbilities": 0, 
+                        "weaponPerformance": 0
+                    }, 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 4, 
+                        "materialRequirementHashes": [
+                            3409743738, 
+                            3409743739, 
+                            3409743736, 
+                            3409743737
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/88734ec261709548879486f5a68258fc.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Increase the Discipline bonus provided by this piece of gear.", 
+                    "nodeStepHash": 1263323987, 
+                    "nodeStepName": "Increase Discipline", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 15173, 
+                    "statHashes": [
+                        1735777505
+                    ], 
+                    "stepGroups": {
+                        "damageTypes": 0, 
+                        "guardianAttributes": 1, 
+                        "impactEffects": 0, 
+                        "lightAbilities": 0, 
+                        "weaponPerformance": 0
+                    }, 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 2, 
+            "exlusiveWithNodes": [
+                4
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 3, 
+            "nodeIndex": 3, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 0, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 5, 
+                        "materialRequirementHashes": [
+                            3409743738, 
+                            3409743739, 
+                            3409743736, 
+                            3409743737
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/d9a0fea00950171547a8225d4b11e4d9.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Gain bonus Super energy on Grenade kills.", 
+                    "nodeStepHash": 1072283425, 
+                    "nodeStepName": "Ashes to Assets", 
+                    "perkHashes": [
+                        3792198727
+                    ], 
+                    "startProgressionBarAtProgress": 15173, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 5, 
+                        "materialRequirementHashes": [
+                            3409743738, 
+                            3409743739, 
+                            3409743736, 
+                            3409743737
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/f3ca88d196f0e543a6788d5ed5259d0d.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Gain bonus Super energy from melee kills on minions of the Darkness.", 
+                    "nodeStepHash": 3575189929, 
+                    "nodeStepName": "Hands-On", 
+                    "perkHashes": [
+                        707792617
+                    ], 
+                    "startProgressionBarAtProgress": 15173, 
+                    "statHashes": [], 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 5, 
+                        "materialRequirementHashes": [
+                            3409743738, 
+                            3409743739, 
+                            3409743736, 
+                            3409743737
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/573bf9695fda3ae86146ba45bae1488d.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Gain bonus Super energy from Special Weapon kills on minions of the Darkness.", 
+                    "nodeStepHash": 1378768259, 
+                    "nodeStepName": "Second Thoughts", 
+                    "perkHashes": [
+                        2664229771
+                    ], 
+                    "startProgressionBarAtProgress": 15173, 
+                    "statHashes": [], 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 5, 
+                        "materialRequirementHashes": [
+                            3409743738, 
+                            3409743739, 
+                            3409743736, 
+                            3409743737
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/e018b51cbb6e79362882e29e3ee13152.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Gain bonus Super energy from Heavy Weapon kills on minions of the Darkness.", 
+                    "nodeStepHash": 2229212601, 
+                    "nodeStepName": "Heavy Lifting", 
+                    "perkHashes": [
+                        3302053862
+                    ], 
+                    "startProgressionBarAtProgress": 15173, 
+                    "statHashes": [], 
+                    "stepIndex": 3, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 2, 
+            "exlusiveWithNodes": [
+                3
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 4, 
+            "nodeIndex": 4, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 1, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 6, 
+                        "materialRequirementHashes": [
+                            3409743738, 
+                            3409743739, 
+                            3409743736, 
+                            3409743737
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/8f3b71b916d6f5e1986888b6d45ddb74.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Gain bonus Super energy from reviving others.", 
+                    "nodeStepHash": 1797210581, 
+                    "nodeStepName": "Angel of Mercy", 
+                    "perkHashes": [
+                        1846145321
+                    ], 
+                    "startProgressionBarAtProgress": 35403, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 3, 
+            "exlusiveWithNodes": [
+                6
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 5, 
+            "nodeIndex": 5, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 0, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 7, 
+                        "materialRequirementHashes": [
+                            3409743738, 
+                            3409743739, 
+                            3409743736, 
+                            3409743737
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/be078c0ff301900b37117c33c701e325.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Reduces time needed to summon Sparrow.", 
+                    "nodeStepHash": 2815007725, 
+                    "nodeStepName": "Fast Enter", 
+                    "perkHashes": [
+                        1405953642
+                    ], 
+                    "startProgressionBarAtProgress": 35403, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 7, 
+                        "materialRequirementHashes": [
+                            3409743738, 
+                            3409743739, 
+                            3409743736, 
+                            3409743737
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/e62de335252d9ba19e894867468256f2.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Use \ue012 to pitch the Sparrow forward or back while in the air. Pitch forward to fall faster, pitch back to fall slower.", 
+                    "nodeStepHash": 2911659040, 
+                    "nodeStepName": "Air Control", 
+                    "perkHashes": [
+                        653222695
+                    ], 
+                    "startProgressionBarAtProgress": 55633, 
+                    "statHashes": [], 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 3, 
+            "exlusiveWithNodes": [
+                5
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 6, 
+            "nodeIndex": 6, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 1, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 8, 
+                        "materialRequirementHashes": [
+                            3409743738, 
+                            3409743739, 
+                            3409743736, 
+                            3409743737
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/f9ed07b22aa445eeaad53677bb38d5a5.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Bonus grenade energy on Orb pickup.", 
+                    "nodeStepHash": 2901614320, 
+                    "nodeStepName": "Innervation", 
+                    "perkHashes": [
+                        1101818187
+                    ], 
+                    "startProgressionBarAtProgress": 45518, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 8, 
+                        "materialRequirementHashes": [
+                            3409743738, 
+                            3409743739, 
+                            3409743736, 
+                            3409743737
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/0795e34b44acaba82f5b68f66cb3a746.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Gain bonus melee energy on Orb pickups.", 
+                    "nodeStepHash": 3905147082, 
+                    "nodeStepName": "Invigoration", 
+                    "perkHashes": [
+                        3743041729
+                    ], 
+                    "startProgressionBarAtProgress": 35403, 
+                    "statHashes": [], 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 8, 
+                        "materialRequirementHashes": [
+                            3409743738, 
+                            3409743739, 
+                            3409743736, 
+                            3409743737
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/c15d2620def3e6755e2e0c300de77b6a.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Shields start recovery immediately after Orb pickup.", 
+                    "nodeStepHash": 1068165043, 
+                    "nodeStepName": "Better Already", 
+                    "perkHashes": [
+                        2131801999
+                    ], 
+                    "startProgressionBarAtProgress": 35403, 
+                    "statHashes": [], 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 8, 
+                        "materialRequirementHashes": [
+                            3409743738, 
+                            3409743739, 
+                            3409743736, 
+                            3409743737
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/a3db12fda3ac8982ff9db568470ae93f.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Replenishes health each time you pick up an Orb of Light.", 
+                    "nodeStepHash": 2852187402, 
+                    "nodeStepName": "Infusion", 
+                    "perkHashes": [
+                        448609668
+                    ], 
+                    "startProgressionBarAtProgress": 35403, 
+                    "statHashes": [], 
+                    "stepIndex": 3, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 0, 
+            "exlusiveWithNodes": [], 
+            "isRandom": false, 
+            "isRandomRepurchasable": true, 
+            "lastStepRepeats": true, 
+            "nodeHash": 7, 
+            "nodeIndex": 7, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 0, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": [
+                            2255858168
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": true, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/6b7945a6a930555710d01b1cfd166631.png", 
+                    "interactionDescription": "Choose Item", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": 0, 
+                    "nodeStepDescription": "Consume a more powerful piece of Armor to boost the Defense value of this Armor.", 
+                    "nodeStepHash": 1270552711, 
+                    "nodeStepName": "Infuse", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 0, 
+            "exlusiveWithNodes": [], 
+            "isRandom": false, 
+            "isRandomRepurchasable": true, 
+            "lastStepRepeats": true, 
+            "nodeHash": 8, 
+            "nodeIndex": 8, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 1, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": [
+                            2504119314
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": true, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/fe1b91dd3c009a8860b1b7004b7c37c8.png", 
+                    "interactionDescription": "Twist", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": 0, 
+                    "nodeStepDescription": "Changes the stats and upgrades available on this Armor.", 
+                    "nodeStepHash": 217480046, 
+                    "nodeStepName": "Twist Fate", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }
+    ], 
+    "progressionHash": 262790308
+}

@@ -100,7 +100,8 @@
             25, 
             26, 
             27, 
-            28
+            28, 
+            29
         ], 
         "periodTypes": [
             3, 
@@ -176,7 +177,8 @@
             25, 
             26, 
             27, 
-            28
+            28, 
+            29
         ], 
         "periodTypes": [
             3
@@ -217,7 +219,8 @@
             25, 
             26, 
             27, 
-            28
+            28, 
+            29
         ], 
         "periodTypes": [
             3
@@ -258,7 +261,8 @@
             25, 
             26, 
             27, 
-            28
+            28, 
+            29
         ], 
         "periodTypes": [
             3
@@ -267,47 +271,6 @@
         "statName": "Deaths", 
         "unitLabel": "", 
         "unitType": 1, 
-        "weight": 1
-    }, 
-    "activityDistanceTraveled": {
-        "category": 0, 
-        "group": 102, 
-        "modes": [
-            5, 
-            10, 
-            13, 
-            11, 
-            8, 
-            12, 
-            9, 
-            7, 
-            6, 
-            4, 
-            2, 
-            3, 
-            17, 
-            16, 
-            14, 
-            23, 
-            15, 
-            18, 
-            19, 
-            20, 
-            22, 
-            21, 
-            24, 
-            25, 
-            26, 
-            27, 
-            28
-        ], 
-        "periodTypes": [
-            3
-        ], 
-        "statId": "activityDistanceTraveled", 
-        "statName": "Distance Traveled", 
-        "unitLabel": "m", 
-        "unitType": 6, 
         "weight": 1
     }, 
     "activityDurationSeconds": {
@@ -340,7 +303,8 @@
             25, 
             26, 
             27, 
-            28
+            28, 
+            29
         ], 
         "periodTypes": [
             4
@@ -351,43 +315,17 @@
         "unitType": 3, 
         "weight": 1
     }, 
-    "activityGhostsFound": {
+    "activityGatesHit": {
         "category": 0, 
         "group": 102, 
         "modes": [
-            5, 
-            10, 
-            13, 
-            11, 
-            8, 
-            12, 
-            9, 
-            7, 
-            6, 
-            4, 
-            2, 
-            3, 
-            17, 
-            16, 
-            14, 
-            23, 
-            15, 
-            18, 
-            19, 
-            20, 
-            22, 
-            21, 
-            24, 
-            25, 
-            26, 
-            27, 
-            28
+            29
         ], 
         "periodTypes": [
             3
         ], 
-        "statId": "activityGhostsFound", 
-        "statName": "Dead Ghosts Found", 
+        "statId": "activityGatesHit", 
+        "statName": "Gates Hit", 
         "unitLabel": "", 
         "unitType": 1, 
         "weight": 1
@@ -422,7 +360,8 @@
             25, 
             26, 
             27, 
-            28
+            28, 
+            29
         ], 
         "periodTypes": [
             3
@@ -463,7 +402,8 @@
             25, 
             26, 
             27, 
-            28
+            28, 
+            29
         ], 
         "periodTypes": [
             3
@@ -504,7 +444,8 @@
             25, 
             26, 
             27, 
-            28
+            28, 
+            29
         ], 
         "periodTypes": [
             3
@@ -586,7 +527,8 @@
             25, 
             26, 
             27, 
-            28
+            28, 
+            29
         ], 
         "periodTypes": [
             3
@@ -595,170 +537,6 @@
         "statName": "Time Played", 
         "unitLabel": "", 
         "unitType": 3, 
-        "weight": 1
-    }, 
-    "activityShipsFound": {
-        "category": 0, 
-        "group": 102, 
-        "modes": [
-            5, 
-            10, 
-            13, 
-            11, 
-            8, 
-            12, 
-            9, 
-            7, 
-            6, 
-            4, 
-            2, 
-            3, 
-            17, 
-            16, 
-            14, 
-            23, 
-            15, 
-            18, 
-            19, 
-            20, 
-            22, 
-            21, 
-            24, 
-            25, 
-            26, 
-            27, 
-            28
-        ], 
-        "periodTypes": [
-            3
-        ], 
-        "statId": "activityShipsFound", 
-        "statName": "Ships Found", 
-        "unitLabel": "", 
-        "unitType": 1, 
-        "weight": 1
-    }, 
-    "activityTreasureChestsOpened": {
-        "category": 0, 
-        "group": 102, 
-        "modes": [
-            5, 
-            10, 
-            13, 
-            11, 
-            8, 
-            12, 
-            9, 
-            7, 
-            6, 
-            4, 
-            2, 
-            3, 
-            17, 
-            16, 
-            14, 
-            23, 
-            15, 
-            18, 
-            19, 
-            20, 
-            22, 
-            21, 
-            24, 
-            25, 
-            26, 
-            27, 
-            28
-        ], 
-        "periodTypes": [
-            3
-        ], 
-        "statId": "activityTreasureChestsOpened", 
-        "statName": "Treasure Chests Opened", 
-        "unitLabel": "", 
-        "unitType": 1, 
-        "weight": 1
-    }, 
-    "activityVehicleDistanceTraveled": {
-        "category": 0, 
-        "group": 102, 
-        "modes": [
-            5, 
-            10, 
-            13, 
-            11, 
-            8, 
-            12, 
-            9, 
-            7, 
-            6, 
-            4, 
-            2, 
-            3, 
-            17, 
-            16, 
-            14, 
-            23, 
-            15, 
-            18, 
-            19, 
-            20, 
-            22, 
-            21, 
-            24, 
-            25, 
-            26, 
-            27, 
-            28
-        ], 
-        "periodTypes": [
-            3
-        ], 
-        "statId": "activityVehicleDistanceTraveled", 
-        "statName": "Vehicle Distance Traveled", 
-        "unitLabel": "m", 
-        "unitType": 6, 
-        "weight": 1
-    }, 
-    "activityVehiclesFound": {
-        "category": 0, 
-        "group": 102, 
-        "modes": [
-            5, 
-            10, 
-            13, 
-            11, 
-            8, 
-            12, 
-            9, 
-            7, 
-            6, 
-            4, 
-            2, 
-            3, 
-            17, 
-            16, 
-            14, 
-            23, 
-            15, 
-            18, 
-            19, 
-            20, 
-            22, 
-            21, 
-            24, 
-            25, 
-            26, 
-            27, 
-            28
-        ], 
-        "periodTypes": [
-            3
-        ], 
-        "statId": "activityVehiclesFound", 
-        "statName": "Vehicles Found", 
-        "unitLabel": "", 
-        "unitType": 1, 
         "weight": 1
     }, 
     "activityWins": {
@@ -791,7 +569,8 @@
             25, 
             26, 
             27, 
-            28
+            28, 
+            29
         ], 
         "periodTypes": [
             3
@@ -1012,7 +791,8 @@
             25, 
             26, 
             27, 
-            28
+            28, 
+            29
         ], 
         "periodTypes": [
             4, 
@@ -9908,7 +9688,8 @@
             25, 
             26, 
             27, 
-            28
+            28, 
+            29
         ], 
         "periodTypes": [
             3, 
@@ -10017,7 +9798,8 @@
             25, 
             26, 
             27, 
-            28
+            28, 
+            29
         ], 
         "periodTypes": [
             3, 
@@ -10171,7 +9953,8 @@
             25, 
             26, 
             27, 
-            28
+            28, 
+            29
         ], 
         "periodTypes": [
             4
@@ -10212,7 +9995,8 @@
             25, 
             26, 
             27, 
-            28
+            28, 
+            29
         ], 
         "periodTypes": [
             4
@@ -10408,7 +10192,8 @@
             25, 
             26, 
             27, 
-            28
+            28, 
+            29
         ], 
         "periodTypes": [
             4, 
@@ -19824,6 +19609,21 @@
         "unitType": 5, 
         "weight": 1
     }, 
+    "gatesHit": {
+        "category": 0, 
+        "group": 1, 
+        "modes": [
+            29
+        ], 
+        "periodTypes": [
+            3
+        ], 
+        "statId": "gatesHit", 
+        "statName": "Gates Hit", 
+        "unitLabel": "", 
+        "unitType": 1, 
+        "weight": 1
+    }, 
     "highestCharacterLevel": {
         "category": 0, 
         "group": 1, 
@@ -19979,7 +19779,8 @@
             25, 
             26, 
             27, 
-            28
+            28, 
+            29
         ], 
         "periodTypes": [
             4, 
@@ -20024,7 +19825,8 @@
             25, 
             26, 
             27, 
-            28
+            28, 
+            29
         ], 
         "periodTypes": [
             4, 
@@ -20068,7 +19870,8 @@
             25, 
             26, 
             27, 
-            28
+            28, 
+            29
         ], 
         "periodTypes": [
             4, 
@@ -30701,7 +30504,8 @@
             25, 
             26, 
             27, 
-            28
+            28, 
+            29
         ], 
         "periodTypes": [
             3
@@ -30855,7 +30659,8 @@
             25, 
             26, 
             27, 
-            28
+            28, 
+            29
         ], 
         "periodTypes": [
             3, 
@@ -30897,7 +30702,8 @@
             25, 
             26, 
             27, 
-            28
+            28, 
+            29
         ], 
         "periodTypes": [
             3, 
@@ -34621,7 +34427,8 @@
             25, 
             26, 
             27, 
-            28
+            28, 
+            29
         ], 
         "periodTypes": [
             4
@@ -43496,6 +43303,36 @@
         "unitType": 1, 
         "weight": 1
     }, 
+    "raceCompletionMilliseconds": {
+        "category": 0, 
+        "group": 1, 
+        "modes": [
+            29
+        ], 
+        "periodTypes": [
+            4
+        ], 
+        "statId": "raceCompletionMilliseconds", 
+        "statName": "Race Completion Time", 
+        "unitLabel": "###statsformats.MillisecondsUnit###", 
+        "unitType": 12, 
+        "weight": 1
+    }, 
+    "raceCompletionSeconds": {
+        "category": 0, 
+        "group": 1, 
+        "modes": [
+            29
+        ], 
+        "periodTypes": [
+            3
+        ], 
+        "statId": "raceCompletionSeconds", 
+        "statName": "Race Completion Time", 
+        "unitLabel": "", 
+        "unitType": 3, 
+        "weight": 1
+    }, 
     "relicsCaptured": {
         "category": 0, 
         "group": 1, 
@@ -43721,7 +43558,8 @@
             25, 
             26, 
             27, 
-            28
+            28, 
+            29
         ], 
         "periodTypes": [
             3, 
@@ -43785,7 +43623,8 @@
             25, 
             26, 
             27, 
-            28
+            28, 
+            29
         ], 
         "periodTypes": [
             4
@@ -43843,7 +43682,8 @@
             25, 
             26, 
             27, 
-            28
+            28, 
+            29
         ], 
         "periodTypes": [
             3, 
@@ -43949,7 +43789,8 @@
             25, 
             26, 
             27, 
-            28
+            28, 
+            29
         ], 
         "periodTypes": [
             3, 

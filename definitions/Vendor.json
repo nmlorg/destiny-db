@@ -839,7 +839,7 @@
         "failureStrings": [
             null
         ], 
-        "hash": 0, 
+        "hash": 1990950, 
         "index": 0, 
         "summary": {
             "buyString": "Acquire", 
@@ -849,7 +849,7 @@
             "eventHash": 0, 
             "factionDescription": "Complete Vanguard Bounties to unlock powerful gear for purchase.\n\nAchieve high Rank to earn rewards.", 
             "factionHash": 468098704, 
-            "factionIcon": "/common/destiny_content/icons/f40fdfc8a85d749daf424eec7b2d23e9.png", 
+            "factionIcon": "/common/destiny_content/icons/7736df2077ef050e745f4039476f8d0c.png", 
             "factionName": "Vanguard Reputation", 
             "mapSectionIdentifier": "VANGUARD", 
             "mapSectionName": "Vanguard", 
@@ -870,7 +870,7 @@
             ], 
             "vendorDescription": "A veteran Titan who coordinates the defense of the City, Zavala helps to outfit and mentor other Titans.", 
             "vendorHash": 1990950, 
-            "vendorIcon": "/common/destiny_content/icons/99d6ebc7414ddae6b95341d0f8c26e26.png", 
+            "vendorIcon": "/common/destiny_content/icons/0eef2818da9c54c55922d7e69467d90f.png", 
             "vendorIdentifier": "VENDOR_TITAN_MENTOR", 
             "vendorName": "Titan Vanguard", 
             "vendorOrder": 70, 
@@ -980,6 +980,34 @@
                 "overlayTitle": "", 
                 "quantityAvailable": 0, 
                 "showUnavailableItems": false
+            }, 
+            {
+                "categoryHash": 271120251, 
+                "displayTitle": "SRL", 
+                "hasOverlay": false, 
+                "hideFromRegularPurchase": false, 
+                "hideIfNoCurrency": false, 
+                "overlayChoice": "", 
+                "overlayCurrencyItemHash": 0, 
+                "overlayDescription": "", 
+                "overlayIcon": "/img/misc/missing_icon.png", 
+                "overlayTitle": "", 
+                "quantityAvailable": 0, 
+                "showUnavailableItems": false
+            }, 
+            {
+                "categoryHash": 2028251910, 
+                "displayTitle": "Sparrow Horns", 
+                "hasOverlay": false, 
+                "hideFromRegularPurchase": false, 
+                "hideIfNoCurrency": false, 
+                "overlayChoice": "", 
+                "overlayCurrencyItemHash": 0, 
+                "overlayDescription": "", 
+                "overlayIcon": "/img/misc/missing_icon.png", 
+                "overlayTitle": "", 
+                "quantityAvailable": 0, 
+                "showUnavailableItems": false
             }
         ], 
         "failureStrings": [
@@ -999,9 +1027,14 @@
             "Defeat Crota in Crota's End", 
             "Year 1 Veteran Reward", 
             "Obtained from The Taken King Red Bull promotion", 
-            "Complete the Refer-A-Friend Quest: \"A Tale of Two Guardians.\""
+            "Complete the Refer-A-Friend Quest: \"A Tale of Two Guardians.\"", 
+            "Eververse Purchase from Sparrow Toolkit", 
+            "Completing \"SRL: Class S License\"", 
+            "SRL Record Book, Vol. 1 Achievement", 
+            "Completing \"With Finesse and Speed\"", 
+            "Eververse Purchase from Custom Horn Kit"
         ], 
-        "hash": 0, 
+        "hash": 44395194, 
         "index": 0, 
         "summary": {
             "buyString": "Acquire", 
@@ -1026,7 +1059,7 @@
                 2
             ], 
             "vendorHash": 44395194, 
-            "vendorIcon": "/common/destiny_content/icons/a5702ee5bcfd4600a6ef1ec89735f34d.png", 
+            "vendorIcon": "/common/destiny_content/icons/3882461707fe5d2e1cc7800365ecce2c.png", 
             "vendorIdentifier": "VENDOR_KIOSK_VEHICLES", 
             "vendorName": "Vehicles", 
             "vendorOrder": 31, 
@@ -1205,20 +1238,6 @@
                 "overlayIcon": "/img/misc/missing_icon.png", 
                 "overlayTitle": "", 
                 "quantityAvailable": 0, 
-                "showUnavailableItems": false
-            }, 
-            {
-                "categoryHash": 2166136261, 
-                "displayTitle": "", 
-                "hasOverlay": false, 
-                "hideFromRegularPurchase": false, 
-                "hideIfNoCurrency": false, 
-                "overlayChoice": "", 
-                "overlayCurrencyItemHash": 0, 
-                "overlayDescription": "", 
-                "overlayIcon": "/img/misc/missing_icon.png", 
-                "overlayTitle": "", 
-                "quantityAvailable": 2, 
                 "showUnavailableItems": false
             }, 
             {
@@ -1421,7 +1440,7 @@
         "failureStrings": [
             null
         ], 
-        "hash": 0, 
+        "hash": 134701236, 
         "index": 0, 
         "summary": {
             "buyString": "Acquire", 
@@ -1447,7 +1466,7 @@
             ], 
             "vendorDescription": "An artist with micromaterial programs, Eva provides Guardians ways to customize their appearance.", 
             "vendorHash": 134701236, 
-            "vendorIcon": "/common/destiny_content/icons/2375b98a205509b8591545d9d6e11dbe.png", 
+            "vendorIcon": "/common/destiny_content/icons/a5c00dfbaff405c288b38e8b3bf4ffc3.png", 
             "vendorIdentifier": "VENDOR_SHADERS", 
             "vendorName": "Guardian Outfitter", 
             "vendorOrder": 230, 
@@ -2184,6 +2203,20 @@
                 "showUnavailableItems": false
             }, 
             {
+                "categoryHash": 1409275752, 
+                "displayTitle": "", 
+                "hasOverlay": false, 
+                "hideFromRegularPurchase": true, 
+                "hideIfNoCurrency": false, 
+                "overlayChoice": "", 
+                "overlayCurrencyItemHash": 0, 
+                "overlayDescription": "", 
+                "overlayIcon": "/img/misc/missing_icon.png", 
+                "overlayTitle": "", 
+                "quantityAvailable": 0, 
+                "showUnavailableItems": false
+            }, 
+            {
                 "categoryHash": 1395086922, 
                 "displayTitle": "", 
                 "hasOverlay": false, 
@@ -2238,12 +2271,26 @@
                 "overlayTitle": "", 
                 "quantityAvailable": 0, 
                 "showUnavailableItems": false
+            }, 
+            {
+                "categoryHash": 2537126110, 
+                "displayTitle": "Crota's Bane Rank 2", 
+                "hasOverlay": false, 
+                "hideFromRegularPurchase": false, 
+                "hideIfNoCurrency": false, 
+                "overlayChoice": "", 
+                "overlayCurrencyItemHash": 0, 
+                "overlayDescription": "", 
+                "overlayIcon": "/img/misc/missing_icon.png", 
+                "overlayTitle": "", 
+                "quantityAvailable": 1, 
+                "showUnavailableItems": false
             }
         ], 
         "failureStrings": [
             null
         ], 
-        "hash": 0, 
+        "hash": 174528503, 
         "index": 0, 
         "summary": {
             "buyString": "Acquire", 
@@ -2251,7 +2298,7 @@
             "eventHash": 0, 
             "factionDescription": "Face the Court of Oryx, the Taken Trials, and complete Quests for Eris to unlock special gear and upgrade materials.", 
             "factionHash": 174528503, 
-            "factionIcon": "/common/destiny_content/icons/971e6021f674a387abd4cda02d969f4f.png", 
+            "factionIcon": "/common/destiny_content/icons/7148f8b5ffdc2d090b96bd5cd5367c07.png", 
             "factionName": "Crota's Bane", 
             "mapSectionIdentifier": "FACTIONS", 
             "mapSectionName": "Factions", 
@@ -2259,7 +2306,7 @@
             "positionX": 860, 
             "positionY": 917, 
             "progressionHash": 174528503, 
-            "resetIntervalMinutes": 0, 
+            "resetIntervalMinutes": 10080, 
             "resetOffsetMinutes": 2340, 
             "sellString": "Acquire", 
             "showOnMap": true, 
@@ -2272,7 +2319,7 @@
             ], 
             "vendorDescription": "Among the last of those Guardians who faced Crota, Eris works in the shadows to bring about his end.", 
             "vendorHash": 174528503, 
-            "vendorIcon": "/common/destiny_content/icons/ee2eda659ba83d2308f59afcebd94f3c.png", 
+            "vendorIcon": "/common/destiny_content/icons/6e65a48344cd7c2d2116dc6408cf39a1.png", 
             "vendorIdentifier": "VENDOR_ERIS", 
             "vendorName": "Eris Morn", 
             "vendorOrder": 30, 
@@ -2476,7 +2523,7 @@
         "failureStrings": [
             null
         ], 
-        "hash": 0, 
+        "hash": 242140165, 
         "index": 0, 
         "summary": {
             "buyString": "Acquire", 
@@ -2484,7 +2531,7 @@
             "eventHash": 2, 
             "factionDescription": "The Iron Banner summons Guardians to prove their worth in the Crucible.\n\nEvent Standing starts anew with every Iron Banner.", 
             "factionHash": 2161005788, 
-            "factionIcon": "/common/destiny_content/icons/caa46943c019f1e160e57b83f4c6391b.png", 
+            "factionIcon": "/common/destiny_content/icons/742433e686f07150813645a77da65520.png", 
             "factionName": "Iron Banner", 
             "mapSectionIdentifier": "EVENT", 
             "mapSectionName": "Live Events", 
@@ -2505,7 +2552,7 @@
             ], 
             "vendorDescription": "The Iron Banner seeks to forge ever stronger Guardians in the fires of the Crucible.", 
             "vendorHash": 242140165, 
-            "vendorIcon": "/common/destiny_content/icons/6edea3af1b734252437faf76170c923f.png", 
+            "vendorIcon": "/common/destiny_content/icons/68fd7932d2fa24607a029c70cdcdc9aa.png", 
             "vendorIdentifier": "VENDOR_IRON_BANNER", 
             "vendorName": "Iron Banner", 
             "vendorOrder": 30, 
@@ -2648,6 +2695,52 @@
                 "showUnavailableItems": false
             }, 
             {
+                "categoryHash": 728792238, 
+                "displayTitle": "SRL Gear", 
+                "hasOverlay": false, 
+                "hideFromRegularPurchase": false, 
+                "hideIfNoCurrency": false, 
+                "overlayChoice": "", 
+                "overlayCurrencyItemHash": 0, 
+                "overlayDescription": "", 
+                "overlayIcon": "/img/misc/missing_icon.png", 
+                "overlayTitle": "", 
+                "quantityAvailable": 0, 
+                "showUnavailableItems": false
+            }, 
+            {
+                "buyStringOverride": "Accept Bounty", 
+                "categoryHash": 1556376458, 
+                "disabledDescription": "Already Active", 
+                "displayTitle": "Available Bounties", 
+                "hasOverlay": false, 
+                "hideFromRegularPurchase": false, 
+                "hideIfNoCurrency": false, 
+                "overlayChoice": "", 
+                "overlayCurrencyItemHash": 0, 
+                "overlayDescription": "", 
+                "overlayIcon": "/img/misc/missing_icon.png", 
+                "overlayTitle": "", 
+                "quantityAvailable": 11, 
+                "showUnavailableItems": false
+            }, 
+            {
+                "buyStringOverride": "Accept Bounty", 
+                "categoryHash": 894869818, 
+                "disabledDescription": "Already Active", 
+                "displayTitle": "Available Bounties", 
+                "hasOverlay": false, 
+                "hideFromRegularPurchase": false, 
+                "hideIfNoCurrency": false, 
+                "overlayChoice": "", 
+                "overlayCurrencyItemHash": 0, 
+                "overlayDescription": "", 
+                "overlayIcon": "/img/misc/missing_icon.png", 
+                "overlayTitle": "", 
+                "quantityAvailable": 1, 
+                "showUnavailableItems": false
+            }, 
+            {
                 "buyStringOverride": "Turn in", 
                 "categoryHash": 716579557, 
                 "displayTitle": "", 
@@ -2745,24 +2838,70 @@
                 "overlayTitle": "", 
                 "quantityAvailable": 0, 
                 "showUnavailableItems": false
+            }, 
+            {
+                "categoryHash": 790067210, 
+                "displayTitle": "", 
+                "hasOverlay": false, 
+                "hideFromRegularPurchase": true, 
+                "hideIfNoCurrency": false, 
+                "overlayChoice": "", 
+                "overlayCurrencyItemHash": 0, 
+                "overlayDescription": "", 
+                "overlayIcon": "/img/misc/missing_icon.png", 
+                "overlayTitle": "", 
+                "quantityAvailable": 0, 
+                "showUnavailableItems": false
+            }, 
+            {
+                "categoryHash": 17693325, 
+                "displayTitle": "", 
+                "hasOverlay": false, 
+                "hideFromRegularPurchase": true, 
+                "hideIfNoCurrency": false, 
+                "overlayChoice": "", 
+                "overlayCurrencyItemHash": 0, 
+                "overlayDescription": "", 
+                "overlayIcon": "/img/misc/missing_icon.png", 
+                "overlayTitle": "", 
+                "quantityAvailable": 0, 
+                "showUnavailableItems": false
+            }, 
+            {
+                "categoryHash": 1760130521, 
+                "displayTitle": "", 
+                "hasOverlay": false, 
+                "hideFromRegularPurchase": true, 
+                "hideIfNoCurrency": false, 
+                "overlayChoice": "", 
+                "overlayCurrencyItemHash": 0, 
+                "overlayDescription": "", 
+                "overlayIcon": "/img/misc/missing_icon.png", 
+                "overlayTitle": "", 
+                "quantityAvailable": 0, 
+                "showUnavailableItems": false
             }
         ], 
         "failureStrings": [
-            null
+            null, 
+            "Requires \"Sparrow Racing\" Quest Completion"
         ], 
-        "hash": 0, 
+        "hash": 459708109, 
         "index": 0, 
         "summary": {
             "buyString": "Acquire", 
             "enabledUnlockFlagHashes": [], 
             "eventHash": 0, 
-            "factionHash": 0, 
+            "factionDescription": "Rank up your SRL license for greater rewards.", 
+            "factionHash": 2763619072, 
+            "factionIcon": "/common/destiny_content/icons/82ffe849ff981f24f171a3175dee7565.png", 
+            "factionName": "SRL Event Standing", 
             "mapSectionIdentifier": "OUTFITTERS", 
             "mapSectionName": "Outfitters", 
             "mapSectionOrder": 4, 
             "positionX": 1721, 
             "positionY": 322, 
-            "progressionHash": 0, 
+            "progressionHash": 2763619072, 
             "resetIntervalMinutes": 4320, 
             "resetOffsetMinutes": 3840, 
             "sellString": "Acquire", 
@@ -2776,7 +2915,7 @@
             ], 
             "vendorDescription": "The shipwrights of the Tower repair and recommission the ships of the City's Guardians.", 
             "vendorHash": 459708109, 
-            "vendorIcon": "/common/destiny_content/icons/a5702ee5bcfd4600a6ef1ec89735f34d.png", 
+            "vendorIcon": "/common/destiny_content/icons/3882461707fe5d2e1cc7800365ecce2c.png", 
             "vendorIdentifier": "VENDOR_SHIPMASTER", 
             "vendorName": "Shipwright", 
             "vendorOrder": 200, 
@@ -3881,7 +4020,7 @@
             "Max Orders Placed", 
             null
         ], 
-        "hash": 0, 
+        "hash": 570929315, 
         "index": 0, 
         "summary": {
             "buyString": "Acquire", 
@@ -3889,7 +4028,7 @@
             "eventHash": 0, 
             "factionDescription": "Field-test Foundry weapons to place additional Armsday orders.", 
             "factionHash": 2335631936, 
-            "factionIcon": "/common/destiny_content/icons/b20654af0a892d9e943a7c4c49fcf248.png", 
+            "factionIcon": "/common/destiny_content/icons/77eda3d2dab9202d0151f257897e1e38.png", 
             "factionName": "Gunsmith", 
             "mapSectionIdentifier": "OUTFITTERS", 
             "mapSectionName": "Outfitters", 
@@ -3910,7 +4049,7 @@
             ], 
             "vendorDescription": "There are few weapons that Banshee-44 has not seen, and fewer still that he cannot fix.", 
             "vendorHash": 570929315, 
-            "vendorIcon": "/common/destiny_content/icons/e2dcb39e72335e5caad16de1b41af7a5.png", 
+            "vendorIcon": "/common/destiny_content/icons/b3ffae5df217374a6b6c6cf9265e0e5a.png", 
             "vendorIdentifier": "VENDOR_GUNSMITH", 
             "vendorName": "Gunsmith", 
             "vendorOrder": 180, 
@@ -3953,7 +4092,7 @@
             }, 
             {
                 "categoryHash": 1893175724, 
-                "displayTitle": "Festival of the Lost", 
+                "displayTitle": "", 
                 "hasOverlay": false, 
                 "hideFromRegularPurchase": false, 
                 "hideIfNoCurrency": false, 
@@ -3972,9 +4111,13 @@
             "Titan Class", 
             "Warlock Class", 
             "Eververse Purchase", 
-            "Complete the Refer-A-Friend Quest: \"A Tale of Two Guardians.\""
+            "Obtained from The Dawning", 
+            "Eververse Purchase During the SRL Event", 
+            "Complete the Refer-A-Friend Quest: \"A Tale of Two Guardians.\"", 
+            "Eververse Purchase from Fall 2015 Emote Bag", 
+            "Eververse Purchase from Emote Bundle or Fall 2015 Emote Bag"
         ], 
-        "hash": 0, 
+        "hash": 614738178, 
         "index": 0, 
         "summary": {
             "buyString": "Acquire", 
@@ -4000,7 +4143,7 @@
             ], 
             "vendorDescription": "Emote Collection", 
             "vendorHash": 614738178, 
-            "vendorIcon": "/common/destiny_content/icons/2375b98a205509b8591545d9d6e11dbe.png", 
+            "vendorIcon": "/common/destiny_content/icons/a5c00dfbaff405c288b38e8b3bf4ffc3.png", 
             "vendorIdentifier": "VENDOR_KIOSK_EMOTES", 
             "vendorName": "Emote Collection", 
             "vendorOrder": 31, 
@@ -4091,11 +4234,15 @@
             {
                 "acceptedBucket": 3054419239, 
                 "destinationBucket": 138197802
+            }, 
+            {
+                "acceptedBucket": 3796357825, 
+                "destinationBucket": 138197802
             }
         ], 
         "categories": [], 
         "failureStrings": [], 
-        "hash": 0, 
+        "hash": 892630493, 
         "index": 0, 
         "summary": {
             "buyString": "Take", 
@@ -4118,7 +4265,7 @@
             "vendorCategoryHash": 0, 
             "vendorCategoryHashes": [], 
             "vendorHash": 892630493, 
-            "vendorIcon": "/common/destiny_content/icons/9754d6dab216470f3d130987e3b1cf18.png", 
+            "vendorIcon": "/common/destiny_content/icons/be6bd3c8f54261e1f4c2bb72e18ad025.png", 
             "vendorIdentifier": "VENDOR_VAULT", 
             "vendorName": "Vault", 
             "vendorOrder": 210, 
@@ -4169,7 +4316,7 @@
                 "hideFromRegularPurchase": false, 
                 "hideIfNoCurrency": true, 
                 "overlayChoice": "Accept reward:", 
-                "overlayCurrencyItemHash": 100134277, 
+                "overlayCurrencyItemHash": 0, 
                 "overlayDescription": "Ah, the Nine. I suspect we will have a visitor someday soon.", 
                 "overlayIcon": "/img/misc/missing_icon.png", 
                 "overlayTitle": "Mission Reward", 
@@ -4424,7 +4571,7 @@
         "failureStrings": [
             null
         ], 
-        "hash": 0, 
+        "hash": 1303406887, 
         "index": 0, 
         "summary": {
             "buyString": "Acquire", 
@@ -4432,7 +4579,7 @@
             "eventHash": 0, 
             "factionDescription": "Decode Engrams to unlock new Engrams for purchase.\n\nAchieve high Rank to earn rewards.", 
             "factionHash": 1327783731, 
-            "factionIcon": "/common/destiny_content/icons/add88cdfb1502ddd6f5bd1687bbf3ef9.png", 
+            "factionIcon": "/common/destiny_content/icons/57cd8bd1230229076f0e0d8378971fc9.png", 
             "factionName": "Crypto-Archeology", 
             "mapSectionIdentifier": "SERVICES", 
             "mapSectionName": "Services", 
@@ -4453,7 +4600,7 @@
             ], 
             "vendorDescription": "Wherever Guardians go, Cryptarchs often find their services needed. Albeit at a safe distance.", 
             "vendorHash": 1303406887, 
-            "vendorIcon": "/common/destiny_content/icons/ebe44287ad655419c5ea4fcfda2b0e21.png", 
+            "vendorIcon": "/common/destiny_content/icons/18970310ef01c81e4367ad654b81718b.png", 
             "vendorIdentifier": "VENDOR_CRYPTARCH_APPRENTICE", 
             "vendorName": "Cryptarch", 
             "vendorOrder": 31, 
@@ -4764,12 +4911,26 @@
                 "overlayTitle": "", 
                 "quantityAvailable": 0, 
                 "showUnavailableItems": false
+            }, 
+            {
+                "categoryHash": 117872102, 
+                "displayTitle": "Material Exchange", 
+                "hasOverlay": false, 
+                "hideFromRegularPurchase": false, 
+                "hideIfNoCurrency": false, 
+                "overlayChoice": "", 
+                "overlayCurrencyItemHash": 0, 
+                "overlayDescription": "", 
+                "overlayIcon": "/img/misc/missing_icon.png", 
+                "overlayTitle": "", 
+                "quantityAvailable": 0, 
+                "showUnavailableItems": false
             }
         ], 
         "failureStrings": [
             null
         ], 
-        "hash": 0, 
+        "hash": 1410745145, 
         "index": 0, 
         "summary": {
             "buyString": "Acquire", 
@@ -4777,7 +4938,7 @@
             "eventHash": 0, 
             "factionDescription": "Complete Bounties for Petra in the Reef on behalf of the Queen.\n\nRaise your standing to unlock rewards.", 
             "factionHash": 807090922, 
-            "factionIcon": "/common/destiny_content/icons/0bb1e6b534ca747311f7ad7ba09ff4cc.png", 
+            "factionIcon": "/common/destiny_content/icons/30f0f880e077cb30b0e5d50b80a2b885.png", 
             "factionName": "Queen's Wrath", 
             "mapSectionIdentifier": "FACTIONS", 
             "mapSectionName": "Factions", 
@@ -4798,7 +4959,7 @@
             ], 
             "vendorDescription": "Petra serves the Queen of the Awoken, directing the allies of the Reef in the Queen's service.", 
             "vendorHash": 1410745145, 
-            "vendorIcon": "/common/destiny_content/icons/054742ab32c78e6704f26a6282bc7670.png", 
+            "vendorIcon": "/common/destiny_content/icons/e53d7b1878512b55cbfbc3503f288147.png", 
             "vendorIdentifier": "VENDOR_QUEEN", 
             "vendorName": "Queen's Wrath", 
             "vendorOrder": 31, 
@@ -4942,7 +5103,7 @@
             null, 
             "Requires Discovery"
         ], 
-        "hash": 0, 
+        "hash": 1460182514, 
         "index": 0, 
         "summary": {
             "buyString": "Acquire", 
@@ -4968,7 +5129,7 @@
             ], 
             "vendorDescription": "Exotic Weapon Blueprints", 
             "vendorHash": 1460182514, 
-            "vendorIcon": "/common/destiny_content/icons/2375b98a205509b8591545d9d6e11dbe.png", 
+            "vendorIcon": "/common/destiny_content/icons/a5c00dfbaff405c288b38e8b3bf4ffc3.png", 
             "vendorIdentifier": "VENDOR_KIOSK_EXOTIC_WEAPON", 
             "vendorName": "Exotic Weapon Blueprints", 
             "vendorOrder": 31, 
@@ -5596,7 +5757,7 @@
             }
         ], 
         "failureStrings": [], 
-        "hash": 0, 
+        "hash": 1527174714, 
         "index": 0, 
         "summary": {
             "buyString": "Accept Bounty", 
@@ -5623,7 +5784,7 @@
             ], 
             "vendorDescription": "When a Guardian's prowess in the field is required, bounties are posted here.", 
             "vendorHash": 1527174714, 
-            "vendorIcon": "/common/destiny_content/icons/c7b49f79569bf9f13909ee9498e853d3.png", 
+            "vendorIcon": "/common/destiny_content/icons/84617bfee0c7633dd44278102d8c5d33.png", 
             "vendorIdentifier": "VENDOR_BOUNTY_TRACKER", 
             "vendorName": "Bounty Tracker", 
             "vendorOrder": 50, 
@@ -6431,7 +6592,7 @@
         "failureStrings": [
             null
         ], 
-        "hash": 0, 
+        "hash": 1575820975, 
         "index": 0, 
         "summary": {
             "buyString": "Acquire", 
@@ -6441,7 +6602,7 @@
             "eventHash": 0, 
             "factionDescription": "Complete Vanguard Bounties to unlock powerful gear for purchase.\n\nAchieve high Rank to earn rewards.", 
             "factionHash": 468098704, 
-            "factionIcon": "/common/destiny_content/icons/f40fdfc8a85d749daf424eec7b2d23e9.png", 
+            "factionIcon": "/common/destiny_content/icons/7736df2077ef050e745f4039476f8d0c.png", 
             "factionName": "Vanguard Reputation", 
             "mapSectionIdentifier": "VANGUARD", 
             "mapSectionName": "Vanguard", 
@@ -6462,7 +6623,7 @@
             ], 
             "vendorDescription": "Respected among all Orders, Ikora Rey tutors new Warlocks with a lifetime of hard-earned knowledge.", 
             "vendorHash": 1575820975, 
-            "vendorIcon": "/common/destiny_content/icons/99d6ebc7414ddae6b95341d0f8c26e26.png", 
+            "vendorIcon": "/common/destiny_content/icons/0eef2818da9c54c55922d7e69467d90f.png", 
             "vendorIdentifier": "VENDOR_WARLOCK_MENTOR", 
             "vendorName": "Warlock Vanguard", 
             "vendorOrder": 90, 
@@ -6828,6 +6989,20 @@
                 "showUnavailableItems": false
             }, 
             {
+                "categoryHash": 2537126110, 
+                "displayTitle": "Material Exchange", 
+                "hasOverlay": false, 
+                "hideFromRegularPurchase": false, 
+                "hideIfNoCurrency": false, 
+                "overlayChoice": "", 
+                "overlayCurrencyItemHash": 0, 
+                "overlayDescription": "", 
+                "overlayIcon": "/img/misc/missing_icon.png", 
+                "overlayTitle": "", 
+                "quantityAvailable": 1, 
+                "showUnavailableItems": false
+            }, 
+            {
                 "categoryHash": 1922831386, 
                 "displayTitle": "Faction Allegiance", 
                 "hasOverlay": false, 
@@ -6873,7 +7048,7 @@
         "failureStrings": [
             null
         ], 
-        "hash": 0, 
+        "hash": 1808244981, 
         "index": 0, 
         "summary": {
             "buyString": "Acquire", 
@@ -6881,7 +7056,7 @@
             "eventHash": 0, 
             "factionDescription": "Unlocks New Monarchy gear, and grants New Monarchy reputation when earning Vanguard and Crucible reputation.", 
             "factionHash": 3197190122, 
-            "factionIcon": "/common/destiny_content/icons/344c7ad80e18ccd6504a1e638282960b.png", 
+            "factionIcon": "/common/destiny_content/icons/20112731833c3edbaf0596e8ecf1eaf3.png", 
             "factionName": "New Monarchy", 
             "mapSectionIdentifier": "FACTIONS", 
             "mapSectionName": "Factions", 
@@ -6889,8 +7064,8 @@
             "positionX": 735, 
             "positionY": 678, 
             "progressionHash": 3871980777, 
-            "resetIntervalMinutes": 0, 
-            "resetOffsetMinutes": 960, 
+            "resetIntervalMinutes": 10080, 
+            "resetOffsetMinutes": 2340, 
             "sellString": "Acquire", 
             "showOnMap": true, 
             "transitionNodeIdentifier": "TOWER_NODE", 
@@ -6902,7 +7077,7 @@
             ], 
             "vendorDescription": "The New Monarchy gathers adherents in the Tower, and arms them well for the Crucible.", 
             "vendorHash": 1808244981, 
-            "vendorIcon": "/common/destiny_content/icons/99d6ebc7414ddae6b95341d0f8c26e26.png", 
+            "vendorIcon": "/common/destiny_content/icons/0eef2818da9c54c55922d7e69467d90f.png", 
             "vendorIdentifier": "VENDOR_NEW_MONARCHY", 
             "vendorName": "New Monarchy", 
             "vendorOrder": 150, 
@@ -7297,6 +7472,20 @@
                 "showUnavailableItems": false
             }, 
             {
+                "categoryHash": 2537126110, 
+                "displayTitle": "Material Exchange", 
+                "hasOverlay": false, 
+                "hideFromRegularPurchase": false, 
+                "hideIfNoCurrency": false, 
+                "overlayChoice": "", 
+                "overlayCurrencyItemHash": 0, 
+                "overlayDescription": "", 
+                "overlayIcon": "/img/misc/missing_icon.png", 
+                "overlayTitle": "", 
+                "quantityAvailable": 1, 
+                "showUnavailableItems": false
+            }, 
+            {
                 "categoryHash": 1922831386, 
                 "displayTitle": "Faction Allegiance", 
                 "hasOverlay": false, 
@@ -7342,7 +7531,7 @@
         "failureStrings": [
             null
         ], 
-        "hash": 0, 
+        "hash": 1821699360, 
         "index": 0, 
         "summary": {
             "buyString": "Acquire", 
@@ -7350,7 +7539,7 @@
             "eventHash": 0, 
             "factionDescription": "Unlocks Future War Cult gear, and grants Future War Cult reputation when earning Vanguard and Crucible reputation.", 
             "factionHash": 489342053, 
-            "factionIcon": "/common/destiny_content/icons/f18d24bd97557daae0dab6a99ffdd574.png", 
+            "factionIcon": "/common/destiny_content/icons/6260e5c1588c3f2c7c4166c47619c182.png", 
             "factionName": "Future War Cult", 
             "mapSectionIdentifier": "FACTIONS", 
             "mapSectionName": "Factions", 
@@ -7358,8 +7547,8 @@
             "positionX": 1589, 
             "positionY": 262, 
             "progressionHash": 1424722124, 
-            "resetIntervalMinutes": 0, 
-            "resetOffsetMinutes": 960, 
+            "resetIntervalMinutes": 10080, 
+            "resetOffsetMinutes": 2340, 
             "sellString": "Acquire", 
             "showOnMap": true, 
             "transitionNodeIdentifier": "TOWER_NODE", 
@@ -7371,7 +7560,7 @@
             ], 
             "vendorDescription": "The War Cult has always been an open secret in the Tower, arming and advising those who represent them in the Crucible.", 
             "vendorHash": 1821699360, 
-            "vendorIcon": "/common/destiny_content/icons/99d6ebc7414ddae6b95341d0f8c26e26.png", 
+            "vendorIcon": "/common/destiny_content/icons/0eef2818da9c54c55922d7e69467d90f.png", 
             "vendorIdentifier": "VENDOR_FWC", 
             "vendorName": "Future War Cult", 
             "vendorOrder": 130, 
@@ -7620,7 +7809,7 @@
         "failureStrings": [
             null
         ], 
-        "hash": 0, 
+        "hash": 1889676839, 
         "index": 0, 
         "summary": {
             "buyString": "Acquire", 
@@ -7646,7 +7835,7 @@
             ], 
             "vendorDescription": "Osiris seeks the strongest Guardians to stem the tide of the Darkness.", 
             "vendorHash": 1889676839, 
-            "vendorIcon": "/common/destiny_content/icons/b1792d0225f42877e2850179fc97f4c1.png", 
+            "vendorIcon": "/common/destiny_content/icons/7d06267f4f4dca516eb570e76aaa4b21.png", 
             "vendorIdentifier": "VENDOR_OSIRIS", 
             "vendorName": "Disciple of Osiris", 
             "vendorOrder": 31, 
@@ -7873,7 +8062,7 @@
         "failureStrings": [
             null
         ], 
-        "hash": 0, 
+        "hash": 1998812735, 
         "index": 0, 
         "summary": {
             "buyString": "Acquire", 
@@ -7881,7 +8070,7 @@
             "eventHash": 0, 
             "factionDescription": "Defeat enemies in the Prison of Elders to gain notoriety with the House of Judgment.\n\nRaise your standing to unlock better rewards.", 
             "factionHash": 3641985238, 
-            "factionIcon": "/common/destiny_content/icons/72d505055069e83097524da2030d3bef.png", 
+            "factionIcon": "/common/destiny_content/icons/09c9e9d4075339591b13656ea78df6e2.png", 
             "factionName": "House of Judgment", 
             "mapSectionIdentifier": "FACTIONS", 
             "mapSectionName": "Factions", 
@@ -7902,7 +8091,7 @@
             ], 
             "vendorDescription": "Variks is loyal to the Queen, and has no love for the Kells who have taken command of the Fallen Houses.", 
             "vendorHash": 1998812735, 
-            "vendorIcon": "/common/destiny_content/icons/5b6f15a2d6493788c0b5d89955ef04bb.png", 
+            "vendorIcon": "/common/destiny_content/icons/f327d98c309049ea870198ff1e0bf047.png", 
             "vendorIdentifier": "VENDOR_FALLEN", 
             "vendorName": "House of Judgment", 
             "vendorOrder": 31, 
@@ -7929,7 +8118,7 @@
         ], 
         "categories": [], 
         "failureStrings": [], 
-        "hash": 0, 
+        "hash": 2021251983, 
         "index": 0, 
         "summary": {
             "buyString": "Collect", 
@@ -7955,7 +8144,7 @@
             ], 
             "vendorDescription": "Deliveries and messages are left with the Postmaster to be collected by Guardians when their travels bring them home.", 
             "vendorHash": 2021251983, 
-            "vendorIcon": "/common/destiny_content/icons/9e1a998215cb583d944399ba970b4a19.png", 
+            "vendorIcon": "/common/destiny_content/icons/855986a6156e233a8868929c546d8867.png", 
             "vendorIdentifier": "VENDOR_POSTMASTER", 
             "vendorName": "Postmaster", 
             "vendorOrder": 220, 
@@ -8131,7 +8320,7 @@
             "The Taken King Quest Reward", 
             "Defeat Oryx in the King's Fall Raid (Heroic)"
         ], 
-        "hash": 0, 
+        "hash": 2244880194, 
         "index": 0, 
         "summary": {
             "buyString": "Acquire", 
@@ -8157,7 +8346,7 @@
             ], 
             "vendorDescription": "Ships", 
             "vendorHash": 2244880194, 
-            "vendorIcon": "/common/destiny_content/icons/a5702ee5bcfd4600a6ef1ec89735f34d.png", 
+            "vendorIcon": "/common/destiny_content/icons/3882461707fe5d2e1cc7800365ecce2c.png", 
             "vendorIdentifier": "VENDOR_KIOSK_SHIPS", 
             "vendorName": "Ship Collection", 
             "vendorOrder": 31, 
@@ -8309,6 +8498,20 @@
                 "overlayTitle": "", 
                 "quantityAvailable": 0, 
                 "showUnavailableItems": false
+            }, 
+            {
+                "categoryHash": 2173734358, 
+                "displayTitle": "SRL", 
+                "hasOverlay": false, 
+                "hideFromRegularPurchase": false, 
+                "hideIfNoCurrency": false, 
+                "overlayChoice": "", 
+                "overlayCurrencyItemHash": 0, 
+                "overlayDescription": "", 
+                "overlayIcon": "/img/misc/missing_icon.png", 
+                "overlayTitle": "", 
+                "quantityAvailable": 0, 
+                "showUnavailableItems": false
             }
         ], 
         "failureStrings": [
@@ -8318,7 +8521,7 @@
             "Purchase from Lord Saladin", 
             "Requires Crota's Bane Rank 2", 
             "Purchase from Petra Venj", 
-            "Complete \"The Old Hunger\" Quest", 
+            "Collect All Calcified Fragments", 
             null, 
             "Found in Future War Cult Packages", 
             "Found in New Monarchy Packages", 
@@ -8334,9 +8537,11 @@
             "The Taken King Quest Reward", 
             "Reward from Vanguard Strikes", 
             "Reward from Crucible Playlist", 
-            "Complete the Refer-A-Friend Quest: \"A Tale of Two Guardians.\""
+            "Complete the Refer-A-Friend Quest: \"A Tale of Two Guardians.\"", 
+            "Reward from SRL Playlist", 
+            "SRL Record Book, Vol. 1 Achievement"
         ], 
-        "hash": 0, 
+        "hash": 2420628997, 
         "index": 0, 
         "summary": {
             "buyString": "Acquire", 
@@ -8361,7 +8566,7 @@
                 2
             ], 
             "vendorHash": 2420628997, 
-            "vendorIcon": "/common/destiny_content/icons/2375b98a205509b8591545d9d6e11dbe.png", 
+            "vendorIcon": "/common/destiny_content/icons/a5c00dfbaff405c288b38e8b3bf4ffc3.png", 
             "vendorIdentifier": "VENDOR_KIOSK_SHADERS", 
             "vendorName": "Shader Collection", 
             "vendorOrder": 31, 
@@ -8464,7 +8669,7 @@
         "failureStrings": [
             null
         ], 
-        "hash": 0, 
+        "hash": 2668878854, 
         "index": 0, 
         "summary": {
             "buyString": "Acquire", 
@@ -8472,7 +8677,7 @@
             "eventHash": 0, 
             "factionDescription": "Complete Vanguard Bounties to unlock powerful gear for purchase.\n\nAchieve high Rank to earn rewards.", 
             "factionHash": 468098704, 
-            "factionIcon": "/common/destiny_content/icons/f40fdfc8a85d749daf424eec7b2d23e9.png", 
+            "factionIcon": "/common/destiny_content/icons/7736df2077ef050e745f4039476f8d0c.png", 
             "factionName": "Vanguard Reputation", 
             "mapSectionIdentifier": "VANGUARD", 
             "mapSectionName": "Vanguard", 
@@ -8493,7 +8698,7 @@
             ], 
             "vendorDescription": "Roni 55-30 maintains a stock of select weapons for those proven among the Vanguard.", 
             "vendorHash": 2668878854, 
-            "vendorIcon": "/common/destiny_content/icons/e2dcb39e72335e5caad16de1b41af7a5.png", 
+            "vendorIcon": "/common/destiny_content/icons/b3ffae5df217374a6b6c6cf9265e0e5a.png", 
             "vendorIdentifier": "VENDOR_VANGUARD_ARMORY", 
             "vendorName": "Vanguard Quartermaster", 
             "vendorOrder": 100, 
@@ -8961,7 +9166,7 @@
         "failureStrings": [
             null
         ], 
-        "hash": 0, 
+        "hash": 2680694281, 
         "index": 0, 
         "summary": {
             "buyString": "Acquire", 
@@ -8987,7 +9192,7 @@
             ], 
             "vendorDescription": "An ancient scholar of the Traveler, the Speaker keeps special items for Guardians who explore the Light's mysteries.", 
             "vendorHash": 2680694281, 
-            "vendorIcon": "/common/destiny_content/icons/2375b98a205509b8591545d9d6e11dbe.png", 
+            "vendorIcon": "/common/destiny_content/icons/a5c00dfbaff405c288b38e8b3bf4ffc3.png", 
             "vendorIdentifier": "VENDOR_SPEAKER", 
             "vendorName": "The Speaker", 
             "vendorOrder": 160, 
@@ -9014,7 +9219,7 @@
         ], 
         "categories": [], 
         "failureStrings": [], 
-        "hash": 0, 
+        "hash": 2762206170, 
         "index": 0, 
         "summary": {
             "buyString": "Collect", 
@@ -9040,7 +9245,7 @@
             ], 
             "vendorDescription": "For Guardians' convenience, one Reef postmaster was granted access to the Tower's messaging and delivery network.", 
             "vendorHash": 2762206170, 
-            "vendorIcon": "/common/destiny_content/icons/9e1a998215cb583d944399ba970b4a19.png", 
+            "vendorIcon": "/common/destiny_content/icons/855986a6156e233a8868929c546d8867.png", 
             "vendorIdentifier": "VENDOR_REEF_POSTMASTER", 
             "vendorName": "Postmaster", 
             "vendorOrder": 31, 
@@ -9766,7 +9971,7 @@
             }, 
             {
                 "categoryHash": 1824140916, 
-                "displayTitle": "Exotic Gear", 
+                "displayTitle": "", 
                 "hasOverlay": false, 
                 "hideFromRegularPurchase": false, 
                 "hideIfNoCurrency": false, 
@@ -9790,6 +9995,20 @@
                 "overlayIcon": "/img/misc/missing_icon.png", 
                 "overlayTitle": "", 
                 "quantityAvailable": 1, 
+                "showUnavailableItems": false
+            }, 
+            {
+                "categoryHash": 79154011, 
+                "displayTitle": "Exotic Gear", 
+                "hasOverlay": false, 
+                "hideFromRegularPurchase": false, 
+                "hideIfNoCurrency": false, 
+                "overlayChoice": "", 
+                "overlayCurrencyItemHash": 0, 
+                "overlayDescription": "", 
+                "overlayIcon": "/img/misc/missing_icon.png", 
+                "overlayTitle": "", 
+                "quantityAvailable": 0, 
                 "showUnavailableItems": false
             }, 
             {
@@ -9838,7 +10057,7 @@
         "failureStrings": [
             null
         ], 
-        "hash": 0, 
+        "hash": 2796397637, 
         "index": 0, 
         "summary": {
             "buyString": "Acquire", 
@@ -9868,7 +10087,7 @@
             ], 
             "vendorDescription": "X\u00fbr comes and goes freely, his strange curios eagerly sought by adventurous Guardians.", 
             "vendorHash": 2796397637, 
-            "vendorIcon": "/common/destiny_content/icons/d7ec7fd149ce04f587fd43f8eec124a9.png", 
+            "vendorIcon": "/common/destiny_content/icons/e265fff2c662f87f04fc04727f658bf7.png", 
             "vendorIdentifier": "VENDOR_BLACK_MARKET", 
             "vendorName": "Agent of the Nine", 
             "vendorOrder": 10, 
@@ -10620,7 +10839,7 @@
         "failureStrings": [
             null
         ], 
-        "hash": 0, 
+        "hash": 3003633346, 
         "index": 0, 
         "summary": {
             "buyString": "Acquire", 
@@ -10630,7 +10849,7 @@
             "eventHash": 0, 
             "factionDescription": "Complete Vanguard Bounties to unlock powerful gear for purchase.\n\nAchieve high Rank to earn rewards.", 
             "factionHash": 468098704, 
-            "factionIcon": "/common/destiny_content/icons/f40fdfc8a85d749daf424eec7b2d23e9.png", 
+            "factionIcon": "/common/destiny_content/icons/7736df2077ef050e745f4039476f8d0c.png", 
             "factionName": "Vanguard Reputation", 
             "mapSectionIdentifier": "VANGUARD", 
             "mapSectionName": "Vanguard", 
@@ -10651,7 +10870,7 @@
             ], 
             "vendorDescription": "Saddled with Tower duty, Cayde-6 dutifully advises and arms Hunters who seek him out.", 
             "vendorHash": 3003633346, 
-            "vendorIcon": "/common/destiny_content/icons/99d6ebc7414ddae6b95341d0f8c26e26.png", 
+            "vendorIcon": "/common/destiny_content/icons/0eef2818da9c54c55922d7e69467d90f.png", 
             "vendorIdentifier": "VENDOR_HUNTER_MENTOR", 
             "vendorName": "Hunter Vanguard", 
             "vendorOrder": 80, 
@@ -10723,6 +10942,20 @@
             {
                 "categoryHash": 459841934, 
                 "displayTitle": "Crucible", 
+                "hasOverlay": false, 
+                "hideFromRegularPurchase": false, 
+                "hideIfNoCurrency": false, 
+                "overlayChoice": "", 
+                "overlayCurrencyItemHash": 0, 
+                "overlayDescription": "", 
+                "overlayIcon": "/img/misc/missing_icon.png", 
+                "overlayTitle": "", 
+                "quantityAvailable": 0, 
+                "showUnavailableItems": false
+            }, 
+            {
+                "categoryHash": 292507241, 
+                "displayTitle": "SRL", 
                 "hasOverlay": false, 
                 "hideFromRegularPurchase": false, 
                 "hideIfNoCurrency": false, 
@@ -10820,7 +11053,6 @@
             }
         ], 
         "failureStrings": [
-            "Create a Titan", 
             null, 
             "Purchase from Eva Levante", 
             "Found in Future War Cult Packages", 
@@ -10828,8 +11060,6 @@
             "Defeat Crota in Crota's End", 
             "Requires Crota's Bane Rank 1", 
             "Reward from Vanguard Strikes", 
-            "Create a Hunter", 
-            "Create a Warlock", 
             "Found in Dead Orbit Packages", 
             "Found in New Monarchy Packages", 
             "Purchase from Petra Venj", 
@@ -10845,6 +11075,8 @@
             "Defeat Skolas in the Prison of Elders", 
             "Obtained from Cryptarch Packages", 
             "Complete the Refer-A-Friend Quest: \"A Tale of Two Guardians.\"", 
+            "SRL Record Book, Vol. 1 Achievement", 
+            "Completing \"SRL: Class S License\"", 
             "Complete \"The Old Hunger\" Quest", 
             "Complete the Gunslinger Subclass Quest", 
             "Complete the Bladedancer Subclass Quest", 
@@ -10857,7 +11089,7 @@
             "Complete the Voidwalker Subclass Quest", 
             "Moment of Triumph Reward"
         ], 
-        "hash": 0, 
+        "hash": 3301500998, 
         "index": 0, 
         "summary": {
             "buyString": "Acquire", 
@@ -10883,7 +11115,7 @@
             ], 
             "vendorDescription": "Emblem Collection", 
             "vendorHash": 3301500998, 
-            "vendorIcon": "/common/destiny_content/icons/2375b98a205509b8591545d9d6e11dbe.png", 
+            "vendorIcon": "/common/destiny_content/icons/a5c00dfbaff405c288b38e8b3bf4ffc3.png", 
             "vendorIdentifier": "VENDOR_KIOSK_EMBLEMS", 
             "vendorName": "Emblem Collection", 
             "vendorOrder": 31, 
@@ -11263,6 +11495,20 @@
                 "showUnavailableItems": false
             }, 
             {
+                "categoryHash": 2537126110, 
+                "displayTitle": "Material Exchange", 
+                "hasOverlay": false, 
+                "hideFromRegularPurchase": false, 
+                "hideIfNoCurrency": false, 
+                "overlayChoice": "", 
+                "overlayCurrencyItemHash": 0, 
+                "overlayDescription": "", 
+                "overlayIcon": "/img/misc/missing_icon.png", 
+                "overlayTitle": "", 
+                "quantityAvailable": 1, 
+                "showUnavailableItems": false
+            }, 
+            {
                 "categoryHash": 1922831386, 
                 "displayTitle": "Faction Allegiance", 
                 "hasOverlay": false, 
@@ -11308,7 +11554,7 @@
         "failureStrings": [
             null
         ], 
-        "hash": 0, 
+        "hash": 3611686524, 
         "index": 0, 
         "summary": {
             "buyString": "Acquire", 
@@ -11316,7 +11562,7 @@
             "eventHash": 0, 
             "factionDescription": "Unlocks Dead Orbit gear, and grants Dead Orbit reputation when earning Vanguard and Crucible reputation.", 
             "factionHash": 2397602219, 
-            "factionIcon": "/common/destiny_content/icons/c5b9005492df732af77659208d609833.png", 
+            "factionIcon": "/common/destiny_content/icons/0059a02eb635aaabf05a2a64fce67497.png", 
             "factionName": "Dead Orbit", 
             "mapSectionIdentifier": "FACTIONS", 
             "mapSectionName": "Factions", 
@@ -11324,8 +11570,8 @@
             "positionX": 1506, 
             "positionY": 400, 
             "progressionHash": 2778795080, 
-            "resetIntervalMinutes": 0, 
-            "resetOffsetMinutes": 960, 
+            "resetIntervalMinutes": 10080, 
+            "resetOffsetMinutes": 2340, 
             "sellString": "Acquire", 
             "showOnMap": true, 
             "transitionNodeIdentifier": "TOWER_NODE", 
@@ -11337,7 +11583,7 @@
             ], 
             "vendorDescription": "Dead Orbit only grudgingly maintains a presence in the Tower to arm and outfit their champions in the Crucible.", 
             "vendorHash": 3611686524, 
-            "vendorIcon": "/common/destiny_content/icons/99d6ebc7414ddae6b95341d0f8c26e26.png", 
+            "vendorIcon": "/common/destiny_content/icons/0eef2818da9c54c55922d7e69467d90f.png", 
             "vendorIdentifier": "VENDOR_DEAD_ORBIT", 
             "vendorName": "Dead Orbit", 
             "vendorOrder": 140, 
@@ -11485,7 +11731,7 @@
         "failureStrings": [
             null
         ], 
-        "hash": 0, 
+        "hash": 3658200622, 
         "index": 0, 
         "summary": {
             "buyString": "Acquire", 
@@ -11493,7 +11739,7 @@
             "eventHash": 0, 
             "factionDescription": "Complete Crucible Bounties to unlock powerful gear for purchase.\n\nAchieve high Rank to earn rewards.", 
             "factionHash": 964120289, 
-            "factionIcon": "/common/destiny_content/icons/33917f7af69e5c0e896092b4d29c9209.png", 
+            "factionIcon": "/common/destiny_content/icons/9d92c63caf54e99c0c28abdc8bc018da.png", 
             "factionName": "The Crucible", 
             "mapSectionIdentifier": "CRUCIBLE", 
             "mapSectionName": "Crucible", 
@@ -11514,7 +11760,7 @@
             ], 
             "vendorDescription": "The Crucible is a demanding place, and Arcite 99-40 assists Shaxx in arming Guardians to withstand it.", 
             "vendorHash": 3658200622, 
-            "vendorIcon": "/common/destiny_content/icons/6edea3af1b734252437faf76170c923f.png", 
+            "vendorIcon": "/common/destiny_content/icons/68fd7932d2fa24607a029c70cdcdc9aa.png", 
             "vendorIdentifier": "VENDOR_CRUCIBLE_OUTFITTER", 
             "vendorName": "Crucible Quartermaster", 
             "vendorOrder": 110, 
@@ -11734,6 +11980,22 @@
                 "overlayIcon": "/img/misc/missing_icon.png", 
                 "overlayTitle": "", 
                 "quantityAvailable": 1, 
+                "showUnavailableItems": false
+            }, 
+            {
+                "buyStringOverride": "Accept", 
+                "categoryHash": 3445934700, 
+                "disabledDescription": "Already Active", 
+                "displayTitle": "Available Bounties", 
+                "hasOverlay": false, 
+                "hideFromRegularPurchase": true, 
+                "hideIfNoCurrency": false, 
+                "overlayChoice": "", 
+                "overlayCurrencyItemHash": 0, 
+                "overlayDescription": "", 
+                "overlayIcon": "/img/misc/missing_icon.png", 
+                "overlayTitle": "", 
+                "quantityAvailable": 0, 
                 "showUnavailableItems": false
             }, 
             {
@@ -12104,7 +12366,7 @@
         "failureStrings": [
             null
         ], 
-        "hash": 0, 
+        "hash": 3746647075, 
         "index": 0, 
         "summary": {
             "buyString": "Acquire", 
@@ -12112,7 +12374,7 @@
             "eventHash": 0, 
             "factionDescription": "Complete Crucible Bounties to unlock powerful gear for purchase.\n\nAchieve high Rank to earn rewards.", 
             "factionHash": 964120289, 
-            "factionIcon": "/common/destiny_content/icons/33917f7af69e5c0e896092b4d29c9209.png", 
+            "factionIcon": "/common/destiny_content/icons/9d92c63caf54e99c0c28abdc8bc018da.png", 
             "factionName": "The Crucible", 
             "mapSectionIdentifier": "CRUCIBLE", 
             "mapSectionName": "Crucible", 
@@ -12133,7 +12395,7 @@
             ], 
             "vendorDescription": "A veteran of the Crucible, Lord Shaxx both arms and oversees those who seek to forge themselves within it.", 
             "vendorHash": 3746647075, 
-            "vendorIcon": "/common/destiny_content/icons/6edea3af1b734252437faf76170c923f.png", 
+            "vendorIcon": "/common/destiny_content/icons/68fd7932d2fa24607a029c70cdcdc9aa.png", 
             "vendorIdentifier": "VENDOR_CRUCIBLE_MASTER", 
             "vendorName": "Crucible Handler", 
             "vendorOrder": 110, 
@@ -12290,7 +12552,7 @@
         "failureStrings": [
             "Requires Discovery"
         ], 
-        "hash": 0, 
+        "hash": 3902439767, 
         "index": 0, 
         "summary": {
             "buyString": "Acquire", 
@@ -12316,7 +12578,7 @@
             ], 
             "vendorDescription": "Exotic Armor Blueprints", 
             "vendorHash": 3902439767, 
-            "vendorIcon": "/common/destiny_content/icons/2375b98a205509b8591545d9d6e11dbe.png", 
+            "vendorIcon": "/common/destiny_content/icons/a5c00dfbaff405c288b38e8b3bf4ffc3.png", 
             "vendorIdentifier": "VENDOR_KIOSK_EXOTIC_ARMOR", 
             "vendorName": "Exotic Armor Blueprints", 
             "vendorOrder": 31, 
@@ -12329,6 +12591,20 @@
     "3917130357": {
         "acceptedItems": [], 
         "categories": [
+            {
+                "categoryHash": 4167439817, 
+                "displayTitle": "", 
+                "hasOverlay": false, 
+                "hideFromRegularPurchase": false, 
+                "hideIfNoCurrency": false, 
+                "overlayChoice": "", 
+                "overlayCurrencyItemHash": 0, 
+                "overlayDescription": "", 
+                "overlayIcon": "/img/misc/missing_icon.png", 
+                "overlayTitle": "", 
+                "quantityAvailable": 0, 
+                "showUnavailableItems": false
+            }, 
             {
                 "categoryHash": 2579002851, 
                 "displayTitle": "Emotes I", 
@@ -12370,10 +12646,42 @@
                 "overlayTitle": "", 
                 "quantityAvailable": 0, 
                 "showUnavailableItems": false
+            }, 
+            {
+                "categoryHash": 982571842, 
+                "displayTitle": "SRL Event", 
+                "hasOverlay": false, 
+                "hideFromRegularPurchase": false, 
+                "hideIfNoCurrency": false, 
+                "overlayChoice": "", 
+                "overlayCurrencyItemHash": 0, 
+                "overlayDescription": "", 
+                "overlayIcon": "/img/misc/missing_icon.png", 
+                "overlayTitle": "", 
+                "quantityAvailable": 0, 
+                "showUnavailableItems": false
+            }, 
+            {
+                "categoryHash": 2471912143, 
+                "displayTitle": "Mystery Bags", 
+                "hasOverlay": false, 
+                "hideFromRegularPurchase": false, 
+                "hideIfNoCurrency": false, 
+                "overlayChoice": "", 
+                "overlayCurrencyItemHash": 0, 
+                "overlayDescription": "", 
+                "overlayIcon": "/img/misc/missing_icon.png", 
+                "overlayTitle": "", 
+                "quantityAvailable": 0, 
+                "showUnavailableItems": false
             }
         ], 
-        "failureStrings": [], 
-        "hash": 0, 
+        "failureStrings": [
+            null, 
+            "All Items Owned", 
+            "Already Owned"
+        ], 
+        "hash": 3917130357, 
         "index": 0, 
         "summary": {
             "buyString": "Acquire", 
@@ -12399,7 +12707,7 @@
             ], 
             "vendorDescription": "Tess is the proprietor of Eververse, where Guardians can purchase unique curiosities and stylish wares.", 
             "vendorHash": 3917130357, 
-            "vendorIcon": "/common/destiny_content/icons/47310f83d7dade9eccc740efe7050d1c.png", 
+            "vendorIcon": "/common/destiny_content/icons/a2c64eba55867f10314a4e66c34d5927.png", 
             "vendorIdentifier": "VENDOR_SPECIAL_ORDERS", 
             "vendorName": "Eververse", 
             "vendorOrder": 230, 
@@ -12450,7 +12758,7 @@
                 "hideFromRegularPurchase": false, 
                 "hideIfNoCurrency": true, 
                 "overlayChoice": "Accept reward:", 
-                "overlayCurrencyItemHash": 100134277, 
+                "overlayCurrencyItemHash": 0, 
                 "overlayDescription": "Ah, the Nine. I suspect we will have a visitor someday soon.", 
                 "overlayIcon": "/img/misc/missing_icon.png", 
                 "overlayTitle": "Mission Reward", 
@@ -12733,7 +13041,7 @@
         "failureStrings": [
             null
         ], 
-        "hash": 0, 
+        "hash": 4269570979, 
         "index": 0, 
         "summary": {
             "buyString": "Acquire", 
@@ -12741,7 +13049,7 @@
             "eventHash": 0, 
             "factionDescription": "Decode Engrams to unlock new Engrams for purchase.\n\nAchieve high Rank to earn rewards.", 
             "factionHash": 1327783731, 
-            "factionIcon": "/common/destiny_content/icons/add88cdfb1502ddd6f5bd1687bbf3ef9.png", 
+            "factionIcon": "/common/destiny_content/icons/57cd8bd1230229076f0e0d8378971fc9.png", 
             "factionName": "Crypto-Archeology", 
             "mapSectionIdentifier": "OUTFITTERS", 
             "mapSectionName": "Outfitters", 
@@ -12762,7 +13070,7 @@
             ], 
             "vendorDescription": "Crypto-archeologists decode the past and our enemies, seeking new discoveries in matter engrams and artifacts returned by Guardians.", 
             "vendorHash": 4269570979, 
-            "vendorIcon": "/common/destiny_content/icons/ebe44287ad655419c5ea4fcfda2b0e21.png", 
+            "vendorIcon": "/common/destiny_content/icons/18970310ef01c81e4367ad654b81718b.png", 
             "vendorIdentifier": "VENDOR_CRYPTARCH", 
             "vendorName": "Cryptarch", 
             "vendorOrder": 170, 

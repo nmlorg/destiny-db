@@ -1,17 +1,24 @@
 {
     "actionName": "Dismantle", 
     "allowActions": true, 
+    "bountyResetUnlockHash": 0, 
     "bucketTypeHash": 2465295065, 
     "classType": 3, 
     "deleteOnAction": true, 
     "equippable": true, 
     "equippingBlock": {
+        "arrangements": [
+            {
+                "classHash": 0, 
+                "gearArtArrangementIndex": 3337
+            }
+        ], 
         "customDyeExpression": {
             "steps": []
         }, 
         "customDyes": [], 
         "defaultDyes": [], 
-        "gearArtArrangementIndex": 3266, 
+        "gearArtArrangementIndex": 3337, 
         "lockedDyes": [
             {
                 "channelHash": 1667433279, 
@@ -23,12 +30,12 @@
             }
         ], 
         "weaponPatternHash": 3297682177, 
-        "weaponSandboxPatternIndex": 108
+        "weaponSandboxPatternIndex": 103
     }, 
     "exclusive": 0, 
     "hasAction": true, 
     "hasGeometry": true, 
-    "hash": 0, 
+    "hash": 3227022822, 
     "icon": "/common/destiny_content/icons/5ba84f54745b74a1099608a29d2a974f.jpg", 
     "index": 0, 
     "instanced": true, 
@@ -68,19 +75,19 @@
             "computedStats": {
                 "1240592695": {
                     "maximum": 92, 
-                    "minimum": 80, 
+                    "minimum": 84, 
                     "statHash": 1240592695, 
                     "value": 88
                 }, 
                 "1345609583": {
                     "maximum": 44, 
-                    "minimum": 14, 
+                    "minimum": 29, 
                     "statHash": 1345609583, 
                     "value": 39
                 }, 
                 "155624089": {
-                    "maximum": 69, 
-                    "minimum": 35, 
+                    "maximum": 61, 
+                    "minimum": 25, 
                     "statHash": 155624089, 
                     "value": 35
                 }, 
@@ -103,7 +110,7 @@
                     "value": 74
                 }, 
                 "3555269338": {
-                    "maximum": 60, 
+                    "maximum": 40, 
                     "minimum": 40, 
                     "statHash": 3555269338, 
                     "value": 40
@@ -121,14 +128,14 @@
                     "value": 3
                 }, 
                 "4043523819": {
-                    "maximum": 37, 
+                    "maximum": 38, 
                     "minimum": 37, 
                     "statHash": 4043523819, 
                     "value": 37
                 }, 
                 "4188031367": {
-                    "maximum": 76, 
-                    "minimum": 50, 
+                    "maximum": 69, 
+                    "minimum": 55, 
                     "statHash": 4188031367, 
                     "value": 55
                 }, 
@@ -139,8 +146,8 @@
                     "value": 12
                 }, 
                 "943549884": {
-                    "maximum": 40, 
-                    "minimum": 20, 
+                    "maximum": 28, 
+                    "minimum": 28, 
                     "statHash": 943549884, 
                     "value": 28
                 }
@@ -161,19 +168,19 @@
             "computedStats": {
                 "1240592695": {
                     "maximum": 92, 
-                    "minimum": 80, 
+                    "minimum": 84, 
                     "statHash": 1240592695, 
                     "value": 88
                 }, 
                 "1345609583": {
                     "maximum": 44, 
-                    "minimum": 14, 
+                    "minimum": 29, 
                     "statHash": 1345609583, 
                     "value": 39
                 }, 
                 "155624089": {
-                    "maximum": 69, 
-                    "minimum": 35, 
+                    "maximum": 61, 
+                    "minimum": 25, 
                     "statHash": 155624089, 
                     "value": 35
                 }, 
@@ -196,7 +203,7 @@
                     "value": 74
                 }, 
                 "3555269338": {
-                    "maximum": 60, 
+                    "maximum": 40, 
                     "minimum": 40, 
                     "statHash": 3555269338, 
                     "value": 40
@@ -214,14 +221,14 @@
                     "value": 3
                 }, 
                 "4043523819": {
-                    "maximum": 37, 
+                    "maximum": 38, 
                     "minimum": 37, 
                     "statHash": 4043523819, 
                     "value": 37
                 }, 
                 "4188031367": {
-                    "maximum": 76, 
-                    "minimum": 50, 
+                    "maximum": 69, 
+                    "minimum": 55, 
                     "statHash": 4188031367, 
                     "value": 55
                 }, 
@@ -232,8 +239,8 @@
                     "value": 12
                 }, 
                 "943549884": {
-                    "maximum": 40, 
-                    "minimum": 20, 
+                    "maximum": 28, 
+                    "minimum": 28, 
                     "statHash": 943549884, 
                     "value": 28
                 }
@@ -256,19 +263,19 @@
     "stats": {
         "1240592695": {
             "maximum": 92, 
-            "minimum": 80, 
+            "minimum": 84, 
             "statHash": 1240592695, 
             "value": 88
         }, 
         "1345609583": {
             "maximum": 44, 
-            "minimum": 14, 
+            "minimum": 29, 
             "statHash": 1345609583, 
             "value": 39
         }, 
         "155624089": {
-            "maximum": 69, 
-            "minimum": 35, 
+            "maximum": 61, 
+            "minimum": 25, 
             "statHash": 155624089, 
             "value": 35
         }, 
@@ -291,7 +298,7 @@
             "value": 74
         }, 
         "3555269338": {
-            "maximum": 60, 
+            "maximum": 40, 
             "minimum": 40, 
             "statHash": 3555269338, 
             "value": 40
@@ -309,14 +316,14 @@
             "value": 3
         }, 
         "4043523819": {
-            "maximum": 37, 
+            "maximum": 38, 
             "minimum": 37, 
             "statHash": 4043523819, 
             "value": 37
         }, 
         "4188031367": {
-            "maximum": 76, 
-            "minimum": 50, 
+            "maximum": 69, 
+            "minimum": 55, 
             "statHash": 4188031367, 
             "value": 55
         }, 
@@ -327,8 +334,8 @@
             "value": 12
         }, 
         "943549884": {
-            "maximum": 40, 
-            "minimum": 20, 
+            "maximum": 28, 
+            "minimum": 28, 
             "statHash": 943549884, 
             "value": 28
         }

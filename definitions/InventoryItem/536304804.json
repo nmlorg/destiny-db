@@ -1,17 +1,24 @@
 {
     "actionName": "Dismantle", 
     "allowActions": true, 
+    "bountyResetUnlockHash": 0, 
     "bucketTypeHash": 1498876634, 
     "classType": 3, 
     "deleteOnAction": true, 
     "equippable": true, 
     "equippingBlock": {
+        "arrangements": [
+            {
+                "classHash": 0, 
+                "gearArtArrangementIndex": 3265
+            }
+        ], 
         "customDyeExpression": {
             "steps": []
         }, 
         "customDyes": [], 
         "defaultDyes": [], 
-        "gearArtArrangementIndex": 3194, 
+        "gearArtArrangementIndex": 3265, 
         "lockedDyes": [
             {
                 "channelHash": 1667433279, 
@@ -28,7 +35,7 @@
     "exclusive": 0, 
     "hasAction": true, 
     "hasGeometry": true, 
-    "hash": 0, 
+    "hash": 536304804, 
     "icon": "/common/destiny_content/icons/b4ac7c07903fbcac88047c113a20bea0.jpg", 
     "index": 0, 
     "instanced": true, 
@@ -70,16 +77,16 @@
         {
             "computedStats": {
                 "1240592695": {
-                    "maximum": 17, 
-                    "minimum": 17, 
+                    "maximum": 32, 
+                    "minimum": 32, 
                     "statHash": 1240592695, 
-                    "value": 17
+                    "value": 32
                 }, 
                 "1345609583": {
-                    "maximum": 50, 
-                    "minimum": 50, 
+                    "maximum": 60, 
+                    "minimum": 60, 
                     "statHash": 1345609583, 
-                    "value": 50
+                    "value": 60
                 }, 
                 "155624089": {
                     "maximum": 12, 
@@ -118,10 +125,10 @@
                     "value": 200
                 }, 
                 "3871231066": {
-                    "maximum": 6, 
-                    "minimum": 6, 
+                    "maximum": 8, 
+                    "minimum": 8, 
                     "statHash": 3871231066, 
-                    "value": 6
+                    "value": 8
                 }, 
                 "4043523819": {
                     "maximum": 94, 
@@ -169,16 +176,16 @@
     "statGroupHash": 1099468801, 
     "stats": {
         "1240592695": {
-            "maximum": 17, 
-            "minimum": 17, 
+            "maximum": 32, 
+            "minimum": 32, 
             "statHash": 1240592695, 
-            "value": 17
+            "value": 32
         }, 
         "1345609583": {
-            "maximum": 50, 
-            "minimum": 50, 
+            "maximum": 60, 
+            "minimum": 60, 
             "statHash": 1345609583, 
-            "value": 50
+            "value": 60
         }, 
         "155624089": {
             "maximum": 12, 
@@ -217,10 +224,10 @@
             "value": 200
         }, 
         "3871231066": {
-            "maximum": 6, 
-            "minimum": 6, 
+            "maximum": 8, 
+            "minimum": 8, 
             "statHash": 3871231066, 
-            "value": 6
+            "value": 8
         }, 
         "4043523819": {
             "maximum": 94, 
