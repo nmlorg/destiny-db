@@ -1,13 +1,957 @@
 {
     "calcMaxGridLevel": 0, 
     "calcProgressToMaxLevel": 0, 
-    "exclusiveSets": [], 
+    "exclusiveSets": [
+        {
+            "nodeIndexes": [
+                0, 
+                8
+            ]
+        }, 
+        {
+            "nodeIndexes": [
+                1, 
+                9
+            ]
+        }, 
+        {
+            "nodeIndexes": [
+                2, 
+                10
+            ]
+        }, 
+        {
+            "nodeIndexes": [
+                3, 
+                11
+            ]
+        }, 
+        {
+            "nodeIndexes": [
+                5, 
+                13
+            ]
+        }, 
+        {
+            "nodeIndexes": [
+                6, 
+                14
+            ]
+        }, 
+        {
+            "nodeIndexes": [
+                7, 
+                15
+            ]
+        }, 
+        {
+            "nodeIndexes": [
+                12, 
+                17
+            ]
+        }, 
+        {
+            "nodeIndexes": [
+                16, 
+                18
+            ]
+        }, 
+        {
+            "nodeIndexes": [
+                19, 
+                20
+            ]
+        }
+    ], 
     "gridHash": 3073939671, 
     "gridLevelPerColumn": 0, 
     "hash": 3073939671, 
-    "independentNodeIndexes": [], 
+    "independentNodeIndexes": [
+        4
+    ], 
     "index": 0, 
     "maxGridLevel": 0, 
-    "nodes": [], 
+    "nodes": [
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 3, 
+            "exlusiveWithNodes": [
+                8
+            ], 
+            "isRandom": false, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 0, 
+            "nodeIndex": 0, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 1, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/9ed9f2bae8d4420f2046c75dba4cee75.png", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": -1, 
+                    "nodeStepHash": 1948173196, 
+                    "nodeStepName": "Input Command", 
+                    "perkHashes": [
+                        4087474526
+                    ], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 7, 
+            "exlusiveWithNodes": [
+                9
+            ], 
+            "isRandom": false, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 1, 
+            "nodeIndex": 1, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 1, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/9ed9f2bae8d4420f2046c75dba4cee75.png", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": -1, 
+                    "nodeStepHash": 1948173196, 
+                    "nodeStepName": "Input Command", 
+                    "perkHashes": [
+                        4087474522
+                    ], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 5, 
+            "exlusiveWithNodes": [
+                10
+            ], 
+            "isRandom": false, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 2, 
+            "nodeIndex": 2, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 1, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/9ed9f2bae8d4420f2046c75dba4cee75.png", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": -1, 
+                    "nodeStepHash": 1948173196, 
+                    "nodeStepName": "Input Command", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 1, 
+            "exlusiveWithNodes": [
+                11
+            ], 
+            "isRandom": false, 
+            "isRandomRepurchasable": true, 
+            "lastStepRepeats": false, 
+            "nodeHash": 3, 
+            "nodeIndex": 3, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 1, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/9ed9f2bae8d4420f2046c75dba4cee75.png", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": -1, 
+                    "nodeStepHash": 1948173196, 
+                    "nodeStepName": "Input Command", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 10, 
+            "exlusiveWithNodes": [], 
+            "isRandom": false, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 4, 
+            "nodeIndex": 4, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 2, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/56bf5c700e68f87da625444fb2af3331.png", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "It appears you entered the correct sequence. Activate this node to submit the passcode.", 
+                    "nodeStepHash": 3638713621, 
+                    "nodeStepName": "Submit Passcode", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 4, 
+            "exlusiveWithNodes": [
+                13
+            ], 
+            "isRandom": false, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 5, 
+            "nodeIndex": 5, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 1, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/9ed9f2bae8d4420f2046c75dba4cee75.png", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": -1, 
+                    "nodeStepHash": 1948173196, 
+                    "nodeStepName": "Input Command", 
+                    "perkHashes": [
+                        4087474527
+                    ], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 6, 
+            "exlusiveWithNodes": [
+                14
+            ], 
+            "isRandom": false, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 6, 
+            "nodeIndex": 6, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 1, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/9ed9f2bae8d4420f2046c75dba4cee75.png", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": -1, 
+                    "nodeStepHash": 1948173196, 
+                    "nodeStepName": "Input Command", 
+                    "perkHashes": [
+                        4087474521
+                    ], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 2, 
+            "exlusiveWithNodes": [
+                15
+            ], 
+            "isRandom": false, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 7, 
+            "nodeIndex": 7, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 1, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/9ed9f2bae8d4420f2046c75dba4cee75.png", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": -1, 
+                    "nodeStepHash": 1948173196, 
+                    "nodeStepName": "Input Command", 
+                    "perkHashes": [
+                        4087474525
+                    ], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 3, 
+            "exlusiveWithNodes": [
+                0
+            ], 
+            "isRandom": false, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 8, 
+            "nodeIndex": 8, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 0, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/3a56460b5f5b4219d1df28090f7bcc03.png", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": -1, 
+                    "nodeStepHash": 1948173196, 
+                    "nodeStepName": "Input Command", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 7, 
+            "exlusiveWithNodes": [
+                1
+            ], 
+            "isRandom": false, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 9, 
+            "nodeIndex": 9, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 0, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/3a56460b5f5b4219d1df28090f7bcc03.png", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": -1, 
+                    "nodeStepHash": 1948173196, 
+                    "nodeStepName": "Input Command", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 5, 
+            "exlusiveWithNodes": [
+                2
+            ], 
+            "isRandom": false, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 10, 
+            "nodeIndex": 10, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 0, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/3a56460b5f5b4219d1df28090f7bcc03.png", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": -1, 
+                    "nodeStepHash": 1948173196, 
+                    "nodeStepName": "Input Command", 
+                    "perkHashes": [
+                        4087474520
+                    ], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 1, 
+            "exlusiveWithNodes": [
+                3
+            ], 
+            "isRandom": false, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 11, 
+            "nodeIndex": 11, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 0, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/3a56460b5f5b4219d1df28090f7bcc03.png", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": -1, 
+                    "nodeStepHash": 1948173196, 
+                    "nodeStepName": "Input Command", 
+                    "perkHashes": [
+                        4087474524
+                    ], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 8, 
+            "exlusiveWithNodes": [
+                17
+            ], 
+            "isRandom": false, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 12, 
+            "nodeIndex": 12, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 1, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/9ed9f2bae8d4420f2046c75dba4cee75.png", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": -1, 
+                    "nodeStepHash": 1948173196, 
+                    "nodeStepName": "Input Command", 
+                    "perkHashes": [
+                        4087474523
+                    ], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 4, 
+            "exlusiveWithNodes": [
+                5
+            ], 
+            "isRandom": false, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 13, 
+            "nodeIndex": 13, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 0, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/3a56460b5f5b4219d1df28090f7bcc03.png", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": -1, 
+                    "nodeStepHash": 1948173196, 
+                    "nodeStepName": "Input Command", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 6, 
+            "exlusiveWithNodes": [
+                6
+            ], 
+            "isRandom": false, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 14, 
+            "nodeIndex": 14, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 0, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/3a56460b5f5b4219d1df28090f7bcc03.png", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": -1, 
+                    "nodeStepHash": 1948173196, 
+                    "nodeStepName": "Input Command", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 2, 
+            "exlusiveWithNodes": [
+                7
+            ], 
+            "isRandom": false, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 15, 
+            "nodeIndex": 15, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 0, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/3a56460b5f5b4219d1df28090f7bcc03.png", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": -1, 
+                    "nodeStepHash": 1948173196, 
+                    "nodeStepName": "Input Command", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 10, 
+            "exlusiveWithNodes": [
+                18
+            ], 
+            "isRandom": false, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 16, 
+            "nodeIndex": 16, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 1, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/9ed9f2bae8d4420f2046c75dba4cee75.png", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": -1, 
+                    "nodeStepHash": 1948173196, 
+                    "nodeStepName": "Input Command", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 8, 
+            "exlusiveWithNodes": [
+                12
+            ], 
+            "isRandom": false, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 17, 
+            "nodeIndex": 17, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 0, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/3a56460b5f5b4219d1df28090f7bcc03.png", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": -1, 
+                    "nodeStepHash": 1948173196, 
+                    "nodeStepName": "Input Command", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 10, 
+            "exlusiveWithNodes": [
+                16
+            ], 
+            "isRandom": false, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 18, 
+            "nodeIndex": 18, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 0, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/3a56460b5f5b4219d1df28090f7bcc03.png", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": -1, 
+                    "nodeStepHash": 1948173196, 
+                    "nodeStepName": "Input Command", 
+                    "perkHashes": [
+                        4087474517
+                    ], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 9, 
+            "exlusiveWithNodes": [
+                20
+            ], 
+            "isRandom": false, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 19, 
+            "nodeIndex": 19, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 0, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/3a56460b5f5b4219d1df28090f7bcc03.png", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": -1, 
+                    "nodeStepHash": 1948173196, 
+                    "nodeStepName": "Input Command", 
+                    "perkHashes": [
+                        4087474516
+                    ], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 9, 
+            "exlusiveWithNodes": [
+                19
+            ], 
+            "isRandom": false, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 20, 
+            "nodeIndex": 20, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 1, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/9ed9f2bae8d4420f2046c75dba4cee75.png", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": -1, 
+                    "nodeStepHash": 1948173196, 
+                    "nodeStepName": "Input Command", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }
+    ], 
     "progressionHash": 0
 }
