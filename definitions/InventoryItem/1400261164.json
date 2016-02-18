@@ -1,121 +1,59 @@
 {
-    "actionName": "Discard", 
+    "actionDescription": "", 
+    "actionName": "", 
     "allowActions": true, 
+    "animations": [], 
     "bountyResetUnlockHash": 0, 
     "bucketTypeHash": 2025709351, 
     "classType": 3, 
-    "deleteOnAction": true, 
-    "equippable": true, 
+    "deleteOnAction": false, 
+    "derivedItemCategories": [], 
+    "displaySource": "", 
+    "equippable": false, 
     "equippingBlock": {
-        "arrangements": [], 
-        "customDyeExpression": {
-            "steps": []
-        }, 
-        "customDyes": [], 
-        "defaultDyes": [], 
-        "gearArtArrangementIndex": -1, 
-        "lockedDyes": [
-            {
-                "channelHash": 2025709351, 
-                "dyeHash": 1224276270
-            }
-        ], 
-        "weaponPatternHash": 2027733067, 
-        "weaponSandboxPatternIndex": 52
+        "gearArtArrangementIndex": 0, 
+        "weaponPatternHash": 0, 
+        "weaponSandboxPatternIndex": 0
     }, 
     "exclusive": 0, 
-    "hasAction": true, 
+    "hasAction": false, 
     "hasGeometry": false, 
     "hash": 1400261164, 
-    "icon": "/common/destiny_content/icons/bc0f58cf66166b5189fbf02646029664.jpg", 
+    "icon": "", 
     "index": 0, 
-    "instanced": true, 
-    "itemCategoryHashes": [
-        43, 
-        52
-    ], 
-    "itemDescription": "A high-end Sparrow earned by those Guardians who proved their worth in the Trials of Osiris.", 
+    "instanced": false, 
+    "itemCategoryHashes": [], 
+    "itemDescription": "Obtain this Quest in Destiny to learn more.", 
     "itemHash": 1400261164, 
     "itemIdentifier": "", 
     "itemIndex": 0, 
     "itemLevels": [], 
-    "itemName": "SV7 \"Morrow's Gait\"", 
+    "itemName": "Classified", 
     "itemSubType": 0, 
     "itemType": 0, 
-    "itemTypeName": "Vehicle", 
-    "maxStackSize": 1, 
+    "itemTypeName": "", 
+    "maxStackSize": 0, 
+    "narrative": "", 
     "needsFullCompletion": false, 
-    "nonTransferrable": false, 
+    "nonTransferrable": true, 
     "objectiveHashes": [], 
+    "objectiveVerb": "", 
     "perkHashes": [], 
-    "primaryBaseStatHash": 1501155019, 
+    "primaryBaseStatHash": 0, 
     "qualityLevel": 0, 
     "questTrackingUnlockValueHash": 0, 
     "questlineItemHash": 0, 
     "rewardItemHash": 0, 
-    "secondaryIcon": "/img/misc/missing_icon.png", 
+    "secondaryIcon": "", 
     "setItemHashes": [], 
     "sourceHashes": [], 
-    "sources": [
-        {
-            "computedStats": {
-                "1501155019": {
-                    "maximum": 150, 
-                    "minimum": 150, 
-                    "statHash": 1501155019, 
-                    "value": 150
-                }, 
-                "3017642079": {
-                    "maximum": 60, 
-                    "minimum": 60, 
-                    "statHash": 3017642079, 
-                    "value": 60
-                }, 
-                "360359141": {
-                    "maximum": 60, 
-                    "minimum": 60, 
-                    "statHash": 360359141, 
-                    "value": 60
-                }
-            }, 
-            "exclusivity": 0, 
-            "expansionIndex": 0, 
-            "level": 0, 
-            "maxLevelRequired": 0, 
-            "maxQuality": 0, 
-            "minLevelRequired": 0, 
-            "minQuality": 0, 
-            "sourceHashes": [], 
-            "spawnIndexes": [
-                0
-            ]
-        }
-    ], 
+    "sources": [], 
     "specialItemType": 0, 
-    "statGroupHash": 2025709351, 
-    "stats": {
-        "1501155019": {
-            "maximum": 150, 
-            "minimum": 150, 
-            "statHash": 1501155019, 
-            "value": 150
-        }, 
-        "3017642079": {
-            "maximum": 60, 
-            "minimum": 60, 
-            "statHash": 3017642079, 
-            "value": 60
-        }, 
-        "360359141": {
-            "maximum": 60, 
-            "minimum": 60, 
-            "statHash": 360359141, 
-            "value": 60
-        }
-    }, 
-    "talentGridHash": 2064730451, 
-    "tierType": 5, 
-    "tierTypeName": "Legendary", 
+    "statGroupHash": 0, 
+    "stats": {}, 
+    "talentGridHash": 0, 
+    "tierType": 0, 
+    "tierTypeName": "", 
     "uniquenessHash": 2166136261, 
     "values": {}
 }

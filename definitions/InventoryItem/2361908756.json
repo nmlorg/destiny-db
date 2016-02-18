@@ -1,91 +1,59 @@
 {
-    "actionName": "Scrap", 
+    "actionDescription": "", 
+    "actionName": "", 
     "allowActions": true, 
+    "animations": [], 
     "bountyResetUnlockHash": 0, 
     "bucketTypeHash": 284967655, 
     "classType": 3, 
-    "deleteOnAction": true, 
-    "equippable": true, 
+    "deleteOnAction": false, 
+    "derivedItemCategories": [], 
+    "displaySource": "", 
+    "equippable": false, 
     "equippingBlock": {
-        "arrangements": [
-            {
-                "classHash": 0, 
-                "gearArtArrangementIndex": 1156
-            }
-        ], 
-        "customDyeExpression": {
-            "steps": []
-        }, 
-        "customDyes": [], 
-        "defaultDyes": [], 
-        "gearArtArrangementIndex": 1156, 
-        "lockedDyes": [
-            {
-                "channelHash": 284967655, 
-                "dyeHash": 3232976056
-            }, 
-            {
-                "channelHash": 840921382, 
-                "dyeHash": 1411616747
-            }
-        ], 
-        "weaponPatternHash": 284967655, 
-        "weaponSandboxPatternIndex": 18
+        "gearArtArrangementIndex": 0, 
+        "weaponPatternHash": 0, 
+        "weaponSandboxPatternIndex": 0
     }, 
     "exclusive": 0, 
-    "hasAction": true, 
-    "hasGeometry": true, 
+    "hasAction": false, 
+    "hasGeometry": false, 
     "hash": 2361908756, 
-    "icon": "/common/destiny_content/icons/d7fd8a074d9f964c474b2538482823d3.jpg", 
+    "icon": "", 
     "index": 0, 
-    "instanced": true, 
-    "itemCategoryHashes": [
-        42, 
-        52
-    ], 
-    "itemDescription": "Battles end, but war is a constant.", 
+    "instanced": false, 
+    "itemCategoryHashes": [], 
+    "itemDescription": "Obtain this Quest in Destiny to learn more.", 
     "itemHash": 2361908756, 
+    "itemIdentifier": "", 
     "itemIndex": 0, 
     "itemLevels": [], 
-    "itemName": "\"No End Theory\"", 
+    "itemName": "Classified", 
     "itemSubType": 0, 
     "itemType": 0, 
-    "itemTypeName": "Ship", 
-    "maxStackSize": 1, 
+    "itemTypeName": "", 
+    "maxStackSize": 0, 
+    "narrative": "", 
     "needsFullCompletion": false, 
-    "nonTransferrable": false, 
+    "nonTransferrable": true, 
     "objectiveHashes": [], 
+    "objectiveVerb": "", 
     "perkHashes": [], 
     "primaryBaseStatHash": 0, 
     "qualityLevel": 0, 
     "questTrackingUnlockValueHash": 0, 
     "questlineItemHash": 0, 
     "rewardItemHash": 0, 
-    "secondaryIcon": "/img/misc/missing_icon.png", 
+    "secondaryIcon": "", 
     "setItemHashes": [], 
     "sourceHashes": [], 
-    "sources": [
-        {
-            "computedStats": {}, 
-            "exclusivity": 0, 
-            "expansionIndex": 0, 
-            "level": 0, 
-            "maxLevelRequired": 0, 
-            "maxQuality": 0, 
-            "minLevelRequired": 0, 
-            "minQuality": 0, 
-            "sourceHashes": [], 
-            "spawnIndexes": [
-                0
-            ]
-        }
-    ], 
+    "sources": [], 
     "specialItemType": 0, 
     "statGroupHash": 0, 
     "stats": {}, 
-    "talentGridHash": 521135891, 
-    "tierType": 5, 
-    "tierTypeName": "Legendary", 
+    "talentGridHash": 0, 
+    "tierType": 0, 
+    "tierTypeName": "", 
     "uniquenessHash": 2166136261, 
     "values": {}
 }
