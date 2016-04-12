@@ -21,6 +21,7 @@
     "exclusive": 0, 
     "hasAction": true, 
     "hasGeometry": false, 
+    "hasIcon": true, 
     "hash": 566936481, 
     "icon": "/common/destiny_content/icons/a2613c4098ca622e1533c686e114488f.jpg", 
     "index": 0, 
@@ -48,6 +49,7 @@
     "rewardItemHash": 0, 
     "secondaryIcon": "/common/destiny_content/icons/e1bfbd2924b81f2b0bb221504c43a95a.jpg", 
     "setItemHashes": [], 
+    "showActiveNodesInTooltip": false, 
     "sourceHashes": [], 
     "sources": [
         {
@@ -55,13 +57,14 @@
             "exclusivity": 0, 
             "expansionIndex": 0, 
             "level": 0, 
-            "maxLevelRequired": 0, 
+            "maxLevelRequired": 20, 
             "maxQuality": 0, 
             "minLevelRequired": 0, 
             "minQuality": 0, 
             "sourceHashes": [], 
             "spawnIndexes": [
-                0
+                0, 
+                1
             ]
         }
     ], 
@@ -71,6 +74,7 @@
     "talentGridHash": 0, 
     "tierType": 5, 
     "tierTypeName": "Legendary", 
+    "tooltipStyle": "", 
     "uniquenessHash": 2166136261, 
     "values": {}
 }

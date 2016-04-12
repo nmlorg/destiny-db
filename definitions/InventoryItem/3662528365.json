@@ -39,6 +39,7 @@
     "exclusive": 0, 
     "hasAction": true, 
     "hasGeometry": true, 
+    "hasIcon": true, 
     "hash": 3662528365, 
     "icon": "/common/destiny_content/icons/7791bc949e9307e4bd82c6362cbaf106.jpg", 
     "index": 0, 
@@ -70,11 +71,13 @@
     "rewardItemHash": 0, 
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
+    "showActiveNodesInTooltip": false, 
     "sourceHashes": [
-        1920307024, 
         2644169369, 
         1882189853, 
         3870113141, 
+        3739898362, 
+        1920307024, 
         36493462
     ], 
     "sources": [
@@ -84,22 +87,6 @@
             "expansionIndex": 0, 
             "level": 10, 
             "maxLevelRequired": 10, 
-            "maxQuality": 0, 
-            "minLevelRequired": 10, 
-            "minQuality": 0, 
-            "sourceHashes": [
-                1920307024
-            ], 
-            "spawnIndexes": [
-                27
-            ]
-        }, 
-        {
-            "computedStats": {}, 
-            "exclusivity": 0, 
-            "expansionIndex": 0, 
-            "level": 9, 
-            "maxLevelRequired": 9, 
             "maxQuality": 20, 
             "minLevelRequired": 8, 
             "minQuality": 0, 
@@ -107,11 +94,12 @@
                 2644169369, 
                 1882189853, 
                 3870113141, 
+                3739898362, 
                 1920307024
             ], 
             "spawnIndexes": [
                 4, 
-                26, 
+                27, 
                 5, 
                 6, 
                 7, 
@@ -132,6 +120,22 @@
                 22, 
                 23, 
                 24
+            ]
+        }, 
+        {
+            "computedStats": {}, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 9, 
+            "maxLevelRequired": 9, 
+            "maxQuality": 0, 
+            "minLevelRequired": 9, 
+            "minQuality": 0, 
+            "sourceHashes": [
+                1920307024
+            ], 
+            "spawnIndexes": [
+                26
             ]
         }, 
         {
@@ -226,6 +230,7 @@
     "talentGridHash": 1085325016, 
     "tierType": 3, 
     "tierTypeName": "Uncommon", 
+    "tooltipStyle": "", 
     "uniquenessHash": 2166136261, 
     "values": {}
 }

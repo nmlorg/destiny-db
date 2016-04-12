@@ -1,6 +1,13 @@
 {
     "actionName": "Stow", 
     "allowActions": true, 
+    "animations": [
+        {
+            "animIdentifier": "default", 
+            "animName": "###Animations.default###", 
+            "path": "/common/destiny_content/animations/destiny_player_animation_emote_kicks_dance.js"
+        }
+    ], 
     "bountyResetUnlockHash": 0, 
     "bucketTypeHash": 3054419239, 
     "classType": 3, 
@@ -10,7 +17,7 @@
         "arrangements": [
             {
                 "classHash": 0, 
-                "gearArtArrangementIndex": 3722
+                "gearArtArrangementIndex": 3782
             }
         ], 
         "customDyeExpression": {
@@ -18,7 +25,7 @@
         }, 
         "customDyes": [], 
         "defaultDyes": [], 
-        "gearArtArrangementIndex": 3722, 
+        "gearArtArrangementIndex": 3782, 
         "lockedDyes": [], 
         "weaponPatternHash": 0, 
         "weaponSandboxPatternIndex": -1
@@ -26,6 +33,7 @@
     "exclusive": 0, 
     "hasAction": true, 
     "hasGeometry": true, 
+    "hasIcon": true, 
     "hash": 1995339316, 
     "icon": "/common/destiny_content/icons/16286bd50fbfbdc969a54931dc49b213.jpg", 
     "index": 0, 
@@ -53,13 +61,37 @@
     "rewardItemHash": 0, 
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
-    "sourceHashes": [], 
+    "showActiveNodesInTooltip": false, 
+    "sourceHashes": [
+        2155337848, 
+        460228854
+    ], 
+    "sources": [
+        {
+            "computedStats": {}, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 0, 
+            "maxLevelRequired": 0, 
+            "maxQuality": 0, 
+            "minLevelRequired": 0, 
+            "minQuality": 0, 
+            "sourceHashes": [
+                2155337848, 
+                460228854
+            ], 
+            "spawnIndexes": [
+                0
+            ]
+        }
+    ], 
     "specialItemType": 0, 
     "statGroupHash": 0, 
     "stats": {}, 
     "talentGridHash": 521135891, 
     "tierType": 5, 
     "tierTypeName": "Legendary", 
+    "tooltipStyle": "", 
     "uniquenessHash": 2166136261, 
     "values": {}
 }

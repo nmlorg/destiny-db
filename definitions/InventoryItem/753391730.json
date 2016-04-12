@@ -35,6 +35,7 @@
     "exclusive": 0, 
     "hasAction": true, 
     "hasGeometry": true, 
+    "hasIcon": true, 
     "hash": 753391730, 
     "icon": "/common/destiny_content/icons/0d5b811bba433e9baa58499f30faf8f0.jpg", 
     "index": 0, 
@@ -68,6 +69,7 @@
     "rewardItemHash": 0, 
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
+    "showActiveNodesInTooltip": false, 
     "sourceHashes": [
         541934873, 
         2859308742
@@ -89,9 +91,9 @@
                 }, 
                 "155624089": {
                     "maximum": 48, 
-                    "minimum": 5, 
+                    "minimum": 2, 
                     "statHash": 155624089, 
-                    "value": 7
+                    "value": 2
                 }, 
                 "1931675084": {
                     "maximum": 79, 
@@ -187,9 +189,9 @@
         }, 
         "155624089": {
             "maximum": 48, 
-            "minimum": 5, 
+            "minimum": 2, 
             "statHash": 155624089, 
-            "value": 7
+            "value": 2
         }, 
         "1931675084": {
             "maximum": 79, 
@@ -255,6 +257,7 @@
     "talentGridHash": 2211055573, 
     "tierType": 5, 
     "tierTypeName": "Legendary", 
+    "tooltipStyle": "", 
     "uniquenessHash": 2166136261, 
     "values": {}
 }

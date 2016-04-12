@@ -7,74 +7,92 @@
     "deleteOnAction": true, 
     "derivedItemCategories": [
         {
-            "categoryDescription": "Will drop one of the following:", 
+            "categoryDescription": "Guaranteed Item (1)", 
+            "categoryHash": 0, 
             "items": [
                 {
-                    "itemHash": 2105124468
+                    "itemHash": 2105124468, 
+                    "vendorItemIndex": 0
                 }, 
                 {
-                    "itemHash": 2105124469
+                    "itemHash": 2105124469, 
+                    "vendorItemIndex": 1
                 }, 
                 {
-                    "itemHash": 2105124470
+                    "itemHash": 2105124470, 
+                    "vendorItemIndex": 2
                 }, 
                 {
-                    "itemHash": 2105124471
+                    "itemHash": 2105124471, 
+                    "vendorItemIndex": 3
                 }, 
                 {
-                    "itemHash": 2105124464
+                    "itemHash": 2105124464, 
+                    "vendorItemIndex": 4
                 }, 
                 {
-                    "itemHash": 2105124465
+                    "itemHash": 2105124465, 
+                    "vendorItemIndex": 5
                 }, 
                 {
-                    "itemHash": 2105124466
+                    "itemHash": 2105124466, 
+                    "vendorItemIndex": 6
                 }, 
                 {
-                    "itemHash": 2105124467
+                    "itemHash": 2105124467, 
+                    "vendorItemIndex": 7
                 }, 
                 {
-                    "itemHash": 2105124476
+                    "itemHash": 2105124476, 
+                    "vendorItemIndex": 8
                 }, 
                 {
-                    "itemHash": 2105124477
+                    "itemHash": 2105124477, 
+                    "vendorItemIndex": 9
                 }, 
                 {
-                    "itemHash": 4219537951
+                    "itemHash": 4219537951, 
+                    "vendorItemIndex": 10
                 }, 
                 {
-                    "itemHash": 4219537950
+                    "itemHash": 4219537950, 
+                    "vendorItemIndex": 11
                 }, 
                 {
-                    "itemHash": 4219537949
+                    "itemHash": 4219537948, 
+                    "vendorItemIndex": 12
                 }, 
                 {
-                    "itemHash": 4219537948
+                    "itemHash": 4219537947, 
+                    "vendorItemIndex": 13
                 }, 
                 {
-                    "itemHash": 4219537947
+                    "itemHash": 4219537946, 
+                    "vendorItemIndex": 14
                 }, 
                 {
-                    "itemHash": 4219537946
-                }, 
-                {
-                    "itemHash": 4219537945
+                    "itemHash": 4219537945, 
+                    "vendorItemIndex": 15
                 }
             ]
         }, 
         {
-            "categoryDescription": "Will rarely drop one of the following:", 
+            "categoryDescription": "Possible Items", 
+            "categoryHash": 0, 
             "items": [
                 {
-                    "itemHash": 2092342462
+                    "itemHash": 2092342462, 
+                    "vendorItemIndex": 16
                 }
             ]
         }
     ], 
+    "derivedItemVendorHash": 2698860028, 
     "equippable": false, 
     "exclusive": 0, 
     "hasAction": true, 
     "hasGeometry": false, 
+    "hasIcon": true, 
     "hash": 2354397859, 
     "icon": "/common/destiny_content/icons/09547b72d43c3a59efc65a2f0c2e9a32.jpg", 
     "index": 0, 
@@ -101,6 +119,7 @@
     "rewardItemHash": 0, 
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
+    "showActiveNodesInTooltip": false, 
     "sourceHashes": [
         113998144, 
         2155337848, 
@@ -132,6 +151,7 @@
     "talentGridHash": 0, 
     "tierType": 5, 
     "tierTypeName": "Legendary", 
+    "tooltipStyle": "", 
     "uniquenessHash": 0, 
     "values": {}
 }

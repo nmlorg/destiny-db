@@ -10,7 +10,7 @@
         "arrangements": [
             {
                 "classHash": 0, 
-                "gearArtArrangementIndex": 3131
+                "gearArtArrangementIndex": 3191
             }
         ], 
         "customDyeExpression": {
@@ -38,7 +38,7 @@
                 "dyeHash": 2999877797
             }
         ], 
-        "gearArtArrangementIndex": 3131, 
+        "gearArtArrangementIndex": 3191, 
         "lockedDyes": [], 
         "weaponPatternHash": 0, 
         "weaponSandboxPatternIndex": -1
@@ -46,6 +46,7 @@
     "exclusive": 0, 
     "hasAction": true, 
     "hasGeometry": true, 
+    "hasIcon": true, 
     "hash": 3515978627, 
     "icon": "/common/destiny_content/icons/35c77b082605536081c01e8e7d4f25e6.jpg", 
     "index": 0, 
@@ -77,6 +78,7 @@
     "rewardItemHash": 0, 
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
+    "showActiveNodesInTooltip": false, 
     "sourceHashes": [
         1882189853, 
         460228854
@@ -85,31 +87,31 @@
         {
             "computedStats": {
                 "144602215": {
-                    "maximum": 56, 
+                    "maximum": 60, 
                     "minimum": 30, 
                     "statHash": 144602215, 
                     "value": 30
                 }, 
                 "1735777505": {
-                    "maximum": 56, 
+                    "maximum": 60, 
                     "minimum": 30, 
                     "statHash": 1735777505, 
                     "value": 30
                 }, 
                 "2391494160": {
-                    "maximum": 32, 
+                    "maximum": 33, 
                     "minimum": 30, 
                     "statHash": 2391494160, 
                     "value": 30
                 }, 
                 "3897883278": {
-                    "maximum": 320, 
+                    "maximum": 335, 
                     "minimum": 300, 
                     "statHash": 3897883278, 
                     "value": 300
                 }, 
                 "4244567218": {
-                    "maximum": 56, 
+                    "maximum": 60, 
                     "minimum": 30, 
                     "statHash": 4244567218, 
                     "value": 30
@@ -119,7 +121,7 @@
             "expansionIndex": 0, 
             "level": 50, 
             "maxLevelRequired": 40, 
-            "maxQuality": 20, 
+            "maxQuality": 35, 
             "minLevelRequired": 40, 
             "minQuality": 0, 
             "sourceHashes": [
@@ -147,7 +149,22 @@
                 17, 
                 18, 
                 19, 
-                20
+                20, 
+                21, 
+                22, 
+                23, 
+                24, 
+                25, 
+                26, 
+                27, 
+                28, 
+                29, 
+                30, 
+                31, 
+                32, 
+                33, 
+                34, 
+                35
             ]
         }
     ], 
@@ -155,31 +172,31 @@
     "statGroupHash": 548191128, 
     "stats": {
         "144602215": {
-            "maximum": 56, 
+            "maximum": 60, 
             "minimum": 30, 
             "statHash": 144602215, 
             "value": 30
         }, 
         "1735777505": {
-            "maximum": 56, 
+            "maximum": 60, 
             "minimum": 30, 
             "statHash": 1735777505, 
             "value": 30
         }, 
         "2391494160": {
-            "maximum": 32, 
+            "maximum": 33, 
             "minimum": 30, 
             "statHash": 2391494160, 
             "value": 30
         }, 
         "3897883278": {
-            "maximum": 320, 
+            "maximum": 335, 
             "minimum": 300, 
             "statHash": 3897883278, 
             "value": 300
         }, 
         "4244567218": {
-            "maximum": 56, 
+            "maximum": 60, 
             "minimum": 30, 
             "statHash": 4244567218, 
             "value": 30
@@ -188,6 +205,7 @@
     "talentGridHash": 3652839510, 
     "tierType": 5, 
     "tierTypeName": "Legendary", 
+    "tooltipStyle": "", 
     "uniquenessHash": 2166136261, 
     "values": {}
 }
