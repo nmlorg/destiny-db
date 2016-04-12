@@ -21,12 +21,11 @@
             }
         ], 
         "weaponPatternHash": 874605583, 
-        "weaponSandboxPatternIndex": 133
+        "weaponSandboxPatternIndex": 131
     }, 
     "exclusive": 0, 
     "hasAction": true, 
     "hasGeometry": false, 
-    "hasIcon": true, 
     "hash": 2092342448, 
     "icon": "/common/destiny_content/icons/c4c426e65544775da459f7ab5e56ae49.jpg", 
     "index": 0, 
@@ -55,8 +54,10 @@
     "rewardItemHash": 0, 
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
-    "showActiveNodesInTooltip": false, 
-    "sourceHashes": [], 
+    "sourceHashes": [
+        4131549852, 
+        460228854
+    ], 
     "sources": [
         {
             "computedStats": {
@@ -86,7 +87,10 @@
             "maxQuality": 0, 
             "minLevelRequired": 0, 
             "minQuality": 0, 
-            "sourceHashes": [], 
+            "sourceHashes": [
+                4131549852, 
+                460228854
+            ], 
             "spawnIndexes": [
                 0
             ]
@@ -117,7 +121,6 @@
     "talentGridHash": 3302606530, 
     "tierType": 5, 
     "tierTypeName": "Legendary", 
-    "tooltipStyle": "", 
     "uniquenessHash": 2166136261, 
     "values": {}
 }

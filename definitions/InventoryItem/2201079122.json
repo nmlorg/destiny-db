@@ -10,7 +10,7 @@
         "arrangements": [
             {
                 "classHash": 0, 
-                "gearArtArrangementIndex": 3594
+                "gearArtArrangementIndex": 3534
             }
         ], 
         "customDyeExpression": {
@@ -18,7 +18,7 @@
         }, 
         "customDyes": [], 
         "defaultDyes": [], 
-        "gearArtArrangementIndex": 3594, 
+        "gearArtArrangementIndex": 3534, 
         "lockedDyes": [
             {
                 "channelHash": 1667433279, 
@@ -30,12 +30,11 @@
             }
         ], 
         "weaponPatternHash": 722027546, 
-        "weaponSandboxPatternIndex": 119
+        "weaponSandboxPatternIndex": 117
     }, 
     "exclusive": 0, 
     "hasAction": true, 
     "hasGeometry": true, 
-    "hasIcon": true, 
     "hash": 2201079122, 
     "icon": "/common/destiny_content/icons/a97ec839d17e71c424bb1ac075d9f968.jpg", 
     "index": 0, 
@@ -69,7 +68,6 @@
     "rewardItemHash": 0, 
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
-    "showActiveNodesInTooltip": false, 
     "sourceHashes": [
         3551688287, 
         460228854
@@ -102,10 +100,10 @@
                     "value": 50
                 }, 
                 "2391494160": {
-                    "maximum": 40, 
-                    "minimum": 38, 
+                    "maximum": 39, 
+                    "minimum": 37, 
                     "statHash": 2391494160, 
-                    "value": 38
+                    "value": 37
                 }, 
                 "2715839340": {
                     "maximum": 95, 
@@ -120,10 +118,10 @@
                     "value": 12
                 }, 
                 "368428387": {
-                    "maximum": 335, 
-                    "minimum": 319, 
+                    "maximum": 330, 
+                    "minimum": 310, 
                     "statHash": 368428387, 
-                    "value": 319
+                    "value": 310
                 }, 
                 "3871231066": {
                     "maximum": 6, 
@@ -160,9 +158,9 @@
             "expansionIndex": 0, 
             "level": 51, 
             "maxLevelRequired": 40, 
-            "maxQuality": 25, 
+            "maxQuality": 20, 
             "minLevelRequired": 40, 
-            "minQuality": 9, 
+            "minQuality": 0, 
             "sourceHashes": [
                 3551688287, 
                 460228854
@@ -184,7 +182,11 @@
                 13, 
                 14, 
                 15, 
-                16
+                16, 
+                17, 
+                18, 
+                19, 
+                20
             ]
         }
     ], 
@@ -216,10 +218,10 @@
             "value": 50
         }, 
         "2391494160": {
-            "maximum": 40, 
-            "minimum": 38, 
+            "maximum": 39, 
+            "minimum": 37, 
             "statHash": 2391494160, 
-            "value": 38
+            "value": 37
         }, 
         "2715839340": {
             "maximum": 95, 
@@ -234,10 +236,10 @@
             "value": 12
         }, 
         "368428387": {
-            "maximum": 335, 
-            "minimum": 319, 
+            "maximum": 330, 
+            "minimum": 310, 
             "statHash": 368428387, 
-            "value": 319
+            "value": 310
         }, 
         "3871231066": {
             "maximum": 6, 
@@ -273,7 +275,6 @@
     "talentGridHash": 722027546, 
     "tierType": 5, 
     "tierTypeName": "Legendary", 
-    "tooltipStyle": "", 
     "uniquenessHash": 2166136261, 
     "values": {}
 }

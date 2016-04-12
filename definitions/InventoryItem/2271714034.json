@@ -17,7 +17,7 @@
         "arrangements": [
             {
                 "classHash": 0, 
-                "gearArtArrangementIndex": 3768
+                "gearArtArrangementIndex": 3708
             }
         ], 
         "customDyeExpression": {
@@ -25,7 +25,7 @@
         }, 
         "customDyes": [], 
         "defaultDyes": [], 
-        "gearArtArrangementIndex": 3768, 
+        "gearArtArrangementIndex": 3708, 
         "lockedDyes": [], 
         "weaponPatternHash": 0, 
         "weaponSandboxPatternIndex": -1
@@ -33,7 +33,6 @@
     "exclusive": 0, 
     "hasAction": true, 
     "hasGeometry": true, 
-    "hasIcon": true, 
     "hash": 2271714034, 
     "icon": "/common/destiny_content/icons/9325cf37520c1b35e88a64549f7a600b.jpg", 
     "index": 0, 
@@ -61,8 +60,10 @@
     "rewardItemHash": 0, 
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
-    "showActiveNodesInTooltip": false, 
-    "sourceHashes": [], 
+    "sourceHashes": [
+        2155337848, 
+        460228854
+    ], 
     "sources": [
         {
             "computedStats": {}, 
@@ -73,7 +74,10 @@
             "maxQuality": 0, 
             "minLevelRequired": 0, 
             "minQuality": 0, 
-            "sourceHashes": [], 
+            "sourceHashes": [
+                2155337848, 
+                460228854
+            ], 
             "spawnIndexes": [
                 0
             ]
@@ -85,7 +89,6 @@
     "talentGridHash": 521135891, 
     "tierType": 4, 
     "tierTypeName": "Rare", 
-    "tooltipStyle": "", 
     "uniquenessHash": 2166136261, 
     "values": {}
 }
