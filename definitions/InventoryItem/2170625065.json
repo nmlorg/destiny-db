@@ -1,5 +1,5 @@
 {
-    "actionName": "Dismantle", 
+    "actionName": "Scrap", 
     "allowActions": true, 
     "bountyResetUnlockHash": 0, 
     "bucketTypeHash": 3448274439, 
@@ -10,7 +10,7 @@
         "arrangements": [
             {
                 "classHash": 0, 
-                "gearArtArrangementIndex": 3072
+                "gearArtArrangementIndex": 3132
             }
         ], 
         "customDyeExpression": {
@@ -25,7 +25,7 @@
         }, 
         "customDyes": [], 
         "defaultDyes": [], 
-        "gearArtArrangementIndex": 3072, 
+        "gearArtArrangementIndex": 3132, 
         "lockedDyes": [
             {
                 "channelHash": 218592586, 
@@ -46,6 +46,7 @@
     "exclusive": 0, 
     "hasAction": true, 
     "hasGeometry": true, 
+    "hasIcon": true, 
     "hash": 2170625065, 
     "icon": "/common/destiny_content/icons/6c55472367a7b0df61f3a5f353e7a7b2.jpg", 
     "index": 0, 
@@ -77,8 +78,9 @@
     "rewardItemHash": 0, 
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
+    "showActiveNodesInTooltip": false, 
     "sourceHashes": [
-        4131549852, 
+        3660582080, 
         460228854
     ], 
     "sources": [
@@ -123,7 +125,7 @@
             "minLevelRequired": 40, 
             "minQuality": 0, 
             "sourceHashes": [
-                4131549852, 
+                3660582080, 
                 460228854
             ], 
             "spawnIndexes": [
@@ -168,6 +170,7 @@
     "talentGridHash": 2750544037, 
     "tierType": 5, 
     "tierTypeName": "Legendary", 
+    "tooltipStyle": "", 
     "uniquenessHash": 2166136261, 
     "values": {}
 }

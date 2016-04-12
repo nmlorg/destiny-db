@@ -5,10 +5,191 @@
     "bucketTypeHash": 2422292810, 
     "classType": 3, 
     "deleteOnAction": true, 
+    "derivedItemCategories": [
+        {
+            "categoryDescription": "Guaranteed Item (1)", 
+            "categoryHash": 0, 
+            "items": [
+                {
+                    "itemHash": 1321489224, 
+                    "vendorItemIndex": 0
+                }, 
+                {
+                    "itemHash": 2001658176, 
+                    "vendorItemIndex": 1
+                }, 
+                {
+                    "itemHash": 2704937713, 
+                    "vendorItemIndex": 2
+                }, 
+                {
+                    "itemHash": 1998474274, 
+                    "vendorItemIndex": 3
+                }, 
+                {
+                    "itemHash": 928813565, 
+                    "vendorItemIndex": 4
+                }, 
+                {
+                    "itemHash": 3032295330, 
+                    "vendorItemIndex": 5
+                }, 
+                {
+                    "itemHash": 502682246, 
+                    "vendorItemIndex": 6
+                }, 
+                {
+                    "itemHash": 1244321427, 
+                    "vendorItemIndex": 7
+                }, 
+                {
+                    "itemHash": 1247507932, 
+                    "vendorItemIndex": 8
+                }, 
+                {
+                    "itemHash": 1245131119, 
+                    "vendorItemIndex": 9
+                }, 
+                {
+                    "itemHash": 2364696211, 
+                    "vendorItemIndex": 10
+                }, 
+                {
+                    "itemHash": 1449661885, 
+                    "vendorItemIndex": 11
+                }, 
+                {
+                    "itemHash": 2317558346, 
+                    "vendorItemIndex": 12
+                }, 
+                {
+                    "itemHash": 2099650277, 
+                    "vendorItemIndex": 13
+                }, 
+                {
+                    "itemHash": 2953226480, 
+                    "vendorItemIndex": 14
+                }, 
+                {
+                    "itemHash": 3582243848, 
+                    "vendorItemIndex": 15
+                }, 
+                {
+                    "itemHash": 2279937629, 
+                    "vendorItemIndex": 16
+                }, 
+                {
+                    "itemHash": 3863768569, 
+                    "vendorItemIndex": 17
+                }, 
+                {
+                    "itemHash": 3841866576, 
+                    "vendorItemIndex": 18
+                }, 
+                {
+                    "itemHash": 4143953156, 
+                    "vendorItemIndex": 19
+                }, 
+                {
+                    "itemHash": 602786655, 
+                    "vendorItemIndex": 20
+                }, 
+                {
+                    "itemHash": 2206272667, 
+                    "vendorItemIndex": 21
+                }, 
+                {
+                    "itemHash": 1033894159, 
+                    "vendorItemIndex": 22
+                }, 
+                {
+                    "itemHash": 1895604998, 
+                    "vendorItemIndex": 23
+                }, 
+                {
+                    "itemHash": 1200540135, 
+                    "vendorItemIndex": 24
+                }, 
+                {
+                    "itemHash": 791351720, 
+                    "vendorItemIndex": 25
+                }, 
+                {
+                    "itemHash": 3142762098, 
+                    "vendorItemIndex": 26
+                }
+            ]
+        }, 
+        {
+            "categoryDescription": "Possible Items", 
+            "categoryHash": 0, 
+            "items": [
+                {
+                    "itemHash": 1096884853, 
+                    "vendorItemIndex": 27
+                }, 
+                {
+                    "itemHash": 1096884852, 
+                    "vendorItemIndex": 28
+                }, 
+                {
+                    "itemHash": 1096884855, 
+                    "vendorItemIndex": 29
+                }, 
+                {
+                    "itemHash": 1096884854, 
+                    "vendorItemIndex": 30
+                }, 
+                {
+                    "itemHash": 1096884849, 
+                    "vendorItemIndex": 31
+                }, 
+                {
+                    "itemHash": 1096884848, 
+                    "vendorItemIndex": 32
+                }, 
+                {
+                    "itemHash": 1096884851, 
+                    "vendorItemIndex": 33
+                }, 
+                {
+                    "itemHash": 1096884850, 
+                    "vendorItemIndex": 34
+                }, 
+                {
+                    "itemHash": 1096884861, 
+                    "vendorItemIndex": 35
+                }, 
+                {
+                    "itemHash": 1096884860, 
+                    "vendorItemIndex": 36
+                }, 
+                {
+                    "itemHash": 1609120940, 
+                    "vendorItemIndex": 37
+                }, 
+                {
+                    "itemHash": 1609120941, 
+                    "vendorItemIndex": 38
+                }, 
+                {
+                    "itemHash": 1500229041, 
+                    "vendorItemIndex": 39
+                }
+            ]
+        }, 
+        {
+            "categoryDescription": "", 
+            "categoryHash": 0, 
+            "items": []
+        }
+    ], 
+    "derivedItemVendorHash": 863056813, 
     "equippable": false, 
     "exclusive": 0, 
     "hasAction": true, 
     "hasGeometry": false, 
+    "hasIcon": true, 
     "hash": 814931155, 
     "icon": "/common/destiny_content/icons/0865aa0d2705efb4b58e515e8e2d427b.jpg", 
     "index": 0, 
@@ -34,7 +215,11 @@
     "rewardItemHash": 0, 
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
-    "sourceHashes": [], 
+    "showActiveNodesInTooltip": false, 
+    "sourceHashes": [
+        1882189853, 
+        460228854
+    ], 
     "sources": [
         {
             "computedStats": {}, 
@@ -45,7 +230,10 @@
             "maxQuality": 0, 
             "minLevelRequired": 0, 
             "minQuality": 0, 
-            "sourceHashes": [], 
+            "sourceHashes": [
+                1882189853, 
+                460228854
+            ], 
             "spawnIndexes": [
                 0
             ]
@@ -57,6 +245,7 @@
     "talentGridHash": 0, 
     "tierType": 5, 
     "tierTypeName": "Legendary", 
+    "tooltipStyle": "package", 
     "uniquenessHash": 0, 
     "values": {
         "2537815215": 0, 

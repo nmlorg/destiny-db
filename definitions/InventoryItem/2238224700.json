@@ -46,6 +46,7 @@
     "exclusive": 0, 
     "hasAction": true, 
     "hasGeometry": true, 
+    "hasIcon": true, 
     "hash": 2238224700, 
     "icon": "/common/destiny_content/icons/f2ddea89e683ab113f31a0da43959dc4.jpg", 
     "index": 0, 
@@ -77,48 +78,50 @@
     "rewardItemHash": 0, 
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
+    "showActiveNodesInTooltip": false, 
     "sourceHashes": [
         2644169369, 
         1882189853, 
-        3870113141
+        3870113141, 
+        3739898362
     ], 
     "sources": [
         {
             "computedStats": {
                 "144602215": {
-                    "maximum": 17, 
-                    "minimum": 12, 
+                    "maximum": 18, 
+                    "minimum": 13, 
                     "statHash": 144602215, 
-                    "value": 12
+                    "value": 13
                 }, 
                 "1735777505": {
-                    "maximum": 17, 
-                    "minimum": 12, 
+                    "maximum": 18, 
+                    "minimum": 13, 
                     "statHash": 1735777505, 
-                    "value": 12
+                    "value": 13
                 }, 
                 "2391494160": {
-                    "maximum": 8, 
-                    "minimum": 7, 
+                    "maximum": 9, 
+                    "minimum": 8, 
                     "statHash": 2391494160, 
-                    "value": 7
+                    "value": 8
                 }, 
                 "3897883278": {
-                    "maximum": 85, 
-                    "minimum": 75, 
+                    "maximum": 90, 
+                    "minimum": 80, 
                     "statHash": 3897883278, 
-                    "value": 75
+                    "value": 80
                 }, 
                 "4244567218": {
-                    "maximum": 17, 
-                    "minimum": 12, 
+                    "maximum": 18, 
+                    "minimum": 13, 
                     "statHash": 4244567218, 
-                    "value": 12
+                    "value": 13
                 }
             }, 
             "exclusivity": 0, 
             "expansionIndex": 0, 
-            "level": 15, 
+            "level": 16, 
             "maxLevelRequired": 11, 
             "maxQuality": 20, 
             "minLevelRequired": 11, 
@@ -126,7 +129,8 @@
             "sourceHashes": [
                 2644169369, 
                 1882189853, 
-                3870113141
+                3870113141, 
+                3739898362
             ], 
             "spawnIndexes": [
                 5, 
@@ -392,39 +396,40 @@
     "statGroupHash": 1116828683, 
     "stats": {
         "144602215": {
-            "maximum": 17, 
-            "minimum": 12, 
+            "maximum": 18, 
+            "minimum": 13, 
             "statHash": 144602215, 
-            "value": 12
+            "value": 13
         }, 
         "1735777505": {
-            "maximum": 17, 
-            "minimum": 12, 
+            "maximum": 18, 
+            "minimum": 13, 
             "statHash": 1735777505, 
-            "value": 12
+            "value": 13
         }, 
         "2391494160": {
-            "maximum": 8, 
-            "minimum": 7, 
+            "maximum": 9, 
+            "minimum": 8, 
             "statHash": 2391494160, 
-            "value": 7
+            "value": 8
         }, 
         "3897883278": {
-            "maximum": 85, 
+            "maximum": 90, 
             "minimum": 45, 
             "statHash": 3897883278, 
-            "value": 75
+            "value": 80
         }, 
         "4244567218": {
-            "maximum": 17, 
-            "minimum": 12, 
+            "maximum": 18, 
+            "minimum": 13, 
             "statHash": 4244567218, 
-            "value": 12
+            "value": 13
         }
     }, 
     "talentGridHash": 2033652703, 
     "tierType": 4, 
     "tierTypeName": "Rare", 
+    "tooltipStyle": "", 
     "uniquenessHash": 2166136261, 
     "values": {}
 }

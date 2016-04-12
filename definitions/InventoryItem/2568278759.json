@@ -17,7 +17,7 @@
         "arrangements": [
             {
                 "classHash": 0, 
-                "gearArtArrangementIndex": 3724
+                "gearArtArrangementIndex": 3784
             }
         ], 
         "customDyeExpression": {
@@ -25,7 +25,7 @@
         }, 
         "customDyes": [], 
         "defaultDyes": [], 
-        "gearArtArrangementIndex": 3724, 
+        "gearArtArrangementIndex": 3784, 
         "lockedDyes": [], 
         "weaponPatternHash": 0, 
         "weaponSandboxPatternIndex": -1
@@ -33,6 +33,7 @@
     "exclusive": 0, 
     "hasAction": true, 
     "hasGeometry": true, 
+    "hasIcon": true, 
     "hash": 2568278759, 
     "icon": "/common/destiny_content/icons/dd9638a28b34eee4f501d478711b8323.jpg", 
     "index": 0, 
@@ -60,10 +61,8 @@
     "rewardItemHash": 0, 
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
-    "sourceHashes": [
-        2155337848, 
-        460228854
-    ], 
+    "showActiveNodesInTooltip": false, 
+    "sourceHashes": [], 
     "sources": [
         {
             "computedStats": {}, 
@@ -74,10 +73,7 @@
             "maxQuality": 0, 
             "minLevelRequired": 0, 
             "minQuality": 0, 
-            "sourceHashes": [
-                2155337848, 
-                460228854
-            ], 
+            "sourceHashes": [], 
             "spawnIndexes": [
                 0
             ]
@@ -89,6 +85,7 @@
     "talentGridHash": 521135891, 
     "tierType": 5, 
     "tierTypeName": "Legendary", 
+    "tooltipStyle": "", 
     "uniquenessHash": 2166136261, 
     "values": {}
 }

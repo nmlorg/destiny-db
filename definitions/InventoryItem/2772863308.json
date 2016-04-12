@@ -46,6 +46,7 @@
     "exclusive": 0, 
     "hasAction": true, 
     "hasGeometry": true, 
+    "hasIcon": true, 
     "hash": 2772863308, 
     "icon": "/common/destiny_content/icons/53a7fc513bb3c0a0697ae66648eafc80.jpg", 
     "index": 0, 
@@ -77,22 +78,24 @@
     "rewardItemHash": 0, 
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
+    "showActiveNodesInTooltip": false, 
     "sourceHashes": [
         2644169369, 
         1882189853, 
-        3870113141
+        3870113141, 
+        3739898362
     ], 
     "sources": [
         {
             "computedStats": {
                 "144602215": {
-                    "maximum": 18, 
+                    "maximum": 19, 
                     "minimum": 14, 
                     "statHash": 144602215, 
                     "value": 14
                 }, 
                 "1735777505": {
-                    "maximum": 18, 
+                    "maximum": 19, 
                     "minimum": 14, 
                     "statHash": 1735777505, 
                     "value": 14
@@ -104,13 +107,13 @@
                     "value": 10
                 }, 
                 "3897883278": {
-                    "maximum": 110, 
-                    "minimum": 100, 
+                    "maximum": 115, 
+                    "minimum": 105, 
                     "statHash": 3897883278, 
-                    "value": 100
+                    "value": 105
                 }, 
                 "4244567218": {
-                    "maximum": 18, 
+                    "maximum": 19, 
                     "minimum": 14, 
                     "statHash": 4244567218, 
                     "value": 14
@@ -118,19 +121,19 @@
             }, 
             "exclusivity": 0, 
             "expansionIndex": 0, 
-            "level": 20, 
-            "maxLevelRequired": 20, 
+            "level": 21, 
+            "maxLevelRequired": 16, 
             "maxQuality": 20, 
             "minLevelRequired": 16, 
             "minQuality": 0, 
             "sourceHashes": [
                 2644169369, 
                 1882189853, 
-                3870113141
+                3870113141, 
+                3739898362
             ], 
             "spawnIndexes": [
                 3, 
-                28, 
                 4, 
                 5, 
                 6, 
@@ -151,6 +154,51 @@
                 21, 
                 22, 
                 23
+            ]
+        }, 
+        {
+            "computedStats": {
+                "144602215": {
+                    "maximum": 17, 
+                    "minimum": 14, 
+                    "statHash": 144602215, 
+                    "value": 14
+                }, 
+                "1735777505": {
+                    "maximum": 17, 
+                    "minimum": 14, 
+                    "statHash": 1735777505, 
+                    "value": 14
+                }, 
+                "2391494160": {
+                    "maximum": 10, 
+                    "minimum": 10, 
+                    "statHash": 2391494160, 
+                    "value": 10
+                }, 
+                "3897883278": {
+                    "maximum": 100, 
+                    "minimum": 100, 
+                    "statHash": 3897883278, 
+                    "value": 100
+                }, 
+                "4244567218": {
+                    "maximum": 17, 
+                    "minimum": 14, 
+                    "statHash": 4244567218, 
+                    "value": 14
+                }
+            }, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 20, 
+            "maxLevelRequired": 20, 
+            "maxQuality": 0, 
+            "minLevelRequired": 20, 
+            "minQuality": 0, 
+            "sourceHashes": [], 
+            "spawnIndexes": [
+                28
             ]
         }, 
         {
@@ -479,13 +527,13 @@
     "statGroupHash": 548191128, 
     "stats": {
         "144602215": {
-            "maximum": 18, 
+            "maximum": 19, 
             "minimum": 14, 
             "statHash": 144602215, 
             "value": 14
         }, 
         "1735777505": {
-            "maximum": 18, 
+            "maximum": 19, 
             "minimum": 14, 
             "statHash": 1735777505, 
             "value": 14
@@ -497,13 +545,13 @@
             "value": 10
         }, 
         "3897883278": {
-            "maximum": 110, 
+            "maximum": 115, 
             "minimum": 65, 
             "statHash": 3897883278, 
-            "value": 100
+            "value": 105
         }, 
         "4244567218": {
-            "maximum": 18, 
+            "maximum": 19, 
             "minimum": 14, 
             "statHash": 4244567218, 
             "value": 14
@@ -512,6 +560,7 @@
     "talentGridHash": 1714792255, 
     "tierType": 4, 
     "tierTypeName": "Rare", 
+    "tooltipStyle": "", 
     "uniquenessHash": 2166136261, 
     "values": {}
 }

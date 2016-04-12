@@ -39,6 +39,7 @@
     "exclusive": 0, 
     "hasAction": true, 
     "hasGeometry": true, 
+    "hasIcon": true, 
     "hash": 4021554005, 
     "icon": "/common/destiny_content/icons/e7862281f144db23aa03ba78dcd089c8.jpg", 
     "index": 0, 
@@ -70,11 +71,13 @@
     "rewardItemHash": 0, 
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
+    "showActiveNodesInTooltip": false, 
     "sourceHashes": [
         1920307024, 
         2644169369, 
         1882189853, 
         3870113141, 
+        3739898362, 
         36493462
     ], 
     "sources": [
@@ -98,8 +101,8 @@
             "computedStats": {}, 
             "exclusivity": 0, 
             "expansionIndex": 0, 
-            "level": 20, 
-            "maxLevelRequired": 20, 
+            "level": 21, 
+            "maxLevelRequired": 16, 
             "maxQuality": 20, 
             "minLevelRequired": 16, 
             "minQuality": 0, 
@@ -107,11 +110,11 @@
                 2644169369, 
                 1882189853, 
                 3870113141, 
+                3739898362, 
                 1920307024
             ], 
             "spawnIndexes": [
                 1, 
-                29, 
                 2, 
                 3, 
                 4, 
@@ -132,6 +135,22 @@
                 19, 
                 20, 
                 21
+            ]
+        }, 
+        {
+            "computedStats": {}, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 20, 
+            "maxLevelRequired": 20, 
+            "maxQuality": 0, 
+            "minLevelRequired": 20, 
+            "minQuality": 0, 
+            "sourceHashes": [
+                1920307024
+            ], 
+            "spawnIndexes": [
+                29
             ]
         }, 
         {
@@ -271,6 +290,7 @@
     "talentGridHash": 1321332442, 
     "tierType": 4, 
     "tierTypeName": "Rare", 
+    "tooltipStyle": "", 
     "uniquenessHash": 2166136261, 
     "values": {}
 }

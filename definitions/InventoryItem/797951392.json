@@ -7,30 +7,43 @@
     "deleteOnAction": true, 
     "derivedItemCategories": [
         {
-            "categoryDescription": "Will drop one of the following:", 
+            "categoryDescription": "Guaranteed Item (1)", 
+            "categoryHash": 0, 
             "items": [
                 {
-                    "itemHash": 2092342454
+                    "itemHash": 2092342454, 
+                    "vendorItemIndex": 0
                 }, 
                 {
-                    "itemHash": 2092342453
+                    "itemHash": 2092342455, 
+                    "vendorItemIndex": 1
                 }, 
                 {
-                    "itemHash": 2092342452
+                    "itemHash": 2092342452, 
+                    "vendorItemIndex": 2
                 }, 
                 {
-                    "itemHash": 2092342455
+                    "itemHash": 2092342453, 
+                    "vendorItemIndex": 3
                 }, 
                 {
-                    "itemHash": 2092342450
+                    "itemHash": 2092342450, 
+                    "vendorItemIndex": 4
                 }
             ]
+        }, 
+        {
+            "categoryDescription": "", 
+            "categoryHash": 0, 
+            "items": []
         }
     ], 
+    "derivedItemVendorHash": 1353750121, 
     "equippable": false, 
     "exclusive": 0, 
     "hasAction": true, 
     "hasGeometry": false, 
+    "hasIcon": true, 
     "hash": 797951392, 
     "icon": "/common/destiny_content/icons/47fbc7f00f8334a64881fcd2d7f355b6.jpg", 
     "index": 0, 
@@ -57,6 +70,7 @@
     "rewardItemHash": 0, 
     "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
+    "showActiveNodesInTooltip": false, 
     "sourceHashes": [
         113998144, 
         2155337848, 
@@ -88,6 +102,7 @@
     "talentGridHash": 0, 
     "tierType": 5, 
     "tierTypeName": "Legendary", 
+    "tooltipStyle": "", 
     "uniquenessHash": 0, 
     "values": {
         "2174042749": 1, 
