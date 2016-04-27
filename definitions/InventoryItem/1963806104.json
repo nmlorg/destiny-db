@@ -1,62 +1,239 @@
 {
-    "actionDescription": "", 
-    "actionName": "", 
+    "actionName": "Use", 
     "allowActions": true, 
-    "animations": [], 
     "bountyResetUnlockHash": 0, 
     "bucketTypeHash": 1469714392, 
     "classType": 3, 
-    "deleteOnAction": false, 
-    "derivedItemCategories": [], 
+    "deleteOnAction": true, 
+    "derivedItemCategories": [
+        {
+            "categoryDescription": "Guaranteed Item (1)", 
+            "categoryHash": 0, 
+            "items": [
+                {
+                    "itemHash": 16664395, 
+                    "vendorItemIndex": 0
+                }, 
+                {
+                    "itemHash": 3809851981, 
+                    "vendorItemIndex": 1
+                }, 
+                {
+                    "itemHash": 3847828218, 
+                    "vendorItemIndex": 2
+                }, 
+                {
+                    "itemHash": 308606233, 
+                    "vendorItemIndex": 3
+                }, 
+                {
+                    "itemHash": 2975536017, 
+                    "vendorItemIndex": 4
+                }, 
+                {
+                    "itemHash": 2804968639, 
+                    "vendorItemIndex": 5
+                }, 
+                {
+                    "itemHash": 2928398152, 
+                    "vendorItemIndex": 6
+                }, 
+                {
+                    "itemHash": 2710490087, 
+                    "vendorItemIndex": 7
+                }, 
+                {
+                    "itemHash": 1648308416, 
+                    "vendorItemIndex": 8
+                }, 
+                {
+                    "itemHash": 233474724, 
+                    "vendorItemIndex": 9
+                }, 
+                {
+                    "itemHash": 3689370929, 
+                    "vendorItemIndex": 10
+                }, 
+                {
+                    "itemHash": 3692454270, 
+                    "vendorItemIndex": 11
+                }, 
+                {
+                    "itemHash": 16664393, 
+                    "vendorItemIndex": 12
+                }, 
+                {
+                    "itemHash": 3809851983, 
+                    "vendorItemIndex": 13
+                }, 
+                {
+                    "itemHash": 3847828216, 
+                    "vendorItemIndex": 14
+                }, 
+                {
+                    "itemHash": 308606235, 
+                    "vendorItemIndex": 15
+                }, 
+                {
+                    "itemHash": 2975536019, 
+                    "vendorItemIndex": 18
+                }, 
+                {
+                    "itemHash": 2804968637, 
+                    "vendorItemIndex": 19
+                }, 
+                {
+                    "itemHash": 2928398154, 
+                    "vendorItemIndex": 20
+                }, 
+                {
+                    "itemHash": 2710490085, 
+                    "vendorItemIndex": 21
+                }, 
+                {
+                    "itemHash": 1648308418, 
+                    "vendorItemIndex": 24
+                }, 
+                {
+                    "itemHash": 233474726, 
+                    "vendorItemIndex": 25
+                }, 
+                {
+                    "itemHash": 3689370931, 
+                    "vendorItemIndex": 26
+                }, 
+                {
+                    "itemHash": 3692454268, 
+                    "vendorItemIndex": 27
+                }
+            ]
+        }, 
+        {
+            "categoryDescription": "Possible Items", 
+            "categoryHash": 0, 
+            "items": [
+                {
+                    "itemHash": 1186397662, 
+                    "vendorItemIndex": 16
+                }, 
+                {
+                    "itemHash": 1186397660, 
+                    "vendorItemIndex": 17
+                }, 
+                {
+                    "itemHash": 13565936, 
+                    "vendorItemIndex": 22
+                }, 
+                {
+                    "itemHash": 13565938, 
+                    "vendorItemIndex": 23
+                }, 
+                {
+                    "itemHash": 975923471, 
+                    "vendorItemIndex": 28
+                }, 
+                {
+                    "itemHash": 975923469, 
+                    "vendorItemIndex": 29
+                }, 
+                {
+                    "itemHash": 2220921114, 
+                    "vendorItemIndex": 30
+                }, 
+                {
+                    "itemHash": 1500229041, 
+                    "vendorItemIndex": 31
+                }, 
+                {
+                    "itemHash": 1603376703, 
+                    "vendorItemIndex": 32
+                }, 
+                {
+                    "itemHash": 446962954, 
+                    "vendorItemIndex": 33
+                }, 
+                {
+                    "itemHash": 446962955, 
+                    "vendorItemIndex": 34
+                }, 
+                {
+                    "itemHash": 162325542, 
+                    "vendorItemIndex": 35
+                }, 
+                {
+                    "itemHash": 3705287266, 
+                    "vendorItemIndex": 36
+                }, 
+                {
+                    "itemHash": 3705287267, 
+                    "vendorItemIndex": 37
+                }, 
+                {
+                    "itemHash": 3705287264, 
+                    "vendorItemIndex": 38
+                }, 
+                {
+                    "itemHash": 3705287265, 
+                    "vendorItemIndex": 39
+                }
+            ]
+        }
+    ], 
     "derivedItemVendorHash": 4275962006, 
-    "displaySource": "", 
     "equippable": false, 
-    "equippingBlock": {
-        "gearArtArrangementIndex": 0, 
-        "weaponPatternHash": 0, 
-        "weaponSandboxPatternIndex": 0
-    }, 
     "exclusive": 0, 
-    "hasAction": false, 
+    "hasAction": true, 
     "hasGeometry": false, 
-    "hasIcon": false, 
+    "hasIcon": true, 
     "hash": 1963806104, 
-    "icon": "", 
+    "icon": "/common/destiny_content/icons/3651da8a8b0add3161e840c7104078ed.jpg", 
     "index": 0, 
     "instanced": false, 
     "itemCategoryHashes": [], 
-    "itemDescription": "Obtain this Quest in Destiny to learn more.", 
+    "itemDescription": "Contains 1 Guaranteed Item and up to 4 Possible Items.\nThis item is nonreturnable.", 
     "itemHash": 1963806104, 
-    "itemIdentifier": "", 
     "itemIndex": 0, 
     "itemLevels": [], 
-    "itemName": "Classified", 
+    "itemName": "Sterling Treasure", 
     "itemSubType": 0, 
     "itemType": 0, 
-    "itemTypeName": "", 
-    "maxStackSize": 0, 
-    "narrative": "", 
+    "itemTypeName": "Mystery Bag", 
+    "maxStackSize": 99, 
     "needsFullCompletion": false, 
-    "nonTransferrable": true, 
+    "nonTransferrable": false, 
     "objectiveHashes": [], 
-    "objectiveVerb": "", 
     "perkHashes": [], 
     "primaryBaseStatHash": 0, 
     "qualityLevel": 0, 
     "questTrackingUnlockValueHash": 0, 
     "questlineItemHash": 0, 
     "rewardItemHash": 0, 
-    "secondaryIcon": "", 
+    "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
     "showActiveNodesInTooltip": false, 
     "sourceHashes": [], 
-    "sources": [], 
+    "sources": [
+        {
+            "computedStats": {}, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 0, 
+            "maxLevelRequired": 0, 
+            "maxQuality": 0, 
+            "minLevelRequired": 0, 
+            "minQuality": 0, 
+            "sourceHashes": [], 
+            "spawnIndexes": [
+                0
+            ]
+        }
+    ], 
     "specialItemType": 0, 
     "statGroupHash": 0, 
     "stats": {}, 
     "talentGridHash": 0, 
-    "tierType": 0, 
-    "tierTypeName": "", 
+    "tierType": 5, 
+    "tierTypeName": "Legendary", 
     "tooltipStyle": "", 
     "uniquenessHash": 0, 
     "values": {}
