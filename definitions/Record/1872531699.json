@@ -1,6 +1,21 @@
 {
-    "description": "Obtain this Quest in Destiny to learn more.", 
-    "displayName": "Classified", 
+    "description": "Complete the Crucible questline culminating in \"The Mountaintop.\"", 
+    "displayName": "This is Amazing", 
     "hash": 1872531699, 
-    "index": 0
+    "icon": "/common/destiny_content/icons/f831540c1329481906bd93552564d45c.png", 
+    "index": 0, 
+    "objectives": [
+        {
+            "objectiveHash": 1872531699
+        }
+    ], 
+    "recordValueUIStyle": "_investment_record_value_ui_style_boolean", 
+    "recruitmentTag": "PvP", 
+    "rewards": [
+        {
+            "levelRewarded": 0, 
+            "uiItemHash": 661507044, 
+            "uiItemQuantity": 1
+        }
+    ]
 }

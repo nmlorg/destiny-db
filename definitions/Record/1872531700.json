@@ -1,6 +1,20 @@
 {
-    "description": "Obtain this Quest in Destiny to learn more.", 
-    "displayName": "Classified", 
+    "description": "Collect all 50 Calcified Fragments", 
+    "displayName": "Eris Morn's Revenge", 
     "hash": 1872531700, 
-    "index": 0
+    "icon": "/common/destiny_content/icons/1ae2817316621c17276cbeea339a826d.png", 
+    "index": 0, 
+    "objectives": [
+        {
+            "objectiveHash": 1872531700
+        }
+    ], 
+    "recordValueUIStyle": "_investment_record_value_ui_style_boolean", 
+    "rewards": [
+        {
+            "levelRewarded": 0, 
+            "uiItemHash": 661507044, 
+            "uiItemQuantity": 1
+        }
+    ]
 }

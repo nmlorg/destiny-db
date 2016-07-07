@@ -165,28 +165,56 @@
         ]
     }, 
     "1342097866": {
-        "description": "Obtain this Quest in Destiny to learn more.", 
-        "displayName": "Classified", 
         "hash": 1342097866, 
-        "index": 0
+        "index": 0, 
+        "objectives": [], 
+        "recordValueUIStyle": "_investment_record_value_ui_style_integer", 
+        "rewards": [
+            {
+                "levelRewarded": 3, 
+                "uiItemHash": 2596665930, 
+                "uiItemQuantity": 1
+            }
+        ]
     }, 
     "1342097867": {
-        "description": "Obtain this Quest in Destiny to learn more.", 
-        "displayName": "Classified", 
         "hash": 1342097867, 
-        "index": 0
+        "index": 0, 
+        "objectives": [], 
+        "recordValueUIStyle": "_investment_record_value_ui_style_integer", 
+        "rewards": [
+            {
+                "levelRewarded": 2, 
+                "uiItemHash": 139252900, 
+                "uiItemQuantity": 1
+            }
+        ]
     }, 
     "1342097868": {
-        "description": "Obtain this Quest in Destiny to learn more.", 
-        "displayName": "Classified", 
         "hash": 1342097868, 
-        "index": 0
+        "index": 0, 
+        "objectives": [], 
+        "recordValueUIStyle": "_investment_record_value_ui_style_integer", 
+        "rewards": [
+            {
+                "levelRewarded": 5, 
+                "uiItemHash": 2596665931, 
+                "uiItemQuantity": 1
+            }
+        ]
     }, 
     "1342097869": {
-        "description": "Obtain this Quest in Destiny to learn more.", 
-        "displayName": "Classified", 
         "hash": 1342097869, 
-        "index": 0
+        "index": 0, 
+        "objectives": [], 
+        "recordValueUIStyle": "_investment_record_value_ui_style_integer", 
+        "rewards": [
+            {
+                "levelRewarded": 4, 
+                "uiItemHash": 139252901, 
+                "uiItemQuantity": 1
+            }
+        ]
     }, 
     "1724017521": {
         "description": "Earn SRL Event Standing in SRL races. Placing higher earns more standing.", 
@@ -214,52 +242,170 @@
         ]
     }, 
     "1872531696": {
-        "description": "Obtain this Quest in Destiny to learn more.", 
-        "displayName": "Classified", 
+        "description": "Complete an Elder's Sigil scorecard in the Prison of Elders.", 
+        "displayName": "Challenge of the Elders", 
         "hash": 1872531696, 
-        "index": 0
+        "icon": "/common/destiny_content/icons/c6dd320cc09f8b13b864745e1945f33c.png", 
+        "index": 0, 
+        "objectives": [
+            {
+                "objectiveHash": 1872531696
+            }
+        ], 
+        "recordValueUIStyle": "_investment_record_value_ui_style_boolean", 
+        "recruitmentTag": "ChallengeOfElders", 
+        "rewards": [
+            {
+                "levelRewarded": 0, 
+                "uiItemHash": 661507044, 
+                "uiItemQuantity": 1
+            }
+        ]
     }, 
     "1872531697": {
-        "description": "Obtain this Quest in Destiny to learn more.", 
-        "displayName": "Classified", 
+        "description": "Complete the Taken King main questline, culminating in \"Regicide.\"", 
+        "displayName": "The Play's the Thing", 
         "hash": 1872531697, 
-        "index": 0
+        "icon": "/common/destiny_content/icons/39e8cb036ebd555b6959406c85ea8ca2.png", 
+        "index": 0, 
+        "objectives": [
+            {
+                "objectiveHash": 1872531697
+            }
+        ], 
+        "recordValueUIStyle": "_investment_record_value_ui_style_boolean", 
+        "recruitmentTag": "Quest", 
+        "rewards": [
+            {
+                "levelRewarded": 0, 
+                "uiItemHash": 661507044, 
+                "uiItemQuantity": 1
+            }
+        ]
     }, 
     "1872531698": {
-        "description": "Obtain this Quest in Destiny to learn more.", 
-        "displayName": "Classified", 
+        "description": "Equip a fully leveled Year Two subclass on any character.", 
+        "displayName": "The Third Element", 
         "hash": 1872531698, 
-        "index": 0
+        "icon": "/common/destiny_content/icons/3b9b724fd119995aceba1408186ecbeb.png", 
+        "index": 0, 
+        "objectives": [
+            {
+                "objectiveHash": 1872531698
+            }
+        ], 
+        "recordValueUIStyle": "_investment_record_value_ui_style_boolean", 
+        "rewards": [
+            {
+                "levelRewarded": 0, 
+                "uiItemHash": 661507044, 
+                "uiItemQuantity": 1
+            }
+        ]
     }, 
     "1872531699": {
-        "description": "Obtain this Quest in Destiny to learn more.", 
-        "displayName": "Classified", 
+        "description": "Complete the Crucible questline culminating in \"The Mountaintop.\"", 
+        "displayName": "This is Amazing", 
         "hash": 1872531699, 
-        "index": 0
+        "icon": "/common/destiny_content/icons/f831540c1329481906bd93552564d45c.png", 
+        "index": 0, 
+        "objectives": [
+            {
+                "objectiveHash": 1872531699
+            }
+        ], 
+        "recordValueUIStyle": "_investment_record_value_ui_style_boolean", 
+        "recruitmentTag": "PvP", 
+        "rewards": [
+            {
+                "levelRewarded": 0, 
+                "uiItemHash": 661507044, 
+                "uiItemQuantity": 1
+            }
+        ]
     }, 
     "1872531700": {
-        "description": "Obtain this Quest in Destiny to learn more.", 
-        "displayName": "Classified", 
+        "description": "Collect all 50 Calcified Fragments", 
+        "displayName": "Eris Morn's Revenge", 
         "hash": 1872531700, 
-        "index": 0
+        "icon": "/common/destiny_content/icons/1ae2817316621c17276cbeea339a826d.png", 
+        "index": 0, 
+        "objectives": [
+            {
+                "objectiveHash": 1872531700
+            }
+        ], 
+        "recordValueUIStyle": "_investment_record_value_ui_style_boolean", 
+        "rewards": [
+            {
+                "levelRewarded": 0, 
+                "uiItemHash": 661507044, 
+                "uiItemQuantity": 1
+            }
+        ]
     }, 
     "1872531701": {
-        "description": "Obtain this Quest in Destiny to learn more.", 
-        "displayName": "Classified", 
+        "description": "Complete any of the Exotic sword quests from Shaxx", 
+        "displayName": "A Blade Reborn", 
         "hash": 1872531701, 
-        "index": 0
+        "icon": "/common/destiny_content/icons/a533ed1bec77b2cc34c436ba356c3f24.png", 
+        "index": 0, 
+        "objectives": [
+            {
+                "objectiveHash": 1872531701
+            }
+        ], 
+        "recordValueUIStyle": "_investment_record_value_ui_style_boolean", 
+        "recruitmentTag": "Quest", 
+        "rewards": [
+            {
+                "levelRewarded": 0, 
+                "uiItemHash": 661507044, 
+                "uiItemQuantity": 1
+            }
+        ]
     }, 
     "1872531702": {
-        "description": "Obtain this Quest in Destiny to learn more.", 
-        "displayName": "Classified", 
+        "description": "Complete the April quests \"At the Gates\" and \"Return to the Prison\"", 
+        "displayName": "Return to the Reef", 
         "hash": 1872531702, 
-        "index": 0
+        "icon": "/common/destiny_content/icons/f2c154bf07e33e3f538bb0452ac3564c.png", 
+        "index": 0, 
+        "objectives": [
+            {
+                "objectiveHash": 1872531702
+            }
+        ], 
+        "recordValueUIStyle": "_investment_record_value_ui_style_boolean", 
+        "recruitmentTag": "Quest", 
+        "rewards": [
+            {
+                "levelRewarded": 0, 
+                "uiItemHash": 661507044, 
+                "uiItemQuantity": 1
+            }
+        ]
     }, 
     "1872531703": {
-        "description": "Obtain this Quest in Destiny to learn more.", 
-        "displayName": "Classified", 
+        "description": "Defeat Oryx in the King's Fall Raid on Hard difficulty", 
+        "displayName": "The Sword Logic", 
         "hash": 1872531703, 
-        "index": 0
+        "icon": "/common/destiny_content/icons/f957f591332cad90e91deb751c3d2bc2.png", 
+        "index": 0, 
+        "objectives": [
+            {
+                "objectiveHash": 1872531703
+            }
+        ], 
+        "recordValueUIStyle": "_investment_record_value_ui_style_boolean", 
+        "recruitmentTag": "KingsFallHeroic", 
+        "rewards": [
+            {
+                "levelRewarded": 0, 
+                "uiItemHash": 661507044, 
+                "uiItemQuantity": 1
+            }
+        ]
     }, 
     "2897558091": {
         "description": "Earn SRL Event Standing in SRL races. Placing higher earns more standing.", 

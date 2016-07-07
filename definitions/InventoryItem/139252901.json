@@ -1,61 +1,92 @@
 {
-    "actionDescription": "", 
-    "actionName": "", 
+    "actionName": "Delete", 
     "allowActions": true, 
-    "animations": [], 
     "bountyResetUnlockHash": 0, 
     "bucketTypeHash": 2973005342, 
     "classType": 3, 
-    "deleteOnAction": false, 
-    "derivedItemCategories": [], 
-    "displaySource": "", 
-    "equippable": false, 
+    "deleteOnAction": true, 
+    "equippable": true, 
     "equippingBlock": {
-        "gearArtArrangementIndex": 0, 
+        "arrangements": [], 
+        "customDyeExpression": {
+            "steps": []
+        }, 
+        "customDyes": [
+            {
+                "channelHash": 662199250, 
+                "dyeHash": 2599233823
+            }, 
+            {
+                "channelHash": 1367384683, 
+                "dyeHash": 39346418
+            }, 
+            {
+                "channelHash": 218592586, 
+                "dyeHash": 2554509433
+            }
+        ], 
+        "defaultDyes": [], 
+        "gearArtArrangementIndex": -1, 
+        "lockedDyes": [], 
         "weaponPatternHash": 0, 
-        "weaponSandboxPatternIndex": 0
+        "weaponSandboxPatternIndex": -1
     }, 
     "exclusive": 0, 
-    "hasAction": false, 
+    "hasAction": true, 
     "hasGeometry": false, 
-    "hasIcon": false, 
+    "hasIcon": true, 
     "hash": 139252901, 
-    "icon": "", 
+    "icon": "/common/destiny_content/icons/bd7560f324d6128b0c971bf9cf89cfa8.jpg", 
     "index": 0, 
-    "instanced": false, 
-    "itemCategoryHashes": [], 
-    "itemDescription": "Obtain this Quest in Destiny to learn more.", 
+    "instanced": true, 
+    "itemCategoryHashes": [
+        41, 
+        52
+    ], 
+    "itemDescription": "Equip this shader to change the color of your armor.", 
     "itemHash": 139252901, 
-    "itemIdentifier": "", 
     "itemIndex": 0, 
     "itemLevels": [], 
-    "itemName": "Classified", 
+    "itemName": "Dawncaller", 
     "itemSubType": 0, 
     "itemType": 0, 
-    "itemTypeName": "", 
-    "maxStackSize": 0, 
-    "narrative": "", 
+    "itemTypeName": "Armor Shader", 
+    "maxStackSize": 1, 
     "needsFullCompletion": false, 
-    "nonTransferrable": true, 
+    "nonTransferrable": false, 
     "objectiveHashes": [], 
-    "objectiveVerb": "", 
     "perkHashes": [], 
     "primaryBaseStatHash": 0, 
     "qualityLevel": 0, 
     "questTrackingUnlockValueHash": 0, 
     "questlineItemHash": 0, 
     "rewardItemHash": 0, 
-    "secondaryIcon": "", 
+    "secondaryIcon": "/img/misc/missing_icon.png", 
     "setItemHashes": [], 
     "showActiveNodesInTooltip": false, 
     "sourceHashes": [], 
-    "sources": [], 
+    "sources": [
+        {
+            "computedStats": {}, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 0, 
+            "maxLevelRequired": 0, 
+            "maxQuality": 0, 
+            "minLevelRequired": 0, 
+            "minQuality": 0, 
+            "sourceHashes": [], 
+            "spawnIndexes": [
+                0
+            ]
+        }
+    ], 
     "specialItemType": 0, 
     "statGroupHash": 0, 
     "stats": {}, 
-    "talentGridHash": 0, 
-    "tierType": 0, 
-    "tierTypeName": "", 
+    "talentGridHash": 1245368945, 
+    "tierType": 5, 
+    "tierTypeName": "Legendary", 
     "tooltipStyle": "", 
     "uniquenessHash": 2166136261, 
     "values": {}

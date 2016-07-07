@@ -1,6 +1,21 @@
 {
-    "description": "Obtain this Quest in Destiny to learn more.", 
-    "displayName": "Classified", 
+    "description": "Complete an Elder's Sigil scorecard in the Prison of Elders.", 
+    "displayName": "Challenge of the Elders", 
     "hash": 1872531696, 
-    "index": 0
+    "icon": "/common/destiny_content/icons/c6dd320cc09f8b13b864745e1945f33c.png", 
+    "index": 0, 
+    "objectives": [
+        {
+            "objectiveHash": 1872531696
+        }
+    ], 
+    "recordValueUIStyle": "_investment_record_value_ui_style_boolean", 
+    "recruitmentTag": "ChallengeOfElders", 
+    "rewards": [
+        {
+            "levelRewarded": 0, 
+            "uiItemHash": 661507044, 
+            "uiItemQuantity": 1
+        }
+    ]
 }
