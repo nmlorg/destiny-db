@@ -5,100 +5,100 @@
     "bookNumber": "The cradle of humanity - a world of ancient glory, waiting to be retaken.", 
     "connections": [
         {
-            "destinationNodeIndex": 3, 
-            "sourceNodeIndex": 11
-        }, 
-        {
-            "destinationNodeIndex": 1, 
-            "sourceNodeIndex": 11
-        }, 
-        {
-            "destinationNodeIndex": 2, 
-            "sourceNodeIndex": 1
-        }, 
-        {
-            "destinationNodeIndex": 0, 
-            "sourceNodeIndex": 2
-        }, 
-        {
-            "destinationNodeIndex": 21, 
-            "sourceNodeIndex": 2
-        }, 
-        {
-            "destinationNodeIndex": 13, 
-            "sourceNodeIndex": 0
-        }, 
-        {
-            "destinationNodeIndex": 9, 
-            "sourceNodeIndex": 0
-        }, 
-        {
-            "destinationNodeIndex": 17, 
-            "sourceNodeIndex": 9
+            "destinationNodeIndex": 6, 
+            "sourceNodeIndex": 29
         }, 
         {
             "destinationNodeIndex": 4, 
-            "sourceNodeIndex": 3
+            "sourceNodeIndex": 29
         }, 
         {
             "destinationNodeIndex": 5, 
             "sourceNodeIndex": 4
         }, 
         {
-            "destinationNodeIndex": 14, 
+            "destinationNodeIndex": 3, 
             "sourceNodeIndex": 5
+        }, 
+        {
+            "destinationNodeIndex": 31, 
+            "sourceNodeIndex": 5
+        }, 
+        {
+            "destinationNodeIndex": 36, 
+            "sourceNodeIndex": 3
+        }, 
+        {
+            "destinationNodeIndex": 12, 
+            "sourceNodeIndex": 3
+        }, 
+        {
+            "destinationNodeIndex": 42, 
+            "sourceNodeIndex": 12
         }, 
         {
             "destinationNodeIndex": 7, 
-            "sourceNodeIndex": 5
-        }, 
-        {
-            "destinationNodeIndex": 6, 
-            "sourceNodeIndex": 5
+            "sourceNodeIndex": 6
         }, 
         {
             "destinationNodeIndex": 8, 
             "sourceNodeIndex": 7
         }, 
         {
-            "destinationNodeIndex": 16, 
+            "destinationNodeIndex": 37, 
             "sourceNodeIndex": 8
         }, 
         {
             "destinationNodeIndex": 10, 
-            "sourceNodeIndex": 6
+            "sourceNodeIndex": 8
         }, 
         {
-            "destinationNodeIndex": 23, 
+            "destinationNodeIndex": 9, 
+            "sourceNodeIndex": 8
+        }, 
+        {
+            "destinationNodeIndex": 11, 
             "sourceNodeIndex": 10
         }, 
         {
-            "destinationNodeIndex": 20, 
-            "sourceNodeIndex": 23
+            "destinationNodeIndex": 39, 
+            "sourceNodeIndex": 11
         }, 
         {
-            "destinationNodeIndex": 15, 
-            "sourceNodeIndex": 10
+            "destinationNodeIndex": 13, 
+            "sourceNodeIndex": 9
         }, 
         {
-            "destinationNodeIndex": 26, 
-            "sourceNodeIndex": 10
-        }, 
-        {
-            "destinationNodeIndex": 24, 
-            "sourceNodeIndex": 6
-        }, 
-        {
-            "destinationNodeIndex": 25, 
-            "sourceNodeIndex": 6
-        }, 
-        {
-            "destinationNodeIndex": 19, 
-            "sourceNodeIndex": 24
+            "destinationNodeIndex": 14, 
+            "sourceNodeIndex": 13
         }, 
         {
             "destinationNodeIndex": 18, 
-            "sourceNodeIndex": 25
+            "sourceNodeIndex": 14
+        }, 
+        {
+            "destinationNodeIndex": 38, 
+            "sourceNodeIndex": 13
+        }, 
+        {
+            "destinationNodeIndex": 34, 
+            "sourceNodeIndex": 13
+        }, 
+        {
+            "destinationNodeIndex": 15, 
+            "sourceNodeIndex": 9
+        }, 
+        {
+            "destinationNodeIndex": 16, 
+            "sourceNodeIndex": 9
+        }, 
+        {
+            "destinationNodeIndex": 41, 
+            "sourceNodeIndex": 15
+        }, 
+        {
+            "destinationNodeIndex": 40, 
+            "sourceNodeIndex": 16
         }
     ], 
     "destinationHash": 0, 
@@ -113,10 +113,67 @@
     }, 
     "nodes": [
         {
+            "activityBundleHashes": [
+                2839046506
+            ], 
+            "nodeDefinitionHash": 1348790487, 
+            "positionX": 0, 
+            "positionY": 0, 
+            "positionZ": 0, 
+            "states": [
+                {
+                    "state": 0
+                }
+            ], 
+            "styleHash": 2166136261, 
+            "uiModifier": 0
+        }, 
+        {
+            "activityBundleHashes": [
+                4203094490
+            ], 
+            "nodeDefinitionHash": 4059272475, 
+            "positionX": 1357, 
+            "positionY": 636, 
+            "positionZ": 1, 
+            "states": [
+                {
+                    "state": 0
+                }, 
+                {
+                    "state": 4
+                }, 
+                {
+                    "state": 0
+                }, 
+                {
+                    "state": 0
+                }
+            ], 
+            "styleHash": 1563066201, 
+            "uiModifier": 3
+        }, 
+        {
+            "activityBundleHashes": [
+                696672649
+            ], 
+            "nodeDefinitionHash": 1489520856, 
+            "positionX": 0, 
+            "positionY": 0, 
+            "positionZ": 0, 
+            "states": [
+                {
+                    "state": 0
+                }
+            ], 
+            "styleHash": 2166136261, 
+            "uiModifier": 0
+        }, 
+        {
             "activityBundleHashes": [], 
             "nodeDefinitionHash": 2925505302, 
-            "positionX": 1012, 
-            "positionY": 578, 
+            "positionX": 912, 
+            "positionY": 678, 
             "positionZ": 0, 
             "states": [
                 {
@@ -129,8 +186,8 @@
         {
             "activityBundleHashes": [], 
             "nodeDefinitionHash": 2925505303, 
-            "positionX": 953, 
-            "positionY": 629, 
+            "positionX": 853, 
+            "positionY": 729, 
             "positionZ": 0, 
             "states": [
                 {
@@ -143,8 +200,8 @@
         {
             "activityBundleHashes": [], 
             "nodeDefinitionHash": 2925505300, 
-            "positionX": 995, 
-            "positionY": 619, 
+            "positionX": 895, 
+            "positionY": 719, 
             "positionZ": 0, 
             "states": [
                 {
@@ -157,8 +214,8 @@
         {
             "activityBundleHashes": [], 
             "nodeDefinitionHash": 2925505301, 
-            "positionX": 852, 
-            "positionY": 613, 
+            "positionX": 752, 
+            "positionY": 713, 
             "positionZ": 0, 
             "states": [
                 {
@@ -171,8 +228,8 @@
         {
             "activityBundleHashes": [], 
             "nodeDefinitionHash": 2925505298, 
-            "positionX": 802, 
-            "positionY": 581, 
+            "positionX": 702, 
+            "positionY": 681, 
             "positionZ": 0, 
             "states": [
                 {
@@ -185,8 +242,8 @@
         {
             "activityBundleHashes": [], 
             "nodeDefinitionHash": 2925505299, 
-            "positionX": 704, 
-            "positionY": 532, 
+            "positionX": 604, 
+            "positionY": 632, 
             "positionZ": 0, 
             "states": [
                 {
@@ -199,8 +256,8 @@
         {
             "activityBundleHashes": [], 
             "nodeDefinitionHash": 2925505296, 
-            "positionX": 724, 
-            "positionY": 340, 
+            "positionX": 624, 
+            "positionY": 440, 
             "positionZ": 0, 
             "states": [
                 {
@@ -213,8 +270,8 @@
         {
             "activityBundleHashes": [], 
             "nodeDefinitionHash": 2925505297, 
-            "positionX": 653, 
-            "positionY": 499, 
+            "positionX": 553, 
+            "positionY": 599, 
             "positionZ": 0, 
             "states": [
                 {
@@ -227,8 +284,8 @@
         {
             "activityBundleHashes": [], 
             "nodeDefinitionHash": 2925505310, 
-            "positionX": 619, 
-            "positionY": 473, 
+            "positionX": 519, 
+            "positionY": 573, 
             "positionZ": 0, 
             "states": [
                 {
@@ -241,8 +298,8 @@
         {
             "activityBundleHashes": [], 
             "nodeDefinitionHash": 2925505311, 
-            "positionX": 1008, 
-            "positionY": 478, 
+            "positionX": 908, 
+            "positionY": 578, 
             "positionZ": 0, 
             "states": [
                 {
@@ -255,8 +312,50 @@
         {
             "activityBundleHashes": [], 
             "nodeDefinitionHash": 2543473925, 
-            "positionX": 741, 
-            "positionY": 302, 
+            "positionX": 641, 
+            "positionY": 402, 
+            "positionZ": 0, 
+            "states": [
+                {
+                    "state": 4
+                }
+            ], 
+            "styleHash": 2166136261, 
+            "uiModifier": 0
+        }, 
+        {
+            "activityBundleHashes": [], 
+            "nodeDefinitionHash": 2543473924, 
+            "positionX": 810, 
+            "positionY": 358, 
+            "positionZ": 0, 
+            "states": [
+                {
+                    "state": 4
+                }
+            ], 
+            "styleHash": 2166136261, 
+            "uiModifier": 0
+        }, 
+        {
+            "activityBundleHashes": [], 
+            "nodeDefinitionHash": 2543473926, 
+            "positionX": 550, 
+            "positionY": 424, 
+            "positionZ": 0, 
+            "states": [
+                {
+                    "state": 4
+                }
+            ], 
+            "styleHash": 2166136261, 
+            "uiModifier": 0
+        }, 
+        {
+            "activityBundleHashes": [], 
+            "nodeDefinitionHash": 2543473921, 
+            "positionX": 712, 
+            "positionY": 453, 
             "positionZ": 0, 
             "states": [
                 {
@@ -268,11 +367,357 @@
         }, 
         {
             "activityBundleHashes": [
+                4087776066
+            ], 
+            "nodeDefinitionHash": 1542498822, 
+            "positionX": 732, 
+            "positionY": 583, 
+            "positionZ": 0, 
+            "states": [
+                {
+                    "state": 2
+                }, 
+                {
+                    "state": 3
+                }, 
+                {
+                    "state": 4
+                }, 
+                {
+                    "state": 0
+                }
+            ], 
+            "styleHash": 1802004917, 
+            "uiModifier": 1
+        }, 
+        {
+            "activityBundleHashes": [
+                2790114296
+            ], 
+            "nodeDefinitionHash": 252346004, 
+            "positionX": 981, 
+            "positionY": 354, 
+            "positionZ": 0, 
+            "states": [
+                {
+                    "state": 2
+                }, 
+                {
+                    "state": 3
+                }, 
+                {
+                    "state": 3
+                }, 
+                {
+                    "state": 4
+                }
+            ], 
+            "styleHash": 1802004917, 
+            "uiModifier": 1
+        }, 
+        {
+            "activityBundleHashes": [
+                3220294246
+            ], 
+            "nodeDefinitionHash": 3794238054, 
+            "positionX": 1096, 
+            "positionY": 533, 
+            "positionZ": 0, 
+            "states": [
+                {
+                    "state": 2
+                }, 
+                {
+                    "state": 0
+                }, 
+                {
+                    "state": 3
+                }, 
+                {
+                    "state": 4
+                }, 
+                {
+                    "state": 4
+                }, 
+                {
+                    "state": 4
+                }, 
+                {
+                    "state": 0
+                }
+            ], 
+            "styleHash": 1802004917, 
+            "uiModifier": 1
+        }, 
+        {
+            "activityBundleHashes": [
+                2737751857
+            ], 
+            "nodeDefinitionHash": 2382202658, 
+            "positionX": 543, 
+            "positionY": 511, 
+            "positionZ": 0, 
+            "states": [
+                {
+                    "state": 2
+                }, 
+                {
+                    "state": 3
+                }, 
+                {
+                    "state": 0
+                }, 
+                {
+                    "state": 4
+                }, 
+                {
+                    "state": 0
+                }
+            ], 
+            "styleHash": 2166136261, 
+            "uiModifier": 0
+        }, 
+        {
+            "activityBundleHashes": [
+                2446491566
+            ], 
+            "nodeDefinitionHash": 3407089582, 
+            "positionX": 1182, 
+            "positionY": 364, 
+            "positionZ": 0, 
+            "states": [
+                {
+                    "state": 2
+                }, 
+                {
+                    "state": 0
+                }, 
+                {
+                    "state": 3
+                }, 
+                {
+                    "state": 4
+                }, 
+                {
+                    "state": 4
+                }, 
+                {
+                    "state": 4
+                }, 
+                {
+                    "state": 0
+                }
+            ], 
+            "styleHash": 1802004917, 
+            "uiModifier": 1
+        }, 
+        {
+            "activityBundleHashes": [
+                2244943676
+            ], 
+            "nodeDefinitionHash": 3517163729, 
+            "positionX": 1112, 
+            "positionY": 782, 
+            "positionZ": 0, 
+            "states": [
+                {
+                    "state": 2
+                }, 
+                {
+                    "state": 3
+                }, 
+                {
+                    "state": 0
+                }, 
+                {
+                    "state": 4
+                }, 
+                {
+                    "state": 0
+                }
+            ], 
+            "styleHash": 2166136261, 
+            "uiModifier": 0
+        }, 
+        {
+            "activityBundleHashes": [
+                157980450
+            ], 
+            "nodeDefinitionHash": 3730622242, 
+            "positionX": 1240, 
+            "positionY": 212, 
+            "positionZ": 0, 
+            "states": [
+                {
+                    "state": 2
+                }, 
+                {
+                    "state": 0
+                }, 
+                {
+                    "state": 3
+                }, 
+                {
+                    "state": 4
+                }, 
+                {
+                    "state": 4
+                }, 
+                {
+                    "state": 0
+                }
+            ], 
+            "styleHash": 1802004917, 
+            "uiModifier": 1
+        }, 
+        {
+            "activityBundleHashes": [
+                18715720
+            ], 
+            "nodeDefinitionHash": 2307800760, 
+            "positionX": 1214, 
+            "positionY": 715, 
+            "positionZ": 1, 
+            "states": [
+                {
+                    "state": 2
+                }, 
+                {
+                    "state": 3
+                }, 
+                {
+                    "state": 4
+                }, 
+                {
+                    "state": 0
+                }, 
+                {
+                    "state": 0
+                }, 
+                {
+                    "state": 0
+                }
+            ], 
+            "styleHash": 3946454523, 
+            "uiModifier": 3
+        }, 
+        {
+            "activityBundleHashes": [
+                2739987894
+            ], 
+            "nodeDefinitionHash": 2311248567, 
+            "positionX": 430, 
+            "positionY": 358, 
+            "positionZ": 0, 
+            "states": [
+                {
+                    "state": 2
+                }, 
+                {
+                    "state": 3
+                }, 
+                {
+                    "state": 0
+                }, 
+                {
+                    "state": 4
+                }, 
+                {
+                    "state": 0
+                }
+            ], 
+            "styleHash": 2166136261, 
+            "uiModifier": 0
+        }, 
+        {
+            "activityBundleHashes": [
+                509411569
+            ], 
+            "nodeDefinitionHash": 1030154953, 
+            "positionX": 1303, 
+            "positionY": 481, 
+            "positionZ": 0, 
+            "states": [
+                {
+                    "state": 2
+                }, 
+                {
+                    "state": 3
+                }, 
+                {
+                    "state": 0
+                }, 
+                {
+                    "state": 4
+                }, 
+                {
+                    "state": 4
+                }, 
+                {
+                    "state": 0
+                }, 
+                {
+                    "state": 0
+                }
+            ], 
+            "styleHash": 2166136261, 
+            "uiModifier": 0
+        }, 
+        {
+            "activityBundleHashes": [
+                4240750267
+            ], 
+            "nodeDefinitionHash": 3591124079, 
+            "positionX": 765, 
+            "positionY": 469, 
+            "positionZ": 0, 
+            "states": [
+                {
+                    "state": 2
+                }, 
+                {
+                    "state": 3
+                }, 
+                {
+                    "state": 4
+                }, 
+                {
+                    "state": 0
+                }
+            ], 
+            "styleHash": 1802004917, 
+            "uiModifier": 1
+        }, 
+        {
+            "activityBundleHashes": [], 
+            "nodeDefinitionHash": 3223281353, 
+            "positionX": 833, 
+            "positionY": 466, 
+            "positionZ": 0, 
+            "states": [
+                {
+                    "state": 0
+                }, 
+                {
+                    "state": 3
+                }, 
+                {
+                    "state": 4
+                }, 
+                {
+                    "state": 0
+                }
+            ], 
+            "styleHash": 1802004917, 
+            "uiModifier": 1
+        }, 
+        {
+            "activityBundleHashes": [
                 167419252
             ], 
             "nodeDefinitionHash": 1091176368, 
-            "positionX": 926, 
-            "positionY": 574, 
+            "positionX": 826, 
+            "positionY": 674, 
             "positionZ": 0, 
             "states": [
                 {
@@ -296,11 +741,158 @@
         }, 
         {
             "activityBundleHashes": [
+                355605844
+            ], 
+            "nodeDefinitionHash": 1091176371, 
+            "positionX": 1148, 
+            "positionY": 455, 
+            "positionZ": 0, 
+            "states": [
+                {
+                    "state": 2
+                }, 
+                {
+                    "state": 4
+                }, 
+                {
+                    "state": 4
+                }, 
+                {
+                    "state": 0
+                }, 
+                {
+                    "state": 0
+                }
+            ], 
+            "styleHash": 2166136261, 
+            "uiModifier": 0
+        }, 
+        {
+            "activityBundleHashes": [
+                579949585
+            ], 
+            "nodeDefinitionHash": 2706401861, 
+            "positionX": 940, 
+            "positionY": 748, 
+            "positionZ": 0, 
+            "states": [
+                {
+                    "state": 2
+                }, 
+                {
+                    "state": 3
+                }, 
+                {
+                    "state": 3
+                }, 
+                {
+                    "state": 4
+                }
+            ], 
+            "styleHash": 1802004917, 
+            "uiModifier": 1
+        }, 
+        {
+            "activityBundleHashes": [
+                260765522, 
+                1387993552
+            ], 
+            "nodeDefinitionHash": 716893059, 
+            "positionX": 1169, 
+            "positionY": 543, 
+            "positionZ": 0, 
+            "states": [
+                {
+                    "state": 2
+                }, 
+                {
+                    "state": 3
+                }, 
+                {
+                    "state": 3
+                }, 
+                {
+                    "state": 4
+                }, 
+                {
+                    "state": 0
+                }, 
+                {
+                    "state": 0
+                }
+            ], 
+            "styleHash": 1802004917, 
+            "uiModifier": 1
+        }, 
+        {
+            "activityBundleHashes": [
+                3509128672
+            ], 
+            "nodeDefinitionHash": 1916813052, 
+            "positionX": 1357, 
+            "positionY": 636, 
+            "positionZ": 1, 
+            "states": [
+                {
+                    "state": 2
+                }, 
+                {
+                    "state": 4
+                }, 
+                {
+                    "state": 0
+                }, 
+                {
+                    "state": 0
+                }, 
+                {
+                    "state": 0
+                }, 
+                {
+                    "state": 0
+                }, 
+                {
+                    "state": 4
+                }, 
+                {
+                    "state": 4
+                }
+            ], 
+            "styleHash": 1563066201, 
+            "uiModifier": 3
+        }, 
+        {
+            "activityBundleHashes": [
+                3473815980
+            ], 
+            "nodeDefinitionHash": 1025334573, 
+            "positionX": 644, 
+            "positionY": 348, 
+            "positionZ": 0, 
+            "states": [
+                {
+                    "state": 2
+                }, 
+                {
+                    "state": 3
+                }, 
+                {
+                    "state": 3
+                }, 
+                {
+                    "state": 4
+                }
+            ], 
+            "styleHash": 1802004917, 
+            "uiModifier": 1
+        }, 
+        {
+            "activityBundleHashes": [
                 1846390409
             ], 
             "nodeDefinitionHash": 1182224740, 
-            "positionX": 1134, 
-            "positionY": 682, 
+            "positionX": 1034, 
+            "positionY": 782, 
             "positionZ": 0, 
             "states": [
                 {
@@ -318,8 +910,8 @@
                 3120351939
             ], 
             "nodeDefinitionHash": 2235798456, 
-            "positionX": 1067, 
-            "positionY": 571, 
+            "positionX": 967, 
+            "positionY": 671, 
             "positionZ": 0, 
             "states": [
                 {
@@ -343,8 +935,8 @@
                 3120351938
             ], 
             "nodeDefinitionHash": 2235798457, 
-            "positionX": 680, 
-            "positionY": 550, 
+            "positionX": 580, 
+            "positionY": 650, 
             "positionZ": 0, 
             "states": [
                 {
@@ -368,8 +960,8 @@
                 3120351937
             ], 
             "nodeDefinitionHash": 2235798458, 
-            "positionX": 672, 
-            "positionY": 281, 
+            "positionX": 572, 
+            "positionY": 381, 
             "positionZ": 0, 
             "states": [
                 {
@@ -393,8 +985,8 @@
                 3120351943
             ], 
             "nodeDefinitionHash": 2235798460, 
-            "positionX": 552, 
-            "positionY": 448, 
+            "positionX": 452, 
+            "positionY": 548, 
             "positionZ": 0, 
             "states": [
                 {
@@ -415,36 +1007,11 @@
         }, 
         {
             "activityBundleHashes": [
-                4227723344
-            ], 
-            "nodeDefinitionHash": 2283714848, 
-            "positionX": 876, 
-            "positionY": 424, 
-            "positionZ": 0, 
-            "states": [
-                {
-                    "state": 2
-                }, 
-                {
-                    "state": 3
-                }, 
-                {
-                    "state": 3
-                }, 
-                {
-                    "state": 4
-                }
-            ], 
-            "styleHash": 2166136261, 
-            "uiModifier": 0
-        }, 
-        {
-            "activityBundleHashes": [
                 3120351941
             ], 
             "nodeDefinitionHash": 2235798462, 
-            "positionX": 892, 
-            "positionY": 317, 
+            "positionX": 792, 
+            "positionY": 417, 
             "positionZ": 0, 
             "states": [
                 {
@@ -468,8 +1035,8 @@
                 4227723347
             ], 
             "nodeDefinitionHash": 2283714851, 
-            "positionX": 599, 
-            "positionY": 354, 
+            "positionX": 499, 
+            "positionY": 454, 
             "positionZ": 0, 
             "states": [
                 {
@@ -490,11 +1057,11 @@
         }, 
         {
             "activityBundleHashes": [
-                2790114296
+                4227723344
             ], 
-            "nodeDefinitionHash": 252346004, 
-            "positionX": 1081, 
-            "positionY": 254, 
+            "nodeDefinitionHash": 2283714848, 
+            "positionX": 776, 
+            "positionY": 524, 
             "positionZ": 0, 
             "states": [
                 {
@@ -510,41 +1077,16 @@
                     "state": 4
                 }
             ], 
-            "styleHash": 1802004917, 
-            "uiModifier": 1
-        }, 
-        {
-            "activityBundleHashes": [
-                579949585
-            ], 
-            "nodeDefinitionHash": 2706401861, 
-            "positionX": 1040, 
-            "positionY": 648, 
-            "positionZ": 0, 
-            "states": [
-                {
-                    "state": 2
-                }, 
-                {
-                    "state": 3
-                }, 
-                {
-                    "state": 3
-                }, 
-                {
-                    "state": 4
-                }
-            ], 
-            "styleHash": 1802004917, 
-            "uiModifier": 1
+            "styleHash": 2166136261, 
+            "uiModifier": 0
         }, 
         {
             "activityBundleHashes": [
                 1856964953
             ], 
             "nodeDefinitionHash": 1391306828, 
-            "positionX": 1134, 
-            "positionY": 682, 
+            "positionX": 1034, 
+            "positionY": 782, 
             "positionZ": 0, 
             "states": [
                 {
@@ -558,79 +1100,12 @@
             "uiModifier": 1
         }, 
         {
-            "activityBundleHashes": [], 
-            "nodeDefinitionHash": 2543473924, 
-            "positionX": 910, 
-            "positionY": 258, 
-            "positionZ": 0, 
-            "states": [
-                {
-                    "state": 4
-                }
-            ], 
-            "styleHash": 2166136261, 
-            "uiModifier": 0
-        }, 
-        {
-            "activityBundleHashes": [], 
-            "nodeDefinitionHash": 2543473926, 
-            "positionX": 650, 
-            "positionY": 324, 
-            "positionZ": 0, 
-            "states": [
-                {
-                    "state": 4
-                }
-            ], 
-            "styleHash": 2166136261, 
-            "uiModifier": 0
-        }, 
-        {
-            "activityBundleHashes": [], 
-            "nodeDefinitionHash": 2543473921, 
-            "positionX": 812, 
-            "positionY": 353, 
-            "positionZ": 0, 
-            "states": [
-                {
-                    "state": 4
-                }
-            ], 
-            "styleHash": 2166136261, 
-            "uiModifier": 0
-        }, 
-        {
             "activityBundleHashes": [
-                3473815980
+                3101766066
             ], 
-            "nodeDefinitionHash": 1025334573, 
-            "positionX": 744, 
-            "positionY": 248, 
-            "positionZ": 0, 
-            "states": [
-                {
-                    "state": 2
-                }, 
-                {
-                    "state": 3
-                }, 
-                {
-                    "state": 3
-                }, 
-                {
-                    "state": 4
-                }
-            ], 
-            "styleHash": 1802004917, 
-            "uiModifier": 1
-        }, 
-        {
-            "activityBundleHashes": [
-                4240750267
-            ], 
-            "nodeDefinitionHash": 3591124079, 
-            "positionX": 865, 
-            "positionY": 369, 
+            "nodeDefinitionHash": 4119517070, 
+            "positionX": 1079, 
+            "positionY": 328, 
             "positionZ": 0, 
             "states": [
                 {
@@ -644,18 +1119,10 @@
                 }, 
                 {
                     "state": 0
-                }
-            ], 
-            "styleHash": 1802004917, 
-            "uiModifier": 1
-        }, 
-        {
-            "activityBundleHashes": [], 
-            "nodeDefinitionHash": 3223281353, 
-            "positionX": 933, 
-            "positionY": 366, 
-            "positionZ": 0, 
-            "states": [
+                }, 
+                {
+                    "state": 0
+                }, 
                 {
                     "state": 0
                 }, 
@@ -663,22 +1130,19 @@
                     "state": 3
                 }, 
                 {
-                    "state": 4
-                }, 
-                {
-                    "state": 0
+                    "state": 3
                 }
             ], 
-            "styleHash": 1802004917, 
-            "uiModifier": 1
+            "styleHash": 2166136261, 
+            "uiModifier": 0
         }, 
         {
             "activityBundleHashes": [
                 34327100
             ], 
             "nodeDefinitionHash": 3410627340, 
-            "positionX": 809, 
-            "positionY": 242, 
+            "positionX": 709, 
+            "positionY": 342, 
             "positionZ": 0, 
             "states": [
                 {
@@ -689,6 +1153,31 @@
                 }, 
                 {
                     "state": 4
+                }, 
+                {
+                    "state": 0
+                }
+            ], 
+            "styleHash": 2166136261, 
+            "uiModifier": 0
+        }, 
+        {
+            "activityBundleHashes": [
+                832576952
+            ], 
+            "nodeDefinitionHash": 1916619517, 
+            "positionX": 749, 
+            "positionY": 294, 
+            "positionZ": 0, 
+            "states": [
+                {
+                    "state": 0
+                }, 
+                {
+                    "state": 3
+                }, 
+                {
+                    "state": 3
                 }, 
                 {
                     "state": 0
@@ -702,8 +1191,8 @@
                 757275024
             ], 
             "nodeDefinitionHash": 1839148320, 
-            "positionX": 767, 
-            "positionY": 191, 
+            "positionX": 667, 
+            "positionY": 291, 
             "positionZ": 0, 
             "states": [
                 {
@@ -721,36 +1210,11 @@
         }, 
         {
             "activityBundleHashes": [
-                4087776066
-            ], 
-            "nodeDefinitionHash": 1542498822, 
-            "positionX": 832, 
-            "positionY": 483, 
-            "positionZ": 0, 
-            "states": [
-                {
-                    "state": 2
-                }, 
-                {
-                    "state": 3
-                }, 
-                {
-                    "state": 4
-                }, 
-                {
-                    "state": 0
-                }
-            ], 
-            "styleHash": 1802004917, 
-            "uiModifier": 1
-        }, 
-        {
-            "activityBundleHashes": [
                 3422924470
             ], 
             "nodeDefinitionHash": 92046023, 
-            "positionX": 1091, 
-            "positionY": 508, 
+            "positionX": 991, 
+            "positionY": 608, 
             "positionZ": 0, 
             "states": [
                 {
@@ -771,8 +1235,8 @@
                 3715085142
             ], 
             "nodeDefinitionHash": 2102119867, 
-            "positionX": 892, 
-            "positionY": 502, 
+            "positionX": 792, 
+            "positionY": 602, 
             "positionZ": 0, 
             "states": [
                 {
@@ -793,8 +1257,8 @@
                 1005705920
             ], 
             "nodeDefinitionHash": 778417937, 
-            "positionX": 952, 
-            "positionY": 303, 
+            "positionX": 852, 
+            "positionY": 403, 
             "positionZ": 0, 
             "states": [
                 {
@@ -827,8 +1291,8 @@
                 2008529245
             ], 
             "nodeDefinitionHash": 2019934818, 
-            "positionX": 1076, 
-            "positionY": 401, 
+            "positionX": 976, 
+            "positionY": 501, 
             "positionZ": 0, 
             "states": [
                 {
@@ -849,37 +1313,12 @@
                 123999179
             ], 
             "nodeDefinitionHash": 2577425246, 
-            "positionX": 1167, 
-            "positionY": 502, 
+            "positionX": 1067, 
+            "positionY": 602, 
             "positionZ": 0, 
             "states": [
                 {
                     "state": 0
-                }, 
-                {
-                    "state": 3
-                }, 
-                {
-                    "state": 0
-                }
-            ], 
-            "styleHash": 2166136261, 
-            "uiModifier": 0
-        }, 
-        {
-            "activityBundleHashes": [
-                832576952
-            ], 
-            "nodeDefinitionHash": 1916619517, 
-            "positionX": 849, 
-            "positionY": 194, 
-            "positionZ": 0, 
-            "states": [
-                {
-                    "state": 0
-                }, 
-                {
-                    "state": 3
                 }, 
                 {
                     "state": 3

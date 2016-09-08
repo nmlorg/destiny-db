@@ -14,10 +14,21 @@
             }
         ], 
         "customDyeExpression": {
-            "steps": []
+            "steps": [
+                {
+                    "flagHash": 1680320212, 
+                    "stepOperator": 1, 
+                    "value": 2310, 
+                    "valueHash": 0
+                }
+            ]
         }, 
         "customDyes": [], 
         "defaultDyes": [
+            {
+                "channelHash": 1367384683, 
+                "dyeHash": 1872502412
+            }, 
             {
                 "channelHash": 218592586, 
                 "dyeHash": 32149659
@@ -28,12 +39,7 @@
             }
         ], 
         "gearArtArrangementIndex": 3042, 
-        "lockedDyes": [
-            {
-                "channelHash": 1367384683, 
-                "dyeHash": 1872502412
-            }
-        ], 
+        "lockedDyes": [], 
         "weaponPatternHash": 0, 
         "weaponSandboxPatternIndex": -1
     }, 
@@ -42,7 +48,7 @@
     "hasGeometry": true, 
     "hasIcon": true, 
     "hash": 1781862302, 
-    "icon": "/common/destiny_content/icons/209c43a22b21088d117b0a88c12238ce.jpg", 
+    "icon": "/common/destiny_content/icons/c9cd6838991fb3f714cebf7cba6c4579.jpg", 
     "index": 0, 
     "instanced": true, 
     "itemCategoryHashes": [
@@ -75,12 +81,7 @@
     "setItemHashes": [], 
     "showActiveNodesInTooltip": false, 
     "sourceHashes": [
-        1882189853, 
-        478645002, 
-        344892955, 
         36493462, 
-        2644169369, 
-        3870113141, 
         3739898362, 
         460228854
     ], 
@@ -126,12 +127,7 @@
             "minLevelRequired": 40, 
             "minQuality": 0, 
             "sourceHashes": [
-                1882189853, 
-                478645002, 
-                344892955, 
                 36493462, 
-                2644169369, 
-                3870113141, 
                 3739898362, 
                 460228854
             ], 

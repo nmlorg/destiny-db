@@ -2,8 +2,8 @@
     "acceptedItems": [], 
     "categories": [
         {
-            "categoryHash": 3795478011, 
-            "displayTitle": "Vendor", 
+            "categoryHash": 2528079380, 
+            "displayTitle": "The Taken King", 
             "hasOverlay": false, 
             "hideFromRegularPurchase": false, 
             "hideIfNoCurrency": false, 
@@ -16,8 +16,22 @@
             "showUnavailableItems": false
         }, 
         {
-            "categoryHash": 2529564523, 
-            "displayTitle": "Treasure", 
+            "categoryHash": 2091754884, 
+            "displayTitle": "House of Wolves", 
+            "hasOverlay": false, 
+            "hideFromRegularPurchase": false, 
+            "hideIfNoCurrency": false, 
+            "overlayChoice": "", 
+            "overlayCurrencyItemHash": 0, 
+            "overlayDescription": "", 
+            "overlayIcon": "/img/misc/missing_icon.png", 
+            "overlayTitle": "", 
+            "quantityAvailable": 0, 
+            "showUnavailableItems": false
+        }, 
+        {
+            "categoryHash": 1333164374, 
+            "displayTitle": "Factions", 
             "hasOverlay": false, 
             "hideFromRegularPurchase": false, 
             "hideIfNoCurrency": false, 
@@ -58,50 +72,36 @@
             "showUnavailableItems": false
         }, 
         {
-            "categoryHash": 1333164374, 
-            "displayTitle": "Factions", 
-            "hasOverlay": false, 
-            "hideFromRegularPurchase": false, 
-            "hideIfNoCurrency": false, 
-            "overlayChoice": "", 
-            "overlayCurrencyItemHash": 0, 
-            "overlayDescription": "", 
-            "overlayIcon": "/img/misc/missing_icon.png", 
-            "overlayTitle": "", 
-            "quantityAvailable": 0, 
-            "showUnavailableItems": false
-        }, 
-        {
-            "categoryHash": 2091754884, 
-            "displayTitle": "House of Wolves", 
-            "hasOverlay": false, 
-            "hideFromRegularPurchase": false, 
-            "hideIfNoCurrency": false, 
-            "overlayChoice": "", 
-            "overlayCurrencyItemHash": 0, 
-            "overlayDescription": "", 
-            "overlayIcon": "/img/misc/missing_icon.png", 
-            "overlayTitle": "", 
-            "quantityAvailable": 0, 
-            "showUnavailableItems": false
-        }, 
-        {
-            "categoryHash": 2528079380, 
-            "displayTitle": "The Taken King", 
-            "hasOverlay": false, 
-            "hideFromRegularPurchase": false, 
-            "hideIfNoCurrency": false, 
-            "overlayChoice": "", 
-            "overlayCurrencyItemHash": 0, 
-            "overlayDescription": "", 
-            "overlayIcon": "/img/misc/missing_icon.png", 
-            "overlayTitle": "", 
-            "quantityAvailable": 0, 
-            "showUnavailableItems": false
-        }, 
-        {
             "categoryHash": 2784719577, 
             "displayTitle": "Raid", 
+            "hasOverlay": false, 
+            "hideFromRegularPurchase": false, 
+            "hideIfNoCurrency": false, 
+            "overlayChoice": "", 
+            "overlayCurrencyItemHash": 0, 
+            "overlayDescription": "", 
+            "overlayIcon": "/img/misc/missing_icon.png", 
+            "overlayTitle": "", 
+            "quantityAvailable": 0, 
+            "showUnavailableItems": false
+        }, 
+        {
+            "categoryHash": 2529564523, 
+            "displayTitle": "Treasure", 
+            "hasOverlay": false, 
+            "hideFromRegularPurchase": false, 
+            "hideIfNoCurrency": false, 
+            "overlayChoice": "", 
+            "overlayCurrencyItemHash": 0, 
+            "overlayDescription": "", 
+            "overlayIcon": "/img/misc/missing_icon.png", 
+            "overlayTitle": "", 
+            "quantityAvailable": 0, 
+            "showUnavailableItems": false
+        }, 
+        {
+            "categoryHash": 3795478011, 
+            "displayTitle": "Vendor", 
             "hasOverlay": false, 
             "hideFromRegularPurchase": false, 
             "hideIfNoCurrency": false, 
@@ -154,6 +154,20 @@
             "overlayTitle": "", 
             "quantityAvailable": 0, 
             "showUnavailableItems": false
+        }, 
+        {
+            "categoryHash": 1704633216, 
+            "displayTitle": "Rise of Iron", 
+            "hasOverlay": false, 
+            "hideFromRegularPurchase": false, 
+            "hideIfNoCurrency": false, 
+            "overlayChoice": "", 
+            "overlayCurrencyItemHash": 0, 
+            "overlayDescription": "", 
+            "overlayIcon": "/img/misc/missing_icon.png", 
+            "overlayTitle": "", 
+            "quantityAvailable": 0, 
+            "showUnavailableItems": false
         }
     ], 
     "failureStrings": [
@@ -171,13 +185,16 @@
         "", 
         "Defeat Crota in Crota's End", 
         "Defeat Crota in Crota's End (Heroic)", 
-        "Purchase from Variks", 
+        "Found in House of Judgment Packages", 
         "Purchase from Petra Venj", 
         "Defeat Skolas in the Prison of Elders", 
         "Vanguard Packages", 
         "Defeat Oryx in the King's Fall Raid (Heroic)", 
         "Sterling Treasure", 
-        "House of Judgment Packages"
+        "House of Judgment Packages", 
+        "Obtained from Sony Exclusive Quest.", 
+        "Obtained from Rise of Iron Record Book.", 
+        "Obtained from Wrath of the Machine Heroic Raid."
     ], 
     "hash": 2244880194, 
     "index": 0, 
@@ -186,7 +203,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -204,7 +221,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -222,7 +239,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 1, 
+            "categoryIndex": 6, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -240,7 +257,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 2, 
+            "categoryIndex": 3, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [], 
@@ -256,7 +273,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 3, 
+            "categoryIndex": 4, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -274,7 +291,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 3, 
+            "categoryIndex": 4, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -292,7 +309,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 3, 
+            "categoryIndex": 4, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -310,7 +327,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 3, 
+            "categoryIndex": 4, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -328,7 +345,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 3, 
+            "categoryIndex": 4, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -346,7 +363,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 3, 
+            "categoryIndex": 4, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -364,7 +381,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 3, 
+            "categoryIndex": 4, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [], 
@@ -380,7 +397,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 4, 
+            "categoryIndex": 2, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -398,7 +415,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 5, 
+            "categoryIndex": 1, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -448,7 +465,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 3, 
+            "categoryIndex": 4, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [], 
@@ -464,7 +481,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 3, 
+            "categoryIndex": 4, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [], 
@@ -480,7 +497,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 3, 
+            "categoryIndex": 4, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [], 
@@ -496,7 +513,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 3, 
+            "categoryIndex": 4, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [], 
@@ -512,7 +529,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 3, 
+            "categoryIndex": 4, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [], 
@@ -528,7 +545,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 7, 
+            "categoryIndex": 5, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -546,7 +563,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 7, 
+            "categoryIndex": 5, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -564,7 +581,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 1, 
+            "categoryIndex": 6, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -582,7 +599,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 1, 
+            "categoryIndex": 6, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -600,7 +617,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 1, 
+            "categoryIndex": 6, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -618,7 +635,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 1, 
+            "categoryIndex": 6, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -636,7 +653,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 1, 
+            "categoryIndex": 6, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -654,7 +671,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 1, 
+            "categoryIndex": 6, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -672,7 +689,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 1, 
+            "categoryIndex": 6, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -690,7 +707,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 1, 
+            "categoryIndex": 6, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -708,7 +725,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 4, 
+            "categoryIndex": 2, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -726,7 +743,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 4, 
+            "categoryIndex": 2, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -744,7 +761,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 4, 
+            "categoryIndex": 2, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -762,7 +779,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 4, 
+            "categoryIndex": 2, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -780,7 +797,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 4, 
+            "categoryIndex": 2, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -798,7 +815,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 4, 
+            "categoryIndex": 2, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -834,7 +851,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -852,7 +869,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -870,7 +887,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -888,7 +905,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -906,7 +923,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -924,7 +941,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -942,7 +959,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -960,7 +977,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -978,7 +995,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -996,7 +1013,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -1014,7 +1031,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -1032,7 +1049,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -1050,7 +1067,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -1068,7 +1085,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -1086,7 +1103,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -1104,7 +1121,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -1138,7 +1155,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 4, 
+            "categoryIndex": 2, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -1156,7 +1173,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 3, 
+            "categoryIndex": 4, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [], 
@@ -1172,7 +1189,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 3, 
+            "categoryIndex": 4, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [], 
@@ -1188,7 +1205,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 3, 
+            "categoryIndex": 4, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [], 
@@ -1204,7 +1221,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 3, 
+            "categoryIndex": 4, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [], 
@@ -1220,7 +1237,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 3, 
+            "categoryIndex": 4, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [], 
@@ -1236,7 +1253,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 3, 
+            "categoryIndex": 4, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [], 
@@ -1252,7 +1269,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 3, 
+            "categoryIndex": 4, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [], 
@@ -1268,7 +1285,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 3, 
+            "categoryIndex": 4, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [], 
@@ -1284,7 +1301,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 3, 
+            "categoryIndex": 4, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [], 
@@ -1300,7 +1317,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 3, 
+            "categoryIndex": 4, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [], 
@@ -1316,7 +1333,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 3, 
+            "categoryIndex": 4, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [], 
@@ -1332,7 +1349,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 3, 
+            "categoryIndex": 4, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [], 
@@ -1348,7 +1365,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 7, 
+            "categoryIndex": 5, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -1366,7 +1383,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 7, 
+            "categoryIndex": 5, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -1384,7 +1401,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 2, 
+            "categoryIndex": 3, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [], 
@@ -1400,7 +1417,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 2, 
+            "categoryIndex": 3, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [], 
@@ -1416,7 +1433,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 2, 
+            "categoryIndex": 3, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [], 
@@ -1432,7 +1449,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 2, 
+            "categoryIndex": 3, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [], 
@@ -1448,7 +1465,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 2, 
+            "categoryIndex": 3, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [], 
@@ -1464,7 +1481,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 2, 
+            "categoryIndex": 3, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [], 
@@ -1480,7 +1497,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 2, 
+            "categoryIndex": 3, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [], 
@@ -1496,7 +1513,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 2, 
+            "categoryIndex": 3, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [], 
@@ -1512,7 +1529,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 2, 
+            "categoryIndex": 3, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [], 
@@ -1528,7 +1545,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 2, 
+            "categoryIndex": 3, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [], 
@@ -1544,7 +1561,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 2, 
+            "categoryIndex": 3, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [], 
@@ -1560,7 +1577,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 9, 
+            "categoryIndex": 0, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [], 
@@ -1656,7 +1673,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -1674,7 +1691,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -1692,7 +1709,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -1710,7 +1727,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -1728,7 +1745,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -1746,7 +1763,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -1764,7 +1781,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -1782,7 +1799,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -1800,7 +1817,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -1818,7 +1835,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -1836,7 +1853,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -1854,7 +1871,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -1872,7 +1889,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -1890,7 +1907,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -1908,7 +1925,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -1926,7 +1943,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -1944,7 +1961,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -1962,7 +1979,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 0, 
+            "categoryIndex": 7, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -1980,7 +1997,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 4, 
+            "categoryIndex": 2, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -1998,7 +2015,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 5, 
+            "categoryIndex": 1, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -2016,7 +2033,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 5, 
+            "categoryIndex": 1, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -2034,7 +2051,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 5, 
+            "categoryIndex": 1, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -2052,7 +2069,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 5, 
+            "categoryIndex": 1, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -2070,7 +2087,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 5, 
+            "categoryIndex": 1, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -2088,7 +2105,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 5, 
+            "categoryIndex": 1, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -2106,7 +2123,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 6, 
+            "categoryIndex": 0, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -2124,7 +2141,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 7, 
+            "categoryIndex": 5, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -2178,7 +2195,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 6, 
+            "categoryIndex": 0, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -2196,7 +2213,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 6, 
+            "categoryIndex": 0, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -2214,7 +2231,7 @@
         {
             "bucketHash": 284967655, 
             "categoryHash": 0, 
-            "categoryIndex": 6, 
+            "categoryIndex": 0, 
             "currencies": [], 
             "currencyHash": 0, 
             "failureIndexes": [
@@ -2222,6 +2239,60 @@
             ], 
             "hasCurrency": false, 
             "itemHash": 446962958, 
+            "licenseUnlockHash": 0, 
+            "price": 0, 
+            "priceOverride": false, 
+            "quantityPurchased": 1, 
+            "refundLimit": 15, 
+            "refundPolicy": 0
+        }, 
+        {
+            "bucketHash": 284967655, 
+            "categoryHash": 0, 
+            "categoryIndex": 11, 
+            "currencies": [], 
+            "currencyHash": 0, 
+            "failureIndexes": [
+                21
+            ], 
+            "hasCurrency": false, 
+            "itemHash": 2615360546, 
+            "licenseUnlockHash": 0, 
+            "price": 0, 
+            "priceOverride": false, 
+            "quantityPurchased": 1, 
+            "refundLimit": 15, 
+            "refundPolicy": 0
+        }, 
+        {
+            "bucketHash": 284967655, 
+            "categoryHash": 0, 
+            "categoryIndex": 11, 
+            "currencies": [], 
+            "currencyHash": 0, 
+            "failureIndexes": [
+                22
+            ], 
+            "hasCurrency": false, 
+            "itemHash": 691757822, 
+            "licenseUnlockHash": 0, 
+            "price": 0, 
+            "priceOverride": false, 
+            "quantityPurchased": 1, 
+            "refundLimit": 15, 
+            "refundPolicy": 0
+        }, 
+        {
+            "bucketHash": 284967655, 
+            "categoryHash": 0, 
+            "categoryIndex": 5, 
+            "currencies": [], 
+            "currencyHash": 0, 
+            "failureIndexes": [
+                23
+            ], 
+            "hasCurrency": false, 
+            "itemHash": 3011919237, 
             "licenseUnlockHash": 0, 
             "price": 0, 
             "priceOverride": false, 
@@ -2255,7 +2326,7 @@
         ], 
         "vendorDescription": "Ships", 
         "vendorHash": 2244880194, 
-        "vendorIcon": "/common/destiny_content/icons/f2798a6aed28798d3ddb12c30b23a46c.png", 
+        "vendorIcon": "/common/destiny_content/icons/a41f6a7bbc4e0aaadcaee846f580d8b0.png", 
         "vendorIdentifier": "VENDOR_KIOSK_SHIPS", 
         "vendorName": "Ship Collection", 
         "vendorOrder": 31, 

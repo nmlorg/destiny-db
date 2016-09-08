@@ -14,16 +14,17 @@
             }
         ], 
         "customDyeExpression": {
-            "steps": []
+            "steps": [
+                {
+                    "flagHash": 1680320212, 
+                    "stepOperator": 1, 
+                    "value": 2310, 
+                    "valueHash": 0
+                }
+            ]
         }, 
         "customDyes": [], 
-        "defaultDyes": [], 
-        "gearArtArrangementIndex": 3208, 
-        "lockedDyes": [
-            {
-                "channelHash": 662199250, 
-                "dyeHash": 1886585319
-            }, 
+        "defaultDyes": [
             {
                 "channelHash": 1367384683, 
                 "dyeHash": 298995658
@@ -31,6 +32,13 @@
             {
                 "channelHash": 218592586, 
                 "dyeHash": 4042269121
+            }
+        ], 
+        "gearArtArrangementIndex": 3208, 
+        "lockedDyes": [
+            {
+                "channelHash": 662199250, 
+                "dyeHash": 1886585319
             }
         ], 
         "weaponPatternHash": 0, 
@@ -41,7 +49,7 @@
     "hasGeometry": true, 
     "hasIcon": true, 
     "hash": 1658688592, 
-    "icon": "/common/destiny_content/icons/e079be143b43a5dfd07830d3277fd93f.jpg", 
+    "icon": "/common/destiny_content/icons/3fbdda470deb7a9fab0ce8f071e9e899.jpg", 
     "index": 0, 
     "instanced": true, 
     "itemCategoryHashes": [
@@ -82,15 +90,15 @@
             "computedStats": {
                 "144602215": {
                     "maximum": 35, 
-                    "minimum": 20, 
+                    "minimum": 19, 
                     "statHash": 144602215, 
-                    "value": 20
+                    "value": 19
                 }, 
                 "1735777505": {
                     "maximum": 35, 
-                    "minimum": 20, 
+                    "minimum": 19, 
                     "statHash": 1735777505, 
-                    "value": 20
+                    "value": 19
                 }, 
                 "2391494160": {
                     "maximum": 26, 
@@ -106,9 +114,9 @@
                 }, 
                 "4244567218": {
                     "maximum": 35, 
-                    "minimum": 20, 
+                    "minimum": 19, 
                     "statHash": 4244567218, 
-                    "value": 20
+                    "value": 19
                 }
             }, 
             "exclusivity": 0, 
@@ -148,15 +156,15 @@
     "stats": {
         "144602215": {
             "maximum": 35, 
-            "minimum": 20, 
+            "minimum": 19, 
             "statHash": 144602215, 
-            "value": 20
+            "value": 19
         }, 
         "1735777505": {
             "maximum": 35, 
-            "minimum": 20, 
+            "minimum": 19, 
             "statHash": 1735777505, 
-            "value": 20
+            "value": 19
         }, 
         "2391494160": {
             "maximum": 26, 
@@ -172,9 +180,9 @@
         }, 
         "4244567218": {
             "maximum": 35, 
-            "minimum": 20, 
+            "minimum": 19, 
             "statHash": 4244567218, 
-            "value": 20
+            "value": 19
         }
     }, 
     "talentGridHash": 2612056148, 

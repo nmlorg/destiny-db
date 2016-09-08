@@ -1,171 +1,36 @@
 {
-    "actionName": "Dismantle", 
-    "allowActions": true, 
+    "allowActions": false, 
     "bountyResetUnlockHash": 0, 
-    "bucketTypeHash": 3551918588, 
-    "classType": 1, 
-    "deleteOnAction": true, 
-    "equippable": true, 
-    "equippingBlock": {
-        "arrangements": [
-            {
-                "classHash": 0, 
-                "gearArtArrangementIndex": 2732
-            }
-        ], 
-        "customDyeExpression": {
-            "steps": [
-                {
-                    "flagHash": 1680320212, 
-                    "stepOperator": 1, 
-                    "value": 2313, 
-                    "valueHash": 0
-                }
-            ]
-        }, 
-        "customDyes": [], 
-        "defaultDyes": [
-            {
-                "channelHash": 1367384683, 
-                "dyeHash": 1584885744
-            }, 
-            {
-                "channelHash": 218592586, 
-                "dyeHash": 2388666863
-            }, 
-            {
-                "channelHash": 662199250, 
-                "dyeHash": 2322694577
-            }
-        ], 
-        "gearArtArrangementIndex": 2732, 
-        "lockedDyes": [], 
-        "weaponPatternHash": 0, 
-        "weaponSandboxPatternIndex": -1
-    }, 
+    "bucketTypeHash": 0, 
+    "classType": 0, 
+    "deleteOnAction": false, 
+    "equippable": false, 
     "exclusive": 0, 
-    "hasAction": true, 
-    "hasGeometry": true, 
-    "hasIcon": true, 
+    "hasAction": false, 
+    "hasGeometry": false, 
+    "hasIcon": false, 
     "hash": 2217280774, 
-    "icon": "/common/destiny_content/icons/08039f5a8224bdefa0dae928266d7e9d.jpg", 
     "index": 0, 
-    "instanced": true, 
-    "itemCategoryHashes": [
-        23, 
-        46, 
-        20
-    ], 
-    "itemDescription": "\"No supplies. Armor in tatters. But the refugees had asked for help. And she had given her word.\" \u2014Tale of the Six Coyotes", 
+    "instanced": false, 
+    "itemDescription": "Obtain this Quest in Destiny to learn more.", 
     "itemHash": 2217280774, 
     "itemIndex": 0, 
-    "itemLevels": [
-        0
-    ], 
-    "itemName": "Shinobu's Vow", 
+    "itemName": "Classified", 
     "itemSubType": 0, 
-    "itemType": 2, 
-    "itemTypeName": "Gauntlets", 
-    "maxStackSize": 1, 
+    "itemType": 0, 
+    "maxStackSize": 0, 
     "needsFullCompletion": false, 
     "nonTransferrable": false, 
-    "objectiveHashes": [], 
-    "perkHashes": [], 
-    "primaryBaseStatHash": 3897883278, 
+    "primaryBaseStatHash": 0, 
     "qualityLevel": 0, 
     "questTrackingUnlockValueHash": 0, 
     "questlineItemHash": 0, 
     "redacted": false, 
     "rewardItemHash": 0, 
-    "secondaryIcon": "/img/misc/missing_icon.png", 
-    "setItemHashes": [], 
     "showActiveNodesInTooltip": false, 
-    "sourceHashes": [], 
-    "sources": [
-        {
-            "computedStats": {
-                "144602215": {
-                    "maximum": 47, 
-                    "minimum": 28, 
-                    "statHash": 144602215, 
-                    "value": 28
-                }, 
-                "1735777505": {
-                    "maximum": 75, 
-                    "minimum": 28, 
-                    "statHash": 1735777505, 
-                    "value": 28
-                }, 
-                "2391494160": {
-                    "maximum": 28, 
-                    "minimum": 28, 
-                    "statHash": 2391494160, 
-                    "value": 28
-                }, 
-                "3897883278": {
-                    "maximum": 280, 
-                    "minimum": 280, 
-                    "statHash": 3897883278, 
-                    "value": 280
-                }, 
-                "4244567218": {
-                    "maximum": 47, 
-                    "minimum": 28, 
-                    "statHash": 4244567218, 
-                    "value": 28
-                }
-            }, 
-            "exclusivity": 0, 
-            "expansionIndex": 0, 
-            "level": 48, 
-            "maxLevelRequired": 40, 
-            "maxQuality": 0, 
-            "minLevelRequired": 40, 
-            "minQuality": 0, 
-            "sourceHashes": [], 
-            "spawnIndexes": [
-                0
-            ]
-        }
-    ], 
     "specialItemType": 0, 
-    "statGroupHash": 548191128, 
-    "stats": {
-        "144602215": {
-            "maximum": 47, 
-            "minimum": 28, 
-            "statHash": 144602215, 
-            "value": 28
-        }, 
-        "1735777505": {
-            "maximum": 75, 
-            "minimum": 28, 
-            "statHash": 1735777505, 
-            "value": 28
-        }, 
-        "2391494160": {
-            "maximum": 28, 
-            "minimum": 28, 
-            "statHash": 2391494160, 
-            "value": 28
-        }, 
-        "3897883278": {
-            "maximum": 280, 
-            "minimum": 280, 
-            "statHash": 3897883278, 
-            "value": 280
-        }, 
-        "4244567218": {
-            "maximum": 47, 
-            "minimum": 28, 
-            "statHash": 4244567218, 
-            "value": 28
-        }
-    }, 
-    "talentGridHash": 1627769453, 
-    "tierType": 6, 
-    "tierTypeName": "Exotic", 
-    "tooltipStyle": "", 
-    "uniquenessHash": 517554803, 
-    "values": {}
+    "statGroupHash": 0, 
+    "talentGridHash": 0, 
+    "tierType": 0, 
+    "uniquenessHash": 0
 }

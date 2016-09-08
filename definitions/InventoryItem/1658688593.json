@@ -14,16 +14,17 @@
             }
         ], 
         "customDyeExpression": {
-            "steps": []
+            "steps": [
+                {
+                    "flagHash": 1680320212, 
+                    "stepOperator": 1, 
+                    "value": 2310, 
+                    "valueHash": 0
+                }
+            ]
         }, 
         "customDyes": [], 
-        "defaultDyes": [], 
-        "gearArtArrangementIndex": 3207, 
-        "lockedDyes": [
-            {
-                "channelHash": 662199250, 
-                "dyeHash": 3753588550
-            }, 
+        "defaultDyes": [
             {
                 "channelHash": 1367384683, 
                 "dyeHash": 1785551399
@@ -31,6 +32,13 @@
             {
                 "channelHash": 218592586, 
                 "dyeHash": 4154397958
+            }
+        ], 
+        "gearArtArrangementIndex": 3207, 
+        "lockedDyes": [
+            {
+                "channelHash": 662199250, 
+                "dyeHash": 3753588550
             }
         ], 
         "weaponPatternHash": 0, 
@@ -41,7 +49,7 @@
     "hasGeometry": true, 
     "hasIcon": true, 
     "hash": 1658688593, 
-    "icon": "/common/destiny_content/icons/089026046c854e264d90479fd02daace.jpg", 
+    "icon": "/common/destiny_content/icons/8a4ad16a345a73e8de454fc79d66cf38.jpg", 
     "index": 0, 
     "instanced": true, 
     "itemCategoryHashes": [
@@ -81,13 +89,13 @@
         {
             "computedStats": {
                 "144602215": {
-                    "maximum": 34, 
+                    "maximum": 32, 
                     "minimum": 18, 
                     "statHash": 144602215, 
                     "value": 18
                 }, 
                 "1735777505": {
-                    "maximum": 34, 
+                    "maximum": 32, 
                     "minimum": 18, 
                     "statHash": 1735777505, 
                     "value": 18
@@ -105,7 +113,7 @@
                     "value": 300
                 }, 
                 "4244567218": {
-                    "maximum": 34, 
+                    "maximum": 32, 
                     "minimum": 18, 
                     "statHash": 4244567218, 
                     "value": 18
@@ -151,13 +159,13 @@
     "statGroupHash": 3128068143, 
     "stats": {
         "144602215": {
-            "maximum": 34, 
+            "maximum": 32, 
             "minimum": 18, 
             "statHash": 144602215, 
             "value": 18
         }, 
         "1735777505": {
-            "maximum": 34, 
+            "maximum": 32, 
             "minimum": 18, 
             "statHash": 1735777505, 
             "value": 18
@@ -175,7 +183,7 @@
             "value": 300
         }, 
         "4244567218": {
-            "maximum": 34, 
+            "maximum": 32, 
             "minimum": 18, 
             "statHash": 4244567218, 
             "value": 18

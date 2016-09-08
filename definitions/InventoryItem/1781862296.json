@@ -14,10 +14,21 @@
             }
         ], 
         "customDyeExpression": {
-            "steps": []
+            "steps": [
+                {
+                    "flagHash": 1680320212, 
+                    "stepOperator": 1, 
+                    "value": 2310, 
+                    "valueHash": 0
+                }
+            ]
         }, 
         "customDyes": [], 
         "defaultDyes": [
+            {
+                "channelHash": 1367384683, 
+                "dyeHash": 415997002
+            }, 
             {
                 "channelHash": 218592586, 
                 "dyeHash": 2150855489
@@ -28,12 +39,7 @@
             }
         ], 
         "gearArtArrangementIndex": 3040, 
-        "lockedDyes": [
-            {
-                "channelHash": 1367384683, 
-                "dyeHash": 415997002
-            }
-        ], 
+        "lockedDyes": [], 
         "weaponPatternHash": 0, 
         "weaponSandboxPatternIndex": -1
     }, 
@@ -42,7 +48,7 @@
     "hasGeometry": true, 
     "hasIcon": true, 
     "hash": 1781862296, 
-    "icon": "/common/destiny_content/icons/3c695d65419c864a8f974f6adb786c40.jpg", 
+    "icon": "/common/destiny_content/icons/c49f3c43fbd8f0b4c059d268436fedbc.jpg", 
     "index": 0, 
     "instanced": true, 
     "itemCategoryHashes": [
@@ -75,14 +81,14 @@
     "setItemHashes": [], 
     "showActiveNodesInTooltip": false, 
     "sourceHashes": [
+        36493462, 
+        3739898362, 
+        460228854, 
         1882189853, 
         478645002, 
         344892955, 
-        36493462, 
         2644169369, 
-        3870113141, 
-        3739898362, 
-        460228854
+        3870113141
     ], 
     "sources": [
         {
@@ -126,67 +132,62 @@
             "minLevelRequired": 40, 
             "minQuality": 0, 
             "sourceHashes": [
-                1882189853, 
-                478645002, 
-                344892955, 
                 36493462, 
-                2644169369, 
-                3870113141, 
                 3739898362, 
                 460228854
             ], 
             "spawnIndexes": [
-                21, 
-                22, 
-                23, 
-                24, 
-                25, 
-                26, 
-                27, 
-                28, 
-                29, 
-                30, 
-                31, 
-                32, 
-                33, 
-                34, 
-                35, 
-                36, 
-                37, 
-                38, 
-                39, 
-                40, 
-                41
+                126, 
+                127, 
+                128, 
+                129, 
+                130, 
+                131, 
+                132, 
+                133, 
+                134, 
+                135, 
+                136, 
+                137, 
+                138, 
+                139, 
+                140, 
+                141, 
+                142, 
+                143, 
+                144, 
+                145, 
+                146
             ]
         }, 
         {
             "computedStats": {
                 "144602215": {
-                    "maximum": 33, 
+                    "maximum": 50, 
                     "minimum": 12, 
                     "statHash": 144602215, 
                     "value": 12
                 }, 
                 "1735777505": {
-                    "maximum": 33, 
+                    "maximum": 50, 
                     "minimum": 12, 
                     "statHash": 1735777505, 
                     "value": 12
                 }, 
                 "2391494160": {
-                    "maximum": 18, 
+                    "maximum": 26, 
                     "minimum": 16, 
                     "statHash": 2391494160, 
                     "value": 16
                 }, 
                 "3897883278": {
-                    "maximum": 230, 
+                    "maximum": 335, 
                     "minimum": 210, 
                     "statHash": 3897883278, 
                     "value": 210
                 }, 
                 "4244567218": {
-                    "maximum": 33, 
+                    "maximum": 50, 
                     "minimum": 12, 
                     "statHash": 4244567218, 
                     "value": 12
@@ -196,7 +197,7 @@
             "expansionIndex": 0, 
             "level": 41, 
             "maxLevelRequired": 36, 
-            "maxQuality": 20, 
+            "maxQuality": 125, 
             "minLevelRequired": 36, 
             "minQuality": 0, 
             "sourceHashes": [
@@ -230,7 +231,112 @@
                 17, 
                 18, 
                 19, 
-                20
+                20, 
+                21, 
+                22, 
+                23, 
+                24, 
+                25, 
+                26, 
+                27, 
+                28, 
+                29, 
+                30, 
+                31, 
+                32, 
+                33, 
+                34, 
+                35, 
+                36, 
+                37, 
+                38, 
+                39, 
+                40, 
+                41, 
+                42, 
+                43, 
+                44, 
+                45, 
+                46, 
+                47, 
+                48, 
+                49, 
+                50, 
+                51, 
+                52, 
+                53, 
+                54, 
+                55, 
+                56, 
+                57, 
+                58, 
+                59, 
+                60, 
+                61, 
+                62, 
+                63, 
+                64, 
+                65, 
+                66, 
+                67, 
+                68, 
+                69, 
+                70, 
+                71, 
+                72, 
+                73, 
+                74, 
+                75, 
+                76, 
+                77, 
+                78, 
+                79, 
+                80, 
+                81, 
+                82, 
+                83, 
+                84, 
+                85, 
+                86, 
+                87, 
+                88, 
+                89, 
+                90, 
+                91, 
+                92, 
+                93, 
+                94, 
+                95, 
+                96, 
+                97, 
+                98, 
+                99, 
+                100, 
+                101, 
+                102, 
+                103, 
+                104, 
+                105, 
+                106, 
+                107, 
+                108, 
+                109, 
+                110, 
+                111, 
+                112, 
+                113, 
+                114, 
+                115, 
+                116, 
+                117, 
+                118, 
+                119, 
+                120, 
+                121, 
+                122, 
+                123, 
+                124, 
+                125
             ]
         }
     ], 
@@ -256,7 +362,7 @@
             "value": 20
         }, 
         "3897883278": {
-            "maximum": 280, 
+            "maximum": 335, 
             "minimum": 210, 
             "statHash": 3897883278, 
             "value": 260
