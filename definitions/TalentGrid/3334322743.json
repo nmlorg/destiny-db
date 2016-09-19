@@ -1,0 +1,1166 @@
+{
+    "calcMaxGridLevel": 0, 
+    "calcProgressToMaxLevel": 0, 
+    "exclusiveSets": [
+        {
+            "nodeIndexes": [
+                0, 
+                3, 
+                4
+            ]
+        }, 
+        {
+            "nodeIndexes": [
+                1, 
+                10
+            ]
+        }, 
+        {
+            "nodeIndexes": [
+                2, 
+                6
+            ]
+        }, 
+        {
+            "nodeIndexes": [
+                5, 
+                11
+            ]
+        }
+    ], 
+    "gridHash": 3334322743, 
+    "gridLevelPerColumn": 0, 
+    "hash": 3334322743, 
+    "independentNodeIndexes": [
+        8, 
+        9
+    ], 
+    "index": 0, 
+    "maxGridLevel": 0, 
+    "nodes": [
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 1, 
+            "exlusiveWithNodes": [
+                3, 
+                4
+            ], 
+            "isRandom": false, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 0, 
+            "nodeIndex": 0, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 1, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 2, 
+                        "materialRequirementHashes": [
+                            1621628787, 
+                            1621628786, 
+                            1621628785, 
+                            1621628784
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/bf89d599bea44518d5f8e92557b6d035.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Predictable and controllable recoil.\nPenalty to Velocity.", 
+                    "nodeStepHash": 1467131454, 
+                    "nodeStepName": "Smart Drift Control", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [
+                        2523465841, 
+                        2715839340, 
+                        155624089
+                    ], 
+                    "stepGroups": {
+                        "damageTypes": 0, 
+                        "guardianAttributes": 0, 
+                        "impactEffects": 0, 
+                        "lightAbilities": 0, 
+                        "weaponPerformance": 32
+                    }, 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 4, 
+            "exlusiveWithNodes": [
+                10
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 1, 
+            "nodeIndex": 1, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 0, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 7, 
+                        "materialRequirementHashes": [
+                            1621628787, 
+                            1621628786, 
+                            1621628785, 
+                            1621628784
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/de73b83276a28516621ededc5c9e1ee2.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Rockets from this weapon will detonate early based on proximity to targets.", 
+                    "nodeStepHash": 1628173634, 
+                    "nodeStepName": "Grenades and Horseshoes", 
+                    "perkHashes": [
+                        2425591494
+                    ], 
+                    "startProgressionBarAtProgress": 4926, 
+                    "statHashes": [], 
+                    "stepGroups": {
+                        "damageTypes": 0, 
+                        "guardianAttributes": 0, 
+                        "impactEffects": 0, 
+                        "lightAbilities": 0, 
+                        "weaponPerformance": 1024
+                    }, 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 7, 
+                        "materialRequirementHashes": [
+                            1621628787, 
+                            1621628786, 
+                            1621628785, 
+                            1621628784
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/6670bb5a26b2e688cafa20d6ca6b2bc8.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Shells fired from this weapon track their targets", 
+                    "nodeStepHash": 4031916258, 
+                    "nodeStepName": "Tracking", 
+                    "perkHashes": [
+                        2179933840
+                    ], 
+                    "startProgressionBarAtProgress": 4926, 
+                    "statHashes": [], 
+                    "stepGroups": {
+                        "damageTypes": 0, 
+                        "guardianAttributes": 0, 
+                        "impactEffects": 0, 
+                        "lightAbilities": 0, 
+                        "weaponPerformance": 1024
+                    }, 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 3, 
+            "exlusiveWithNodes": [
+                6
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 2, 
+            "nodeIndex": 2, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 1, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 6, 
+                        "materialRequirementHashes": [
+                            1621628787, 
+                            1621628786, 
+                            1621628785, 
+                            1621628784
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/04bf92a5bdc3ba10b6024e140a97e001.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Reload this weapon quickly.", 
+                    "nodeStepHash": 3069944219, 
+                    "nodeStepName": "Speed Reload", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 4926, 
+                    "statHashes": [
+                        4188031367
+                    ], 
+                    "stepGroups": {
+                        "damageTypes": 0, 
+                        "guardianAttributes": 0, 
+                        "impactEffects": 0, 
+                        "lightAbilities": 0, 
+                        "weaponPerformance": 128
+                    }, 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 6, 
+                        "materialRequirementHashes": [
+                            1621628787, 
+                            1621628786, 
+                            1621628785, 
+                            1621628784
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/f3afadf92601e061c346d818be9d9e9f.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Reload this weapon even faster.", 
+                    "nodeStepHash": 1008399900, 
+                    "nodeStepName": "Flared Magwell", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 4926, 
+                    "statHashes": [
+                        4188031367
+                    ], 
+                    "stepGroups": {
+                        "damageTypes": 0, 
+                        "guardianAttributes": 0, 
+                        "impactEffects": 0, 
+                        "lightAbilities": 0, 
+                        "weaponPerformance": 128
+                    }, 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 1, 
+            "exlusiveWithNodes": [
+                0, 
+                4
+            ], 
+            "isRandom": false, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 3, 
+            "nodeIndex": 3, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 0, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": [
+                            1621628787, 
+                            1621628786, 
+                            1621628785, 
+                            1621628784
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/bf89d599bea44518d5f8e92557b6d035.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "More predictable recoil. \nEnhanced Blast Radius. \nReduced Velocity and more recoil.", 
+                    "nodeStepHash": 4245049540, 
+                    "nodeStepName": "Aggressive Launch", 
+                    "perkHashes": [
+                        3097446979
+                    ], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [
+                        2523465841, 
+                        3614673599, 
+                        2715839340, 
+                        155624089, 
+                        1345609583
+                    ], 
+                    "stepGroups": {
+                        "damageTypes": 0, 
+                        "guardianAttributes": 0, 
+                        "impactEffects": 0, 
+                        "lightAbilities": 0, 
+                        "weaponPerformance": 1060
+                    }, 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 1, 
+            "exlusiveWithNodes": [
+                0, 
+                3
+            ], 
+            "isRandom": false, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 4, 
+            "nodeIndex": 4, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 2, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 3, 
+                        "materialRequirementHashes": [
+                            1621628787, 
+                            1621628786, 
+                            1621628785, 
+                            1621628784
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/bf89d599bea44518d5f8e92557b6d035.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "More Velocity and Blast Radius. \nIncreased recoil.", 
+                    "nodeStepHash": 2442551015, 
+                    "nodeStepName": "Hard Launch", 
+                    "perkHashes": [
+                        2868044506
+                    ], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [
+                        2523465841, 
+                        3614673599, 
+                        155624089, 
+                        1345609583
+                    ], 
+                    "stepGroups": {
+                        "damageTypes": 0, 
+                        "guardianAttributes": 0, 
+                        "impactEffects": 0, 
+                        "lightAbilities": 0, 
+                        "weaponPerformance": 1060
+                    }, 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 2, 
+            "exlusiveWithNodes": [
+                11
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 5, 
+            "nodeIndex": 5, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 0, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 3, 
+                        "materialRequirementHashes": [
+                            1621628787, 
+                            1621628786, 
+                            1621628785, 
+                            1621628784
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/bf89d599bea44518d5f8e92557b6d035.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Increases warhead velocity.", 
+                    "nodeStepHash": 91312734, 
+                    "nodeStepName": "Javelin", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [
+                        2523465841
+                    ], 
+                    "stepGroups": {
+                        "damageTypes": 0, 
+                        "guardianAttributes": 0, 
+                        "impactEffects": 0, 
+                        "lightAbilities": 0, 
+                        "weaponPerformance": 0
+                    }, 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 3, 
+                        "materialRequirementHashes": [
+                            1621628787, 
+                            1621628786, 
+                            1621628785, 
+                            1621628784
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/7df00f3b09d8318044e2914c0f77b356.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Increases warhead blast radius.", 
+                    "nodeStepHash": 1042168368, 
+                    "nodeStepName": "Heavy Payload", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [
+                        3614673599
+                    ], 
+                    "stepGroups": {
+                        "damageTypes": 0, 
+                        "guardianAttributes": 0, 
+                        "impactEffects": 0, 
+                        "lightAbilities": 0, 
+                        "weaponPerformance": 1024
+                    }, 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 3, 
+            "exlusiveWithNodes": [
+                2
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 6, 
+            "nodeIndex": 6, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 0, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 5, 
+                        "materialRequirementHashes": [
+                            1621628787, 
+                            1621628786, 
+                            1621628785, 
+                            1621628784
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/cebc89a61119e54a71a2a6b79de2fe33.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Switch weapons faster. Move quicker while aiming.", 
+                    "nodeStepHash": 2746971172, 
+                    "nodeStepName": "Single Point Sling", 
+                    "perkHashes": [
+                        1543923140
+                    ], 
+                    "startProgressionBarAtProgress": 2356, 
+                    "statHashes": [], 
+                    "stepGroups": {
+                        "damageTypes": 0, 
+                        "guardianAttributes": 0, 
+                        "impactEffects": 0, 
+                        "lightAbilities": 0, 
+                        "weaponPerformance": 64
+                    }, 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 5, 
+                        "materialRequirementHashes": [
+                            1621628787, 
+                            1621628786, 
+                            1621628785, 
+                            1621628784
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/21b71d9f568ed79f217c369731d38142.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Aiming this weapon is incredibly fast.", 
+                    "nodeStepHash": 2479685401, 
+                    "nodeStepName": "Snapshot", 
+                    "perkHashes": [
+                        1563623317
+                    ], 
+                    "startProgressionBarAtProgress": 2356, 
+                    "statHashes": [], 
+                    "stepGroups": {
+                        "damageTypes": 0, 
+                        "guardianAttributes": 0, 
+                        "impactEffects": 0, 
+                        "lightAbilities": 0, 
+                        "weaponPerformance": 64
+                    }, 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 5, 
+                        "materialRequirementHashes": [
+                            1621628787, 
+                            1621628786, 
+                            1621628785, 
+                            1621628784
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/8385c6f2b5e2a6932dd062a2aa361c58.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "This weapon can be drawn unbelievably fast.", 
+                    "nodeStepHash": 3409718360, 
+                    "nodeStepName": "Quickdraw", 
+                    "perkHashes": [
+                        1318606268
+                    ], 
+                    "startProgressionBarAtProgress": 2356, 
+                    "statHashes": [], 
+                    "stepGroups": {
+                        "damageTypes": 0, 
+                        "guardianAttributes": 0, 
+                        "impactEffects": 0, 
+                        "lightAbilities": 0, 
+                        "weaponPerformance": 128
+                    }, 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 5, 
+                        "materialRequirementHashes": [
+                            1621628787, 
+                            1621628786, 
+                            1621628785, 
+                            1621628784
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/d9dc9b9813550d09417ac03f32d24f53.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "When held, this weapon grants +2 character Agility.", 
+                    "nodeStepHash": 1821665467, 
+                    "nodeStepName": "Lightweight", 
+                    "perkHashes": [
+                        890364775
+                    ], 
+                    "startProgressionBarAtProgress": 2356, 
+                    "statHashes": [], 
+                    "stepGroups": {
+                        "damageTypes": 0, 
+                        "guardianAttributes": 1, 
+                        "impactEffects": 0, 
+                        "lightAbilities": 0, 
+                        "weaponPerformance": 0
+                    }, 
+                    "stepIndex": 3, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 0, 
+            "exlusiveWithNodes": [], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 7, 
+            "nodeIndex": 7, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 0, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 4, 
+                    "damageTypeHash": 3454344768, 
+                    "icon": "/common/destiny_content/icons/f0e33489bb58e7f0095c5ee93b28e573.png", 
+                    "interactionDescription": "Reroll", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "This weapon causes Void Damage.", 
+                    "nodeStepHash": 472357138, 
+                    "nodeStepName": "Void Damage", 
+                    "perkHashes": [
+                        3614988247
+                    ], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepGroups": {
+                        "damageTypes": 8, 
+                        "guardianAttributes": 0, 
+                        "impactEffects": 0, 
+                        "lightAbilities": 0, 
+                        "weaponPerformance": 0
+                    }, 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 3, 
+                    "damageTypeHash": 1847026933, 
+                    "icon": "/common/destiny_content/icons/f0e33489bb58e7f0095c5ee93b28e573.png", 
+                    "interactionDescription": "Reroll", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "This weapon causes Void Damage.", 
+                    "nodeStepHash": 472357138, 
+                    "nodeStepName": "Void Damage", 
+                    "perkHashes": [
+                        233596484
+                    ], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepGroups": {
+                        "damageTypes": 4, 
+                        "guardianAttributes": 0, 
+                        "impactEffects": 0, 
+                        "lightAbilities": 0, 
+                        "weaponPerformance": 0
+                    }, 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 2, 
+                    "damageTypeHash": 2303181850, 
+                    "icon": "/common/destiny_content/icons/f0e33489bb58e7f0095c5ee93b28e573.png", 
+                    "interactionDescription": "Reroll", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "This weapon causes Void Damage.", 
+                    "nodeStepHash": 472357138, 
+                    "nodeStepName": "Void Damage", 
+                    "perkHashes": [
+                        839929915
+                    ], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepGroups": {
+                        "damageTypes": 2, 
+                        "guardianAttributes": 0, 
+                        "impactEffects": 0, 
+                        "lightAbilities": 0, 
+                        "weaponPerformance": 0
+                    }, 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 0, 
+            "exlusiveWithNodes": [], 
+            "isRandom": false, 
+            "isRandomRepurchasable": true, 
+            "lastStepRepeats": true, 
+            "nodeHash": 8, 
+            "nodeIndex": 8, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 1, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": [
+                            3046017903
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": true, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/cf677df448c82a86da82c8eef39de9e4.png", 
+                    "interactionDescription": "Choose Item", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": 0, 
+                    "nodeStepDescription": "Consume a more powerful Weapon to boost the Attack value of this Weapon.", 
+                    "nodeStepHash": 1270552711, 
+                    "nodeStepName": "Infuse", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 0, 
+            "exlusiveWithNodes": [], 
+            "isRandom": false, 
+            "isRandomRepurchasable": true, 
+            "lastStepRepeats": true, 
+            "nodeHash": 9, 
+            "nodeIndex": 9, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 2, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": [
+                            1548575961
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": true, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/92b1891f0301a3ace1333041083c245f.png", 
+                    "interactionDescription": "Twist", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": 0, 
+                    "nodeStepDescription": "", 
+                    "nodeStepHash": 0, 
+                    "nodeStepName": "", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 4, 
+            "exlusiveWithNodes": [
+                1
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 10, 
+            "nodeIndex": 10, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 1, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 8, 
+                        "materialRequirementHashes": [
+                            1621628787, 
+                            1621628786, 
+                            1621628785, 
+                            1621628784
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/327ad7f387fdd553f2c3b5cf1448c907.png", 
+                    "interactionDescription": "Reroll", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Rockets create cluster bombs when they detonate.", 
+                    "nodeStepHash": 2663189045, 
+                    "nodeStepName": "Cluster Bomb", 
+                    "perkHashes": [
+                        1928591453
+                    ], 
+                    "startProgressionBarAtProgress": 7496, 
+                    "statHashes": [], 
+                    "stepGroups": {
+                        "damageTypes": 0, 
+                        "guardianAttributes": 0, 
+                        "impactEffects": 8, 
+                        "lightAbilities": 0, 
+                        "weaponPerformance": 1026
+                    }, 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 8, 
+                        "materialRequirementHashes": [
+                            1621628787, 
+                            1621628786, 
+                            1621628785, 
+                            1621628784
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/1c51ffdb4b7231043a160256455da9cf.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Increases the reload speed of this weapon when its mag is empty.", 
+                    "nodeStepHash": 1738778771, 
+                    "nodeStepName": "Spray and Play", 
+                    "perkHashes": [
+                        192233393
+                    ], 
+                    "startProgressionBarAtProgress": 7496, 
+                    "statHashes": [], 
+                    "stepGroups": {
+                        "damageTypes": 0, 
+                        "guardianAttributes": 0, 
+                        "impactEffects": 0, 
+                        "lightAbilities": 0, 
+                        "weaponPerformance": 128
+                    }, 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 8, 
+                        "materialRequirementHashes": [
+                            1621628787, 
+                            1621628786, 
+                            1621628785, 
+                            1621628784
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/38acc82b0090af5414ea5bfe43e07dd8.png", 
+                    "interactionDescription": "Reroll", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Reloading this weapon has a chance to grant a larger than normal magazine.", 
+                    "nodeStepHash": 1393124125, 
+                    "nodeStepName": "Clown Cartridge", 
+                    "perkHashes": [
+                        3052118152
+                    ], 
+                    "startProgressionBarAtProgress": 7496, 
+                    "statHashes": [], 
+                    "stepGroups": {
+                        "damageTypes": 0, 
+                        "guardianAttributes": 0, 
+                        "impactEffects": 0, 
+                        "lightAbilities": 0, 
+                        "weaponPerformance": 512
+                    }, 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 8, 
+                        "materialRequirementHashes": [
+                            1621628787, 
+                            1621628786, 
+                            1621628785, 
+                            1621628784
+                        ]
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/08757dc5f3053c95e22a3c25f412a2ab.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "This launcher's tube can hold three shells.", 
+                    "nodeStepHash": 2998213953, 
+                    "nodeStepName": "Tripod", 
+                    "perkHashes": [
+                        2784842908
+                    ], 
+                    "startProgressionBarAtProgress": 7496, 
+                    "statHashes": [], 
+                    "stepGroups": {
+                        "damageTypes": 0, 
+                        "guardianAttributes": 0, 
+                        "impactEffects": 0, 
+                        "lightAbilities": 0, 
+                        "weaponPerformance": 512
+                    }, 
+                    "stepIndex": 3, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 2, 
+            "exlusiveWithNodes": [
+                5
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 11, 
+            "nodeIndex": 11, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 1, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 4, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/71367cea2b7c98ff9b58cc2e98878bfe.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "This weapon has extremely low recoil.", 
+                    "nodeStepHash": 1324739096, 
+                    "nodeStepName": "Perfect Balance", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 2356, 
+                    "statHashes": [
+                        155624089
+                    ], 
+                    "stepGroups": {
+                        "damageTypes": 0, 
+                        "guardianAttributes": 0, 
+                        "impactEffects": 0, 
+                        "lightAbilities": 0, 
+                        "weaponPerformance": 32
+                    }, 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 4, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/3cd4f14ef10082d2cb907ffa3e2dedc0.png", 
+                    "interactionDescription": "Upgrade", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Increases weapon stability.", 
+                    "nodeStepHash": 3355015915, 
+                    "nodeStepName": "Fitted Stock", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 2356, 
+                    "statHashes": [
+                        155624089
+                    ], 
+                    "stepGroups": {
+                        "damageTypes": 0, 
+                        "guardianAttributes": 0, 
+                        "impactEffects": 0, 
+                        "lightAbilities": 0, 
+                        "weaponPerformance": 32
+                    }, 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ]
+        }
+    ], 
+    "progressionHash": 1054627247, 
+    "redacted": false
+}
