@@ -1,36 +1,363 @@
 {
-    "allowActions": false, 
+    "actionName": "Dismantle", 
+    "allowActions": true, 
     "bountyResetUnlockHash": 0, 
-    "bucketTypeHash": 0, 
-    "classType": 0, 
-    "deleteOnAction": false, 
-    "equippable": false, 
+    "bucketTypeHash": 1498876634, 
+    "classType": 3, 
+    "damageTypes": [
+        1
+    ], 
+    "deleteOnAction": true, 
+    "equippable": true, 
+    "equippingBlock": {
+        "arrangements": [
+            {
+                "classHash": 0, 
+                "gearArtArrangementIndex": 4184
+            }
+        ], 
+        "customDyeExpression": {
+            "steps": []
+        }, 
+        "customDyes": [], 
+        "defaultDyes": [], 
+        "gearArtArrangementIndex": 4184, 
+        "lockedDyes": [
+            {
+                "channelHash": 1667433279, 
+                "dyeHash": 2919625765
+            }, 
+            {
+                "channelHash": 1667433278, 
+                "dyeHash": 414211934
+            }
+        ], 
+        "weaponPatternHash": 3742521821, 
+        "weaponSandboxPatternIndex": 145
+    }, 
     "exclusive": 0, 
-    "hasAction": false, 
-    "hasGeometry": false, 
-    "hasIcon": false, 
+    "hasAction": true, 
+    "hasGeometry": true, 
+    "hasIcon": true, 
     "hash": 3742521821, 
+    "icon": "/common/destiny_content/icons/750dad7914ada73f424b228793d2ff15.jpg", 
     "index": 0, 
-    "instanced": false, 
-    "itemDescription": "Obtain this Quest in Destiny to learn more.", 
+    "instanced": true, 
+    "itemCategoryHashes": [
+        1, 
+        2, 
+        7
+    ], 
+    "itemDescription": "\"I've done the math. When you pull this trigger, one plus one equals zero. Every time.\" \u2014Shiro-4", 
     "itemHash": 3742521821, 
     "itemIndex": 0, 
-    "itemName": "Classified", 
-    "itemSubType": 0, 
-    "itemType": 0, 
-    "maxStackSize": 0, 
+    "itemLevels": [
+        0
+    ], 
+    "itemName": "Outbreak Prime", 
+    "itemSubType": 13, 
+    "itemType": 3, 
+    "itemTypeName": "Pulse Rifle", 
+    "maxStackSize": 1, 
     "needsFullCompletion": false, 
     "nonTransferrable": false, 
-    "primaryBaseStatHash": 0, 
+    "objectiveHashes": [], 
+    "perkHashes": [
+        2089165293
+    ], 
+    "primaryBaseStatHash": 368428387, 
     "qualityLevel": 0, 
     "questTrackingUnlockValueHash": 0, 
     "questlineItemHash": 0, 
     "redacted": false, 
     "rewardItemHash": 0, 
+    "secondaryIcon": "/img/misc/missing_icon.png", 
+    "setItemHashes": [], 
     "showActiveNodesInTooltip": false, 
+    "sourceHashes": [
+        1920307024, 
+        24296771
+    ], 
+    "sources": [
+        {
+            "computedStats": {
+                "1240592695": {
+                    "maximum": 48, 
+                    "minimum": 30, 
+                    "statHash": 1240592695, 
+                    "value": 36
+                }, 
+                "1345609583": {
+                    "maximum": 71, 
+                    "minimum": 56, 
+                    "statHash": 1345609583, 
+                    "value": 66
+                }, 
+                "155624089": {
+                    "maximum": 63, 
+                    "minimum": 40, 
+                    "statHash": 155624089, 
+                    "value": 48
+                }, 
+                "1931675084": {
+                    "maximum": 60, 
+                    "minimum": 60, 
+                    "statHash": 1931675084, 
+                    "value": 60
+                }, 
+                "2391494160": {
+                    "maximum": 46, 
+                    "minimum": 46, 
+                    "statHash": 2391494160, 
+                    "value": 46
+                }, 
+                "2715839340": {
+                    "maximum": 80, 
+                    "minimum": 60, 
+                    "statHash": 2715839340, 
+                    "value": 60
+                }, 
+                "3555269338": {
+                    "maximum": 17, 
+                    "minimum": 17, 
+                    "statHash": 3555269338, 
+                    "value": 17
+                }, 
+                "368428387": {
+                    "maximum": 390, 
+                    "minimum": 390, 
+                    "statHash": 368428387, 
+                    "value": 390
+                }, 
+                "3871231066": {
+                    "maximum": 33, 
+                    "minimum": 33, 
+                    "statHash": 3871231066, 
+                    "value": 33
+                }, 
+                "4043523819": {
+                    "maximum": 9, 
+                    "minimum": 7, 
+                    "statHash": 4043523819, 
+                    "value": 7
+                }, 
+                "4188031367": {
+                    "maximum": 76, 
+                    "minimum": 76, 
+                    "statHash": 4188031367, 
+                    "value": 76
+                }, 
+                "4284893193": {
+                    "maximum": 73, 
+                    "minimum": 73, 
+                    "statHash": 4284893193, 
+                    "value": 73
+                }, 
+                "943549884": {
+                    "maximum": 60, 
+                    "minimum": 60, 
+                    "statHash": 943549884, 
+                    "value": 60
+                }
+            }, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 59, 
+            "maxLevelRequired": 40, 
+            "maxQuality": 0, 
+            "minLevelRequired": 40, 
+            "minQuality": 0, 
+            "sourceHashes": [
+                1920307024, 
+                24296771
+            ], 
+            "spawnIndexes": [
+                1
+            ]
+        }, 
+        {
+            "computedStats": {
+                "1240592695": {
+                    "maximum": 48, 
+                    "minimum": 30, 
+                    "statHash": 1240592695, 
+                    "value": 36
+                }, 
+                "1345609583": {
+                    "maximum": 71, 
+                    "minimum": 56, 
+                    "statHash": 1345609583, 
+                    "value": 66
+                }, 
+                "155624089": {
+                    "maximum": 63, 
+                    "minimum": 40, 
+                    "statHash": 155624089, 
+                    "value": 48
+                }, 
+                "1931675084": {
+                    "maximum": 60, 
+                    "minimum": 60, 
+                    "statHash": 1931675084, 
+                    "value": 60
+                }, 
+                "2391494160": {
+                    "maximum": 38, 
+                    "minimum": 38, 
+                    "statHash": 2391494160, 
+                    "value": 38
+                }, 
+                "2715839340": {
+                    "maximum": 80, 
+                    "minimum": 60, 
+                    "statHash": 2715839340, 
+                    "value": 60
+                }, 
+                "3555269338": {
+                    "maximum": 17, 
+                    "minimum": 17, 
+                    "statHash": 3555269338, 
+                    "value": 17
+                }, 
+                "368428387": {
+                    "maximum": 320, 
+                    "minimum": 320, 
+                    "statHash": 368428387, 
+                    "value": 320
+                }, 
+                "3871231066": {
+                    "maximum": 33, 
+                    "minimum": 33, 
+                    "statHash": 3871231066, 
+                    "value": 33
+                }, 
+                "4043523819": {
+                    "maximum": 9, 
+                    "minimum": 7, 
+                    "statHash": 4043523819, 
+                    "value": 7
+                }, 
+                "4188031367": {
+                    "maximum": 76, 
+                    "minimum": 76, 
+                    "statHash": 4188031367, 
+                    "value": 76
+                }, 
+                "4284893193": {
+                    "maximum": 73, 
+                    "minimum": 73, 
+                    "statHash": 4284893193, 
+                    "value": 73
+                }, 
+                "943549884": {
+                    "maximum": 60, 
+                    "minimum": 60, 
+                    "statHash": 943549884, 
+                    "value": 60
+                }
+            }, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 52, 
+            "maxLevelRequired": 40, 
+            "maxQuality": 0, 
+            "minLevelRequired": 40, 
+            "minQuality": 0, 
+            "sourceHashes": [
+                1920307024, 
+                24296771
+            ], 
+            "spawnIndexes": [
+                0
+            ]
+        }
+    ], 
     "specialItemType": 0, 
-    "statGroupHash": 0, 
-    "talentGridHash": 0, 
-    "tierType": 0, 
-    "uniquenessHash": 0
+    "statGroupHash": 1263777500, 
+    "stats": {
+        "1240592695": {
+            "maximum": 48, 
+            "minimum": 30, 
+            "statHash": 1240592695, 
+            "value": 36
+        }, 
+        "1345609583": {
+            "maximum": 71, 
+            "minimum": 56, 
+            "statHash": 1345609583, 
+            "value": 66
+        }, 
+        "155624089": {
+            "maximum": 63, 
+            "minimum": 40, 
+            "statHash": 155624089, 
+            "value": 48
+        }, 
+        "1931675084": {
+            "maximum": 60, 
+            "minimum": 60, 
+            "statHash": 1931675084, 
+            "value": 60
+        }, 
+        "2391494160": {
+            "maximum": 46, 
+            "minimum": 46, 
+            "statHash": 2391494160, 
+            "value": 46
+        }, 
+        "2715839340": {
+            "maximum": 80, 
+            "minimum": 60, 
+            "statHash": 2715839340, 
+            "value": 60
+        }, 
+        "3555269338": {
+            "maximum": 17, 
+            "minimum": 17, 
+            "statHash": 3555269338, 
+            "value": 17
+        }, 
+        "368428387": {
+            "maximum": 390, 
+            "minimum": 320, 
+            "statHash": 368428387, 
+            "value": 390
+        }, 
+        "3871231066": {
+            "maximum": 33, 
+            "minimum": 33, 
+            "statHash": 3871231066, 
+            "value": 33
+        }, 
+        "4043523819": {
+            "maximum": 9, 
+            "minimum": 7, 
+            "statHash": 4043523819, 
+            "value": 7
+        }, 
+        "4188031367": {
+            "maximum": 76, 
+            "minimum": 76, 
+            "statHash": 4188031367, 
+            "value": 76
+        }, 
+        "4284893193": {
+            "maximum": 73, 
+            "minimum": 73, 
+            "statHash": 4284893193, 
+            "value": 73
+        }, 
+        "943549884": {
+            "maximum": 60, 
+            "minimum": 60, 
+            "statHash": 943549884, 
+            "value": 60
+        }
+    }, 
+    "talentGridHash": 3742521821, 
+    "tierType": 6, 
+    "tierTypeName": "Exotic", 
+    "tooltipStyle": "", 
+    "uniquenessHash": 3671135542, 
+    "values": {}
 }
