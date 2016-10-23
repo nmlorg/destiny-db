@@ -10,14 +10,17 @@
     ], 
     "index": 0, 
     "maxGridLevel": 0, 
+    "maximumRandomMaterialRequirements": 0, 
     "nodes": [
         {
             "autoUnlocks": false, 
             "binaryPairNodeIndex": -1, 
             "column": 1, 
+            "exclusiveSetHash": 0, 
             "exlusiveWithNodes": [], 
             "isRandom": true, 
             "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
             "lastStepRepeats": false, 
             "nodeHash": 0, 
             "nodeIndex": 0, 
@@ -44,7 +47,7 @@
                     "canActivateNextStep": false, 
                     "damageType": 0, 
                     "damageTypeHash": 0, 
-                    "icon": "/common/destiny_content/icons/89c72e697e6e13ab89dc55d2d4218de2.png", 
+                    "icon": "/common/destiny_content/icons/bc2d4750c4d0a3e53906abdb723f5e57.png", 
                     "interactionDescription": "Upgrade", 
                     "isNextStepRandom": true, 
                     "nextStepIndex": -1, 
@@ -60,7 +63,8 @@
                     "truePropertyIndex": 0, 
                     "trueStepIndex": 0
                 }
-            ]
+            ], 
+            "talentNodeTypes": 0
         }
     ], 
     "progressionHash": 262790308, 

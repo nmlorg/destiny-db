@@ -1,11 +1,3494 @@
 {
     "calcMaxGridLevel": 0, 
     "calcProgressToMaxLevel": 0, 
+    "exclusiveSets": [
+        {
+            "nodeIndexes": [
+                2, 
+                3, 
+                4, 
+                5, 
+                6
+            ]
+        }, 
+        {
+            "nodeIndexes": [
+                7, 
+                8, 
+                9, 
+                10, 
+                11
+            ]
+        }, 
+        {
+            "nodeIndexes": [
+                12, 
+                13, 
+                14, 
+                15, 
+                16
+            ]
+        }, 
+        {
+            "nodeIndexes": [
+                17, 
+                18, 
+                19, 
+                20, 
+                21
+            ]
+        }, 
+        {
+            "nodeIndexes": [
+                22, 
+                23, 
+                24, 
+                25, 
+                26
+            ]
+        }
+    ], 
     "gridHash": 2881577153, 
     "gridLevelPerColumn": 0, 
     "hash": 2881577153, 
+    "independentNodeIndexes": [
+        0, 
+        1, 
+        27
+    ], 
     "index": 0, 
     "maxGridLevel": 0, 
+    "maximumRandomMaterialRequirements": 0, 
+    "nodes": [
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 1, 
+            "exclusiveSetHash": 0, 
+            "exlusiveWithNodes": [], 
+            "isRandom": false, 
+            "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 0, 
+            "nodeIndex": 0, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 0, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "870->", 
+                    "nodeStepHash": 3925890469, 
+                    "nodeStepName": "Influx Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ], 
+            "talentNodeTypes": 0
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 1, 
+            "exclusiveSetHash": 0, 
+            "exlusiveWithNodes": [], 
+            "isRandom": false, 
+            "isRandomRepurchasable": true, 
+            "isRealStepSelectionRandom": false, 
+            "lastStepRepeats": true, 
+            "nodeHash": 1, 
+            "nodeIndex": 1, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 1, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": true, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/47b943895c074ab6d79c0b83c8168bfb.png", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": 0, 
+                    "nodeStepDescription": "Reset protocol.\nInitiates reconfiguration of charge tolerances across capacitor/resistor types.", 
+                    "nodeStepHash": 401163210, 
+                    "nodeStepName": "RANDOMIZER", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ], 
+            "talentNodeTypes": 0
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 2, 
+            "exclusiveSetHash": 0, 
+            "exlusiveWithNodes": [
+                3, 
+                4, 
+                5, 
+                6
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 2, 
+            "nodeIndex": 2, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 0, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "640", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "650", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "660", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "680", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 3, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "690", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 4, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ], 
+            "talentNodeTypes": 0
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 2, 
+            "exclusiveSetHash": 0, 
+            "exlusiveWithNodes": [
+                2, 
+                4, 
+                5, 
+                6
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 3, 
+            "nodeIndex": 3, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 1, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "530", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "550", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "560", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "580", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 3, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "590", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 4, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ], 
+            "talentNodeTypes": 0
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 2, 
+            "exclusiveSetHash": 0, 
+            "exlusiveWithNodes": [
+                2, 
+                3, 
+                5, 
+                6
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 4, 
+            "nodeIndex": 4, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 2, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "410", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "420", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "430", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "450", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 3, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "470", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 4, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ], 
+            "talentNodeTypes": 0
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 2, 
+            "exclusiveSetHash": 0, 
+            "exlusiveWithNodes": [
+                2, 
+                3, 
+                4, 
+                6
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 5, 
+            "nodeIndex": 5, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 3, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "640", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "650", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "670", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "680", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 3, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "700", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 4, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ], 
+            "talentNodeTypes": 0
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 2, 
+            "exclusiveSetHash": 0, 
+            "exlusiveWithNodes": [
+                2, 
+                3, 
+                4, 
+                5
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 6, 
+            "nodeIndex": 6, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 4, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "520", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "500", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "480", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "470", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 3, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "450", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 4, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ], 
+            "talentNodeTypes": 0
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 3, 
+            "exclusiveSetHash": 0, 
+            "exlusiveWithNodes": [
+                8, 
+                9, 
+                10, 
+                11
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 7, 
+            "nodeIndex": 7, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 0, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "370", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "380", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "390", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "400", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 3, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "410", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 4, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ], 
+            "talentNodeTypes": 0
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 3, 
+            "exclusiveSetHash": 0, 
+            "exlusiveWithNodes": [
+                7, 
+                9, 
+                10, 
+                11
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 8, 
+            "nodeIndex": 8, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 1, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "320", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "330", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "340", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "350", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 3, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "360", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 4, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ], 
+            "talentNodeTypes": 0
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 3, 
+            "exclusiveSetHash": 0, 
+            "exlusiveWithNodes": [
+                7, 
+                8, 
+                10, 
+                11
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 9, 
+            "nodeIndex": 9, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 2, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "260", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "270", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "280", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "290", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 3, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "300", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 4, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ], 
+            "talentNodeTypes": 0
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 3, 
+            "exclusiveSetHash": 0, 
+            "exlusiveWithNodes": [
+                7, 
+                8, 
+                9, 
+                11
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 10, 
+            "nodeIndex": 10, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 3, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "230", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "250", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "280", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "310", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 3, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "350", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 4, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ], 
+            "talentNodeTypes": 0
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 3, 
+            "exclusiveSetHash": 0, 
+            "exlusiveWithNodes": [
+                7, 
+                8, 
+                9, 
+                10
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 11, 
+            "nodeIndex": 11, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 4, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "430", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "440", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "450", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "470", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 3, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "490", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 4, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ], 
+            "talentNodeTypes": 0
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 4, 
+            "exclusiveSetHash": 0, 
+            "exlusiveWithNodes": [
+                13, 
+                14, 
+                15, 
+                16
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 12, 
+            "nodeIndex": 12, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 0, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "200", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "210", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "220", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "180", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 3, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "340", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 4, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ], 
+            "talentNodeTypes": 0
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 4, 
+            "exclusiveSetHash": 0, 
+            "exlusiveWithNodes": [
+                12, 
+                14, 
+                15, 
+                16
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 13, 
+            "nodeIndex": 13, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 1, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "360", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "390", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "400", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "420", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 3, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "380", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 4, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ], 
+            "talentNodeTypes": 0
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 4, 
+            "exclusiveSetHash": 0, 
+            "exlusiveWithNodes": [
+                12, 
+                13, 
+                15, 
+                16
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 14, 
+            "nodeIndex": 14, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 2, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "240", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "250", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "260", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "270", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 3, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "280", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 4, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ], 
+            "talentNodeTypes": 0
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 4, 
+            "exclusiveSetHash": 0, 
+            "exlusiveWithNodes": [
+                12, 
+                13, 
+                14, 
+                16
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 15, 
+            "nodeIndex": 15, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 3, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "190", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "220", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "230", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "250", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 3, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "270", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 4, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ], 
+            "talentNodeTypes": 0
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 4, 
+            "exclusiveSetHash": 0, 
+            "exlusiveWithNodes": [
+                12, 
+                13, 
+                14, 
+                15
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 16, 
+            "nodeIndex": 16, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 4, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "340", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "360", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "370", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "380", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 3, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "390", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 4, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ], 
+            "talentNodeTypes": 0
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 5, 
+            "exclusiveSetHash": 0, 
+            "exlusiveWithNodes": [
+                18, 
+                19, 
+                20, 
+                21
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 17, 
+            "nodeIndex": 17, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 0, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "90", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "120", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "130", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "140", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 3, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "160", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 4, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ], 
+            "talentNodeTypes": 0
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 5, 
+            "exclusiveSetHash": 0, 
+            "exlusiveWithNodes": [
+                17, 
+                19, 
+                20, 
+                21
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 18, 
+            "nodeIndex": 18, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 1, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "170", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "180", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "190", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "200", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 3, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "210", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 4, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ], 
+            "talentNodeTypes": 0
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 5, 
+            "exclusiveSetHash": 0, 
+            "exlusiveWithNodes": [
+                17, 
+                18, 
+                20, 
+                21
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 19, 
+            "nodeIndex": 19, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 2, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "70", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "100", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "110", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "240", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 3, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ], 
+            "talentNodeTypes": 0
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 5, 
+            "exclusiveSetHash": 0, 
+            "exlusiveWithNodes": [
+                17, 
+                18, 
+                19, 
+                21
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 20, 
+            "nodeIndex": 20, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 3, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "100", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "130", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "150", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "170", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 3, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "190", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 4, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ], 
+            "talentNodeTypes": 0
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 5, 
+            "exclusiveSetHash": 0, 
+            "exlusiveWithNodes": [
+                17, 
+                18, 
+                19, 
+                20
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 21, 
+            "nodeIndex": 21, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 4, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "80", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "90", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "110", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "120", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 3, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ], 
+            "talentNodeTypes": 0
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 6, 
+            "exclusiveSetHash": 0, 
+            "exlusiveWithNodes": [
+                23, 
+                24, 
+                25, 
+                26
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 22, 
+            "nodeIndex": 22, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 0, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "10", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "30", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "40", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ], 
+            "talentNodeTypes": 0
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 6, 
+            "exclusiveSetHash": 0, 
+            "exlusiveWithNodes": [
+                22, 
+                24, 
+                25, 
+                26
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 23, 
+            "nodeIndex": 23, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 1, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "50", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "60", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "80", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ], 
+            "talentNodeTypes": 0
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 6, 
+            "exclusiveSetHash": 0, 
+            "exlusiveWithNodes": [
+                22, 
+                23, 
+                25, 
+                26
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 24, 
+            "nodeIndex": 24, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 2, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "70", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "30", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/83118c5df2271b11f9212d5f4f0f99aa.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "20", 
+                    "nodeStepHash": 467063584, 
+                    "nodeStepName": "Base Capacitor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ], 
+            "talentNodeTypes": 0
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 6, 
+            "exclusiveSetHash": 0, 
+            "exlusiveWithNodes": [
+                22, 
+                23, 
+                24, 
+                26
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 25, 
+            "nodeIndex": 25, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 3, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "40", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "50", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "60", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ], 
+            "talentNodeTypes": 0
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 6, 
+            "exclusiveSetHash": 0, 
+            "exlusiveWithNodes": [
+                22, 
+                23, 
+                24, 
+                25
+            ], 
+            "isRandom": true, 
+            "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 26, 
+            "nodeIndex": 26, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomActivationRequirement": {
+                "gridLevel": 0
+            }, 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 4, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "20", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "30", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 1, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }, 
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/5e263c6ba890e80b23ad39656c4a3d63.png", 
+                    "isNextStepRandom": true, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "70", 
+                    "nodeStepHash": 1656542231, 
+                    "nodeStepName": "Base Resistor", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 2, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ], 
+            "talentNodeTypes": 0
+        }, 
+        {
+            "autoUnlocks": false, 
+            "binaryPairNodeIndex": -1, 
+            "column": 7, 
+            "exclusiveSetHash": 0, 
+            "exlusiveWithNodes": [], 
+            "isRandom": false, 
+            "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
+            "lastStepRepeats": false, 
+            "nodeHash": 27, 
+            "nodeIndex": 27, 
+            "originalNodeHash": 0, 
+            "prerequisiteNodeIndexes": [], 
+            "randomStartProgressionBarAtProgression": 0, 
+            "row": 4, 
+            "steps": [
+                {
+                    "activationRequirement": {
+                        "gridLevel": 0, 
+                        "materialRequirementHashes": []
+                    }, 
+                    "affectsLevel": false, 
+                    "affectsQuality": false, 
+                    "canActivateNextStep": false, 
+                    "damageType": 0, 
+                    "damageTypeHash": 0, 
+                    "icon": "/common/destiny_content/icons/968bede9fb972a4429b0b1d41eeac271.png", 
+                    "isNextStepRandom": false, 
+                    "nextStepIndex": -1, 
+                    "nodeStepDescription": "Monitoring external readings.\nSyphon protocols operational.\nInternal matrix varied.\nEqualization required.", 
+                    "nodeStepHash": 4074647653, 
+                    "nodeStepName": "COMPLEX EQUALIZER - (HT)", 
+                    "perkHashes": [], 
+                    "startProgressionBarAtProgress": 0, 
+                    "statHashes": [], 
+                    "stepIndex": 0, 
+                    "truePropertyIndex": 0, 
+                    "trueStepIndex": 0
+                }
+            ], 
+            "talentNodeTypes": 0
+        }
+    ], 
     "progressionHash": 0, 
     "redacted": false
 }

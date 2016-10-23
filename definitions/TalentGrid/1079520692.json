@@ -8,14 +8,17 @@
     "independentNodeIndexes": [], 
     "index": 0, 
     "maxGridLevel": 0, 
+    "maximumRandomMaterialRequirements": 0, 
     "nodes": [
         {
             "autoUnlocks": true, 
             "binaryPairNodeIndex": -1, 
             "column": 0, 
+            "exclusiveSetHash": 0, 
             "exlusiveWithNodes": [], 
             "isRandom": true, 
             "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
             "lastStepRepeats": false, 
             "nodeHash": 0, 
             "nodeIndex": 0, 
@@ -37,7 +40,7 @@
                     "canActivateNextStep": false, 
                     "damageType": 4, 
                     "damageTypeHash": 3454344768, 
-                    "icon": "/common/destiny_content/icons/994d4a1f90b47dd473a48406725277a2.png", 
+                    "icon": "/common/destiny_content/icons/af08985734385b60dbe1369031c7c132.png", 
                     "interactionDescription": "Reroll", 
                     "isNextStepRandom": true, 
                     "nextStepIndex": -1, 
@@ -70,7 +73,7 @@
                     "canActivateNextStep": false, 
                     "damageType": 3, 
                     "damageTypeHash": 1847026933, 
-                    "icon": "/common/destiny_content/icons/994d4a1f90b47dd473a48406725277a2.png", 
+                    "icon": "/common/destiny_content/icons/af08985734385b60dbe1369031c7c132.png", 
                     "interactionDescription": "Reroll", 
                     "isNextStepRandom": true, 
                     "nextStepIndex": -1, 
@@ -103,7 +106,7 @@
                     "canActivateNextStep": false, 
                     "damageType": 2, 
                     "damageTypeHash": 2303181850, 
-                    "icon": "/common/destiny_content/icons/994d4a1f90b47dd473a48406725277a2.png", 
+                    "icon": "/common/destiny_content/icons/af08985734385b60dbe1369031c7c132.png", 
                     "interactionDescription": "Reroll", 
                     "isNextStepRandom": true, 
                     "nextStepIndex": -1, 
@@ -126,7 +129,8 @@
                     "truePropertyIndex": 0, 
                     "trueStepIndex": 0
                 }
-            ]
+            ], 
+            "talentNodeTypes": 0
         }
     ], 
     "progressionHash": 0, 

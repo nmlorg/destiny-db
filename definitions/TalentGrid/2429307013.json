@@ -10,14 +10,17 @@
     ], 
     "index": 0, 
     "maxGridLevel": 0, 
+    "maximumRandomMaterialRequirements": 0, 
     "nodes": [
         {
             "autoUnlocks": true, 
             "binaryPairNodeIndex": -1, 
             "column": -1, 
+            "exclusiveSetHash": 0, 
             "exlusiveWithNodes": [], 
             "isRandom": true, 
             "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
             "lastStepRepeats": false, 
             "nodeHash": 0, 
             "nodeIndex": 0, 
@@ -113,15 +116,18 @@
                     "truePropertyIndex": 0, 
                     "trueStepIndex": 0
                 }
-            ]
+            ], 
+            "talentNodeTypes": 0
         }, 
         {
             "autoUnlocks": false, 
             "binaryPairNodeIndex": -1, 
             "column": 1, 
+            "exclusiveSetHash": 0, 
             "exlusiveWithNodes": [], 
             "isRandom": true, 
             "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
             "lastStepRepeats": false, 
             "nodeHash": 1, 
             "nodeIndex": 1, 
@@ -148,7 +154,7 @@
                     "canActivateNextStep": false, 
                     "damageType": 0, 
                     "damageTypeHash": 0, 
-                    "icon": "/common/destiny_content/icons/dc0581e6a13d1a466fa9e12051621f91.png", 
+                    "icon": "/common/destiny_content/icons/b1d29c2af3f76f8d94ad107a162a7323.png", 
                     "interactionDescription": "Reroll", 
                     "isNextStepRandom": true, 
                     "nextStepIndex": -1, 
@@ -186,7 +192,7 @@
                     "canActivateNextStep": false, 
                     "damageType": 0, 
                     "damageTypeHash": 0, 
-                    "icon": "/common/destiny_content/icons/a35304b5f1980f64f4d437ac64e0a3be.png", 
+                    "icon": "/common/destiny_content/icons/4392175883c8f81dfd14ea5e0c287a7f.png", 
                     "interactionDescription": "Reroll", 
                     "isNextStepRandom": true, 
                     "nextStepIndex": -1, 
@@ -224,7 +230,7 @@
                     "canActivateNextStep": false, 
                     "damageType": 0, 
                     "damageTypeHash": 0, 
-                    "icon": "/common/destiny_content/icons/968bab0ec0a991ea21ca03945eed402f.png", 
+                    "icon": "/common/destiny_content/icons/198da79b685d6155e137926b825eaacf.png", 
                     "interactionDescription": "Reroll", 
                     "isNextStepRandom": true, 
                     "nextStepIndex": -1, 
@@ -262,7 +268,7 @@
                     "canActivateNextStep": false, 
                     "damageType": 0, 
                     "damageTypeHash": 0, 
-                    "icon": "/common/destiny_content/icons/b3296c55175e2101738142abd54f6419.png", 
+                    "icon": "/common/destiny_content/icons/0d17d22957493c50e1b65a6f3b980f11.png", 
                     "interactionDescription": "Reroll", 
                     "isNextStepRandom": true, 
                     "nextStepIndex": -1, 
@@ -285,15 +291,18 @@
                     "truePropertyIndex": 0, 
                     "trueStepIndex": 0
                 }
-            ]
+            ], 
+            "talentNodeTypes": 0
         }, 
         {
             "autoUnlocks": true, 
             "binaryPairNodeIndex": -1, 
             "column": -1, 
+            "exclusiveSetHash": 0, 
             "exlusiveWithNodes": [], 
             "isRandom": true, 
             "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
             "lastStepRepeats": false, 
             "nodeHash": 2, 
             "nodeIndex": 2, 
@@ -365,7 +374,8 @@
                     "truePropertyIndex": 0, 
                     "trueStepIndex": 0
                 }
-            ]
+            ], 
+            "talentNodeTypes": 0
         }
     ], 
     "progressionHash": 1402705158, 

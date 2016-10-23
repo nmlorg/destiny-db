@@ -1,6 +1,13 @@
 {
     "actionName": "Stow", 
     "allowActions": true, 
+    "animations": [
+        {
+            "animIdentifier": "default", 
+            "animName": "###Animations.default###", 
+            "path": "/common/destiny_content/animations/destiny_player_animation_emote_jump_shot.js"
+        }
+    ], 
     "bountyResetUnlockHash": 0, 
     "bucketTypeHash": 3054419239, 
     "classType": 3, 
@@ -18,6 +25,7 @@
         }, 
         "customDyes": [], 
         "defaultDyes": [], 
+        "equipmentSlotHash": 3224618069, 
         "gearArtArrangementIndex": 4302, 
         "lockedDyes": [], 
         "weaponPatternHash": 0, 

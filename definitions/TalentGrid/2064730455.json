@@ -11,14 +11,17 @@
     ], 
     "index": 0, 
     "maxGridLevel": 0, 
+    "maximumRandomMaterialRequirements": 0, 
     "nodes": [
         {
             "autoUnlocks": true, 
             "binaryPairNodeIndex": -1, 
             "column": 0, 
+            "exclusiveSetHash": 0, 
             "exlusiveWithNodes": [], 
             "isRandom": false, 
             "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
             "lastStepRepeats": false, 
             "nodeHash": 0, 
             "nodeIndex": 0, 
@@ -37,7 +40,7 @@
                     "canActivateNextStep": false, 
                     "damageType": 0, 
                     "damageTypeHash": 0, 
-                    "icon": "/common/destiny_content/icons/e99697a98fbff76d57357cda3d1d5c43.png", 
+                    "icon": "/common/destiny_content/icons/493c4e984e5814b4d6dac1c1eaf48e3f.png", 
                     "isNextStepRandom": false, 
                     "nextStepIndex": -1, 
                     "nodeStepDescription": "Hold  to accelerate to higher speed.", 
@@ -52,15 +55,18 @@
                     "truePropertyIndex": 0, 
                     "trueStepIndex": 0
                 }
-            ]
+            ], 
+            "talentNodeTypes": 0
         }, 
         {
             "autoUnlocks": true, 
             "binaryPairNodeIndex": -1, 
             "column": 0, 
+            "exclusiveSetHash": 0, 
             "exlusiveWithNodes": [], 
             "isRandom": false, 
             "isRandomRepurchasable": false, 
+            "isRealStepSelectionRandom": false, 
             "lastStepRepeats": false, 
             "nodeHash": 1, 
             "nodeIndex": 1, 
@@ -79,7 +85,7 @@
                     "canActivateNextStep": false, 
                     "damageType": 0, 
                     "damageTypeHash": 0, 
-                    "icon": "/common/destiny_content/icons/4432790a320d72ee77db85e0b068e747.png", 
+                    "icon": "/common/destiny_content/icons/4f9465c881f6911529b28f657167c549.png", 
                     "isNextStepRandom": false, 
                     "nextStepIndex": -1, 
                     "nodeStepDescription": "Use  to brake and corner more aggressively.", 
@@ -94,7 +100,8 @@
                     "truePropertyIndex": 0, 
                     "trueStepIndex": 0
                 }
-            ]
+            ], 
+            "talentNodeTypes": 0
         }
     ], 
     "progressionHash": 0, 
