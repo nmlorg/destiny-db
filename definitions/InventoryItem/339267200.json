@@ -1,108 +1,36 @@
 {
-    "actionName": "Dismantle", 
-    "allowActions": true, 
+    "allowActions": false, 
     "bountyResetUnlockHash": 0, 
-    "bucketTypeHash": 3448274439, 
-    "classType": 3, 
-    "deleteOnAction": true, 
-    "equippable": true, 
-    "equippingBlock": {
-        "arrangements": [
-            {
-                "classHash": 0, 
-                "gearArtArrangementIndex": 3366
-            }
-        ], 
-        "customDyeExpression": {
-            "steps": [
-                {
-                    "flagHash": 1680320212, 
-                    "stepOperator": 1, 
-                    "value": 2310, 
-                    "valueHash": 0
-                }
-            ]
-        }, 
-        "customDyes": [], 
-        "defaultDyes": [], 
-        "equipmentSlotHash": 3448274439, 
-        "gearArtArrangementIndex": 3366, 
-        "lockedDyes": [
-            {
-                "channelHash": 662199250, 
-                "dyeHash": 641082116
-            }, 
-            {
-                "channelHash": 1367384683, 
-                "dyeHash": 4037554273
-            }, 
-            {
-                "channelHash": 218592586, 
-                "dyeHash": 1422877928
-            }
-        ], 
-        "weaponPatternHash": 0, 
-        "weaponSandboxPatternIndex": -1
-    }, 
+    "bucketTypeHash": 0, 
+    "classType": 0, 
+    "deleteOnAction": false, 
+    "equippable": false, 
     "exclusive": 0, 
-    "hasAction": true, 
-    "hasGeometry": true, 
-    "hasIcon": true, 
+    "hasAction": false, 
+    "hasGeometry": false, 
+    "hasIcon": false, 
     "hash": 339267200, 
-    "icon": "/common/destiny_content/icons/f73a2ca1b70d315fbe3ef5b3de0ab2bd.jpg", 
     "index": 0, 
-    "instanced": true, 
-    "itemCategoryHashes": [
-        55
-    ], 
-    "itemDescription": "Dismantles into 3 Silver Dust.", 
+    "instanced": false, 
+    "itemDescription": "###Destiny.CLASSIFIED_FOTL_2016_DESCRIPTION###", 
     "itemHash": 339267200, 
     "itemIndex": 0, 
-    "itemLevels": [
-        0
-    ], 
-    "itemName": "Eris Morn Mask", 
-    "itemSubType": 19, 
+    "itemName": "###Destiny.CLASSIFIED_FOTL_2016_NAME###", 
+    "itemSubType": 0, 
     "itemType": 0, 
-    "itemTypeName": "Mask", 
-    "maxStackSize": 1, 
+    "maxStackSize": 0, 
     "needsFullCompletion": false, 
     "nonTransferrable": false, 
-    "objectiveHashes": [], 
-    "perkHashes": [], 
     "primaryBaseStatHash": 0, 
-    "qualityLevel": 70, 
+    "qualityLevel": 0, 
     "questTrackingUnlockValueHash": 0, 
     "questlineItemHash": 0, 
     "redacted": false, 
     "rewardItemHash": 0, 
-    "secondaryIcon": "/img/misc/missing_icon.png", 
-    "setItemHashes": [], 
     "showActiveNodesInTooltip": false, 
-    "sourceHashes": [], 
-    "sources": [
-        {
-            "computedStats": {}, 
-            "exclusivity": 0, 
-            "expansionIndex": 0, 
-            "level": 0, 
-            "maxLevelRequired": 0, 
-            "maxQuality": 70, 
-            "minLevelRequired": 0, 
-            "minQuality": 70, 
-            "sourceHashes": [], 
-            "spawnIndexes": [
-                0
-            ]
-        }
-    ], 
     "specialItemType": 0, 
-    "statGroupHash": 1116828683, 
-    "stats": {}, 
-    "talentGridHash": 521135891, 
-    "tierType": 5, 
-    "tierTypeName": "Legendary", 
-    "tooltipStyle": "", 
-    "uniquenessHash": 2166136261, 
-    "values": {}
+    "statGroupHash": 0, 
+    "talentGridHash": 0, 
+    "tierType": 0, 
+    "uniquenessHash": 0
 }
