@@ -25,13 +25,16 @@
             "originalNodeHash": 0, 
             "prerequisiteNodeIndexes": [], 
             "randomActivationRequirement": {
-                "gridLevel": 0
+                "exclusiveSetRequiredHash": 0, 
+                "gridLevel": 0, 
+                "materialRequirementHashes": []
             }, 
             "randomStartProgressionBarAtProgression": 0, 
             "row": 1, 
             "steps": [
                 {
                     "activationRequirement": {
+                        "exclusiveSetRequiredHash": 0, 
                         "gridLevel": 0, 
                         "materialRequirementHashes": []
                     }, 
@@ -62,6 +65,7 @@
                 }, 
                 {
                     "activationRequirement": {
+                        "exclusiveSetRequiredHash": 0, 
                         "gridLevel": 0, 
                         "materialRequirementHashes": []
                     }, 
@@ -92,6 +96,7 @@
                 }, 
                 {
                     "activationRequirement": {
+                        "exclusiveSetRequiredHash": 0, 
                         "gridLevel": 0, 
                         "materialRequirementHashes": []
                     }, 
