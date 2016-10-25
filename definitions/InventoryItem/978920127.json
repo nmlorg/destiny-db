@@ -1,36 +1,92 @@
 {
-    "allowActions": false, 
+    "actionName": "Discard", 
+    "allowActions": true, 
     "bountyResetUnlockHash": 0, 
-    "bucketTypeHash": 0, 
-    "classType": 0, 
-    "deleteOnAction": false, 
-    "equippable": false, 
+    "bucketTypeHash": 2025709351, 
+    "classType": 3, 
+    "deleteOnAction": true, 
+    "equippable": true, 
+    "equippingBlock": {
+        "arrangements": [], 
+        "customDyeExpression": {
+            "steps": []
+        }, 
+        "customDyes": [], 
+        "defaultDyes": [], 
+        "equipmentSlotHash": 2025709351, 
+        "gearArtArrangementIndex": -1, 
+        "lockedDyes": [
+            {
+                "channelHash": 2025709351, 
+                "dyeHash": 1758310509
+            }
+        ], 
+        "weaponPatternHash": 2848858171, 
+        "weaponSandboxPatternIndex": 191
+    }, 
     "exclusive": 0, 
-    "hasAction": false, 
+    "hasAction": true, 
     "hasGeometry": false, 
-    "hasIcon": false, 
+    "hasIcon": true, 
     "hash": 978920127, 
+    "icon": "/common/destiny_content/icons/def647c36f5b11102e8184ca039356d1.jpg", 
     "index": 0, 
-    "instanced": false, 
-    "itemDescription": "###Destiny.CLASSIFIED_FOTL_2016_DESCRIPTION###", 
+    "instanced": true, 
+    "itemCategoryHashes": [
+        43, 
+        52
+    ], 
+    "itemDescription": "All sorts of things go missing during the Festival of the Lost.\n\nExpires at the end of the Festival of the Lost.", 
     "itemHash": 978920127, 
     "itemIndex": 0, 
-    "itemName": "###Destiny.CLASSIFIED_FOTL_2016_NAME###", 
+    "itemLevels": [], 
+    "itemName": "Lost Broom", 
     "itemSubType": 0, 
     "itemType": 0, 
-    "maxStackSize": 0, 
+    "itemTypeName": "Vehicle", 
+    "maxStackSize": 1, 
     "needsFullCompletion": false, 
     "nonTransferrable": false, 
-    "primaryBaseStatHash": 0, 
+    "objectiveHashes": [], 
+    "perkHashes": [], 
+    "primaryBaseStatHash": 1501155019, 
     "qualityLevel": 0, 
     "questTrackingUnlockValueHash": 0, 
     "questlineItemHash": 0, 
     "redacted": false, 
     "rewardItemHash": 0, 
+    "secondaryIcon": "/img/misc/missing_icon.png", 
+    "setItemHashes": [], 
     "showActiveNodesInTooltip": false, 
+    "sourceHashes": [
+        541934873
+    ], 
     "specialItemType": 0, 
-    "statGroupHash": 0, 
-    "talentGridHash": 0, 
-    "tierType": 0, 
-    "uniquenessHash": 0
+    "statGroupHash": 2025709351, 
+    "stats": {
+        "1501155019": {
+            "maximum": 0, 
+            "minimum": 0, 
+            "statHash": 1501155019, 
+            "value": 160
+        }, 
+        "3017642079": {
+            "maximum": 0, 
+            "minimum": 0, 
+            "statHash": 3017642079, 
+            "value": 35
+        }, 
+        "360359141": {
+            "maximum": 0, 
+            "minimum": 0, 
+            "statHash": 360359141, 
+            "value": 55
+        }
+    }, 
+    "talentGridHash": 3302606530, 
+    "tierType": 5, 
+    "tierTypeName": "Legendary", 
+    "tooltipStyle": "", 
+    "uniquenessHash": 2166136261, 
+    "values": {}
 }

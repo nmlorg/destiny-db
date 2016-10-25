@@ -1,36 +1,108 @@
 {
-    "allowActions": false, 
+    "actionName": "Dismantle", 
+    "allowActions": true, 
     "bountyResetUnlockHash": 0, 
-    "bucketTypeHash": 0, 
-    "classType": 0, 
-    "deleteOnAction": false, 
-    "equippable": false, 
+    "bucketTypeHash": 3448274439, 
+    "classType": 3, 
+    "deleteOnAction": true, 
+    "equippable": true, 
+    "equippingBlock": {
+        "arrangements": [
+            {
+                "classHash": 0, 
+                "gearArtArrangementIndex": 3362
+            }
+        ], 
+        "customDyeExpression": {
+            "steps": [
+                {
+                    "flagHash": 1680320212, 
+                    "stepOperator": 1, 
+                    "value": 2310, 
+                    "valueHash": 0
+                }
+            ]
+        }, 
+        "customDyes": [], 
+        "defaultDyes": [], 
+        "equipmentSlotHash": 3448274439, 
+        "gearArtArrangementIndex": 3362, 
+        "lockedDyes": [
+            {
+                "channelHash": 662199250, 
+                "dyeHash": 2334550879
+            }, 
+            {
+                "channelHash": 1367384683, 
+                "dyeHash": 4028156978
+            }, 
+            {
+                "channelHash": 218592586, 
+                "dyeHash": 333274553
+            }
+        ], 
+        "weaponPatternHash": 0, 
+        "weaponSandboxPatternIndex": -1
+    }, 
     "exclusive": 0, 
-    "hasAction": false, 
-    "hasGeometry": false, 
-    "hasIcon": false, 
+    "hasAction": true, 
+    "hasGeometry": true, 
+    "hasIcon": true, 
     "hash": 1959488411, 
+    "icon": "/common/destiny_content/icons/56fa341239e1876787428710bbc554e7.jpg", 
     "index": 0, 
-    "instanced": false, 
-    "itemDescription": "###Destiny.CLASSIFIED_FOTL_2016_DESCRIPTION###", 
+    "instanced": true, 
+    "itemCategoryHashes": [
+        55
+    ], 
+    "itemDescription": "Dismantles into 3 Silver Dust.", 
     "itemHash": 1959488411, 
     "itemIndex": 0, 
-    "itemName": "###Destiny.CLASSIFIED_FOTL_2016_NAME###", 
-    "itemSubType": 0, 
+    "itemLevels": [
+        0
+    ], 
+    "itemName": "Oryx Mask", 
+    "itemSubType": 19, 
     "itemType": 0, 
-    "maxStackSize": 0, 
+    "itemTypeName": "Mask", 
+    "maxStackSize": 1, 
     "needsFullCompletion": false, 
     "nonTransferrable": false, 
+    "objectiveHashes": [], 
+    "perkHashes": [], 
     "primaryBaseStatHash": 0, 
-    "qualityLevel": 0, 
+    "qualityLevel": 70, 
     "questTrackingUnlockValueHash": 0, 
     "questlineItemHash": 0, 
     "redacted": false, 
     "rewardItemHash": 0, 
+    "secondaryIcon": "/img/misc/missing_icon.png", 
+    "setItemHashes": [], 
     "showActiveNodesInTooltip": false, 
+    "sourceHashes": [], 
+    "sources": [
+        {
+            "computedStats": {}, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 0, 
+            "maxLevelRequired": 0, 
+            "maxQuality": 70, 
+            "minLevelRequired": 0, 
+            "minQuality": 70, 
+            "sourceHashes": [], 
+            "spawnIndexes": [
+                0
+            ]
+        }
+    ], 
     "specialItemType": 0, 
-    "statGroupHash": 0, 
-    "talentGridHash": 0, 
-    "tierType": 0, 
-    "uniquenessHash": 0
+    "statGroupHash": 1116828683, 
+    "stats": {}, 
+    "talentGridHash": 521135891, 
+    "tierType": 5, 
+    "tierTypeName": "Legendary", 
+    "tooltipStyle": "", 
+    "uniquenessHash": 2166136261, 
+    "values": {}
 }
