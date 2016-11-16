@@ -1,36 +1,92 @@
 {
-    "allowActions": false, 
+    "actionName": "Delete", 
+    "allowActions": true, 
     "bountyResetUnlockHash": 0, 
-    "bucketTypeHash": 0, 
-    "classType": 0, 
-    "deleteOnAction": false, 
-    "equippable": false, 
+    "bucketTypeHash": 2973005342, 
+    "classType": 3, 
+    "deleteOnAction": true, 
+    "equippable": true, 
+    "equippingBlock": {
+        "arrangements": [], 
+        "customDyeExpression": {
+            "steps": []
+        }, 
+        "customDyes": [
+            {
+                "channelHash": 662199250, 
+                "dyeHash": 3093050961
+            }, 
+            {
+                "channelHash": 218592586, 
+                "dyeHash": 2112151311
+            }, 
+            {
+                "channelHash": 1367384683, 
+                "dyeHash": 2779699344
+            }
+        ], 
+        "defaultDyes": [], 
+        "equipmentSlotHash": 2973005342, 
+        "gearArtArrangementIndex": -1, 
+        "lockedDyes": [], 
+        "weaponPatternHash": 0, 
+        "weaponSandboxPatternIndex": -1
+    }, 
     "exclusive": 0, 
-    "hasAction": false, 
+    "hasAction": true, 
     "hasGeometry": false, 
-    "hasIcon": false, 
+    "hasIcon": true, 
     "hash": 1759332262, 
+    "icon": "/common/destiny_content/icons/9cc379ce61edc87406ef5c57a79d6a9b.jpg", 
     "index": 0, 
-    "instanced": false, 
-    "itemDescription": "Obtain this Quest in Destiny to learn more.", 
+    "instanced": true, 
+    "itemCategoryHashes": [
+        41, 
+        52
+    ], 
+    "itemDescription": "Equip this shader to change the color of your armor.", 
     "itemHash": 1759332262, 
     "itemIndex": 0, 
-    "itemName": "Classified", 
+    "itemLevels": [], 
+    "itemName": "Superblack", 
     "itemSubType": 0, 
     "itemType": 0, 
-    "maxStackSize": 0, 
+    "itemTypeName": "Armor Shader", 
+    "maxStackSize": 1, 
     "needsFullCompletion": false, 
     "nonTransferrable": false, 
+    "objectiveHashes": [], 
+    "perkHashes": [], 
     "primaryBaseStatHash": 0, 
     "qualityLevel": 0, 
     "questTrackingUnlockValueHash": 0, 
     "questlineItemHash": 0, 
     "redacted": false, 
     "rewardItemHash": 0, 
+    "secondaryIcon": "/img/misc/missing_icon.png", 
+    "setItemHashes": [], 
     "showActiveNodesInTooltip": false, 
+    "sourceHashes": [], 
+    "sources": [
+        {
+            "computedStats": {}, 
+            "exclusivity": 0, 
+            "expansionIndex": 0, 
+            "level": 0, 
+            "maxLevelRequired": 0, 
+            "maxQuality": 0, 
+            "minLevelRequired": 0, 
+            "minQuality": 0, 
+            "sourceHashes": []
+        }
+    ], 
     "specialItemType": 0, 
     "statGroupHash": 0, 
-    "talentGridHash": 0, 
-    "tierType": 0, 
-    "uniquenessHash": 0
+    "stats": {}, 
+    "talentGridHash": 1245368945, 
+    "tierType": 5, 
+    "tierTypeName": "Legendary", 
+    "tooltipStyle": "", 
+    "uniquenessHash": 2166136261, 
+    "values": {}
 }
